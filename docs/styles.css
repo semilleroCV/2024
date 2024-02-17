@@ -1,6 +1,8 @@
     @import url('https://fonts.googleapis.com/css2?family=Honk&family=Reem+Kufi+Ink&display=swap');
 
-
+    .navbar-logo{
+        max-height: 50px !important;
+    }
 
     * {
         overflow-x: hidden;
