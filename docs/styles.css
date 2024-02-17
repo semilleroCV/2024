@@ -1,0 +1,353 @@
+    @import url('https://fonts.googleapis.com/css2?family=Honk&family=Reem+Kufi+Ink&display=swap');
+
+
+
+    * {
+        overflow-x: hidden;
+    }
+
+    h1 {
+        overflow-y: hidden;
+    }
+
+    h2 {
+        border-bottom: 0px !important;
+    }
+
+    small {
+        font-weight: lighter;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    main {
+
+        margin-top: 0px !important;
+        overflow-y: hidden;
+
+    }
+
+    img {
+        border-radius: 10px;
+    }
+
+    img:hover {
+        opacity: 1;
+        -webkit-animation: flash 1s;
+        animation: flash 1s;
+
+    }
+
+    @-webkit-keyframes flash {
+        0% {
+            opacity: .4;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @keyframes flash {
+        0% {
+            opacity: .4;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .join {
+        background-color: #f7f7f7;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    .join h3 {
+        color: #00827F;
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .join p {
+        color: #333;
+        font-size: 18px;
+        line-height: 1.6;
+    }
+
+    .upcoming-sessions {
+        border-collapse: collapse;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+    }
+
+    .upcoming-sessions h3 {
+        text-align: center;
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .upcoming-sessions table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        border-radius: 10px;
+        overflow: hidden;
+        border-style: hidden;
+    }
+
+    .upcoming-sessions th {
+        background-color: #00827F;
+        color: #f2f2f2;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    thead {
+        background-color: #00827F;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tbody tr:nth-child(odd) {
+        background-color: #e1e1e1;
+    }
+
+    td {
+        padding: 10px 15px;
+        border: 1px solid #ddd;
+        text-align: center;
+    }
+
+    th {
+        padding: 12px 15px;
+        border: 1px solid #ddd;
+        background-color: #f2f2f2;
+        text-align: center;
+    }
+
+    tbody tr:hover {
+        background-color: #CFECEC;
+    }
+
+    .join {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .deadline {
+        border: groove red;
+        width: 40%;
+        margin: 0 auto;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+        display: flex;
+        justify-content: center;
+    }
+
+    .button {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        background-color: #00827F;
+        color: white;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    .button:hover {
+        background-color: #005E5A;
+        color: white;
+    }
+
+    .professor-section {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 20px;
+        text-align: justify;
+        margin-bottom: 50px;
+    }
+
+
+    .professor-image {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 50%;
+        margin-right: 20px;
+
+    }
+
+    .student-image {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 50%;
+        margin-right: 20px;
+
+    }
+
+    .professor-description {
+        max-width: 800px;
+        flex-grow: 1;
+    }
+
+    .student-description {
+        width: 327px;
+        flex-grow: 1;
+    }
+
+    .student-section {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        overflow-x: hidden;
+
+    }
+
+    .student-container {
+        width: 330px;
+        margin: 15px;
+        text-align: center;
+        overflow-x: hidden;
+
+    }
+
+    .imagecarousel {
+        position: relative;
+        height: 250px;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        width: 8000px;
+
+    }
+
+    .imagecarousel img {
+        margin: 0px 5px;
+        box-shadow: 2px 2px 8px #8a8a8a;
+    }
+
+    .imagecarousel {
+        animation: bannermove 10s linear infinite;
+
+    }
+
+    @keyframes bannermove {
+        0% {
+            left: 0;
+        }
+
+        50% {
+            left: -80%;
+        }
+
+        100% {
+            left: 0;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .imagecarousel img {
+            margin: 0px 5px;
+            /* Adjust the margin as needed */
+            box-shadow: 2px 2px 8px #8a8a8a;
+        }
+
+        .imagecarousel {
+            position: relative;
+            height: 130px;
+            display: flex;
+            width: 920px;
+            animation: bannermove 15s linear infinite;
+        }
+    }
+
+    .fixedButton {
+        position: fixed;
+        border-radius: 50%;
+        bottom: 0px;
+        right: 0px;
+        margin: 10px;
+        margin-right: 37px;
+        width: 75px;
+        height: 78px;
+        padding: 8px;
+        background-color: #2522FC;
+        overflow-y: hidden;
+    }
+
+    .roundedFixedBtn {
+        cursor: pointer;
+        overflow-y: hidden;
+        width: 60px;
+        height: 64px;
+        border-radius: 50%;
+    }
+
+    .modalButton {
+        position: fixed;
+        bottom: 0px;
+        right: 0px;
+        margin-bottom: 100px;
+        margin-right: 20px;
+        border: 2px solid #333;
+        color: #000000;
+        font-size: medium;
+        font-weight: bold;
+        border-radius: 10px;
+        padding: 5px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        overflow-y: hidden;
+        background-color: rgba(255,255, 255, 0.8);
+    }
+
+    .triangleIcon {
+        position: fixed;
+        bottom: 90px; /* Ajusta según sea necesario */
+        right: 63px; /* Ajusta según sea necesario */
+        border-left: 12px solid transparent;
+        border-right: 12px solid transparent;
+        border-top: 12px solid rgb(0, 0, 0);
+    }
+    
+
+
+    @media (max-width: 768px) {
+        .fixedButton {
+            margin-bottom: 15px;
+            margin-right: 4px;
+            width: 57px;
+            height: 62px;
+            padding: 5px;
+
+        }
+
+        .roundedFixedBtn {
+            width: 47px;
+            height: 50px;
+        }
+
+        .modalButton {
+            display: none;
+        }
+
+        .triangleIcon {
+            display: none;
+        }
+    }
