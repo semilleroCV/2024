@@ -132,11 +132,44 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion3.html",
-    "href": "Sesiones/sesion3.html",
+    "objectID": "Sesiones/sesion3.html#temas-a-tratar",
+    "href": "Sesiones/sesion3.html#temas-a-tratar",
     "title": "Imagenes espectrales",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "section": "temas a tratar",
+    "text": "temas a tratar\n\nxxxx\nxxxx\nxxxx\nxxxx",
+    "crumbs": [
+      "Inicio",
+      "Imagenes espectrales"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion3.html#slides",
+    "href": "Sesiones/sesion3.html#slides",
+    "title": "Imagenes espectrales",
+    "section": "slides",
+    "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
+    "crumbs": [
+      "Inicio",
+      "Imagenes espectrales"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion3.html#ejercicios",
+    "href": "Sesiones/sesion3.html#ejercicios",
+    "title": "Imagenes espectrales",
+    "section": "Ejercicios",
+    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
+    "crumbs": [
+      "Inicio",
+      "Imagenes espectrales"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion3.html#recursos",
+    "href": "Sesiones/sesion3.html#recursos",
+    "title": "Imagenes espectrales",
+    "section": "Recursos",
+    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
     "crumbs": [
       "Inicio",
       "Imagenes espectrales"
@@ -239,28 +272,6 @@
     "title": "Piloto",
     "section": "slides",
     "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
-    "crumbs": [
-      "Inicio",
-      "Piloto"
-    ]
-  },
-  {
-    "objectID": "Sesiones/sesion1.html#ejercicios",
-    "href": "Sesiones/sesion1.html#ejercicios",
-    "title": "Piloto",
-    "section": "Ejercicios",
-    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
-    "crumbs": [
-      "Inicio",
-      "Piloto"
-    ]
-  },
-  {
-    "objectID": "Sesiones/sesion1.html#recursos",
-    "href": "Sesiones/sesion1.html#recursos",
-    "title": "Piloto",
-    "section": "Recursos",
-    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
     "crumbs": [
       "Inicio",
       "Piloto"

@@ -103,7 +103,7 @@ format:
         ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros.
     </p>
     <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de febrero de 2024</p> 
-    <a class="button" href="typeform.com">Inscribirse Ahora</a>
+    <a class="button" href="https://rqm1zv23ond.typeform.com/to/Q4oPnCK6">Inscribirse Ahora</a>
 </section>
 
 <h2>Realizado por:</h2>

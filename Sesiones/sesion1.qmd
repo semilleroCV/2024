@@ -18,7 +18,7 @@ En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nu
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia xx a las xx en el salon xx
+Esta sesion se realizara el dia 4 de marzo a las 4:00pm en el salon xx
 :::
 
 ## temas a tratar
@@ -30,25 +30,6 @@ Esta sesion se realizara el dia xx a las xx en el salon xx
 
 ## slides
 
-
 Los slides de esta sesion se encuentran en el siguiente enlace:
 [Descargar](../slides/sesion1.pdf)
 
-## Ejercicios
-
-En esta sesion, se realizara los siguientes ejercicios:
-
-1. [Ejercicio 1](../ejercicios/ejercicio1.md) resolver xx
-2. [Ejercicio 2](../ejercicios/ejercicio2.md) resolver xx
-
-::: {.callout-warning}
-## fecha limite
-
-La fecha limite para entregar los ejercicios es el dia xx
-:::
-
-## Recursos
-
-* [Recurso 1](../recursos/recurso1.md)
-* [Recurso 2](../recursos/recurso2.md)
-* [Recurso 3](../recursos/recurso3.md)
