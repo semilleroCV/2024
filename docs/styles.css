@@ -210,15 +210,17 @@
     }
 
     .student-description {
-        width: 327px;
+        width: 20rem;
         flex-grow: 1;
     }
 
+    
     .student-section {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         overflow-x: hidden;
+
 
     }
 
