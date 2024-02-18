@@ -20,8 +20,8 @@ Prepárate para sumergirte en sesiones interactivas y prácticas donde explorare
 - Procesamiento de imágenes **RGB+D** para la comprensión de escenas y navegación.
 - Uso de **Lidar/ToF** para rangos de medición.
 - **Imágenes térmicas** y sus aplicaciones.
-- Desarrollo de software para productos basados en **Apple**, utilizando sensores integrados.
-- **TinyML**: implementación de ML en hardware como Arduino/Raspberry PI.
+- Desarrollo de software con inteligencia artificial para dispositivos.
+- **TinyML**: implementación de ML en hardware como Arduino.
 - Procesamiento de imágenes en la **web**.
 
 Cada sesión está diseñada para construir una base sólida y avanzar hacia temas más complejos, garantizando un aprendizaje integral y práctico.
@@ -30,9 +30,8 @@ Cada sesión está diseñada para construir una base sólida y avanzar hacia tem
 
 Vamos a utilizar tecnologías y herramientas de vanguardia, incluyendo:
 
-- **Librerías y lenguajes**: OpenCV, Python, Swift, y más.
+- **Librerías y lenguajes**: OpenCV, Python, arduino, flutter y más.
 - **Plataformas colaborativas** como GitHub y Colab para un aprendizaje interactivo y colaborativo.
-- **Kaggle** y otras plataformas para retos y competencias emocionantes.
 
 ## Proyecto Incremental
 

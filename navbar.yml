@@ -1,4 +1,5 @@
 website:
+  favicon: logo.png
   navbar:
     logo: "logo.png"
     background: "#00827F"

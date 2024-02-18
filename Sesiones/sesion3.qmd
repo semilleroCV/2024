@@ -1,23 +1,52 @@
 ---
-title: Estimacion *pasiva* de la profundidad
+title: Imagenes espectrales
 
 ---
-<style>* {overflow: visible;}</style>
+<style>* {overflow: visible;}     h2{
+        border-bottom: 1px solid #dee2e6 !important;
+    }
+    </style>
 
-::: {layout="[30,70]"}
+::: {layout="[35,65]"}
 
-![](../images/sesion1.png)
+![](../images/sesiones/sesion1.jpg)
 
-In this session, we're diving straight into the core of image formation – within the first few moments, you'll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.
-
+En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan
 :::
-
-
-
-[slides de la sesion*](github.com)
 
 :::{.callout-tip}
-## New!
-
-Esta sesion se realizara el dia xx a las xx
+## aviso!!
+Esta sesion se realizara el dia xx a las xx en el salon xx
 :::
+
+## temas a tratar
+
+* xxxx
+* xxxx
+* xxxx
+* xxxx
+
+## slides
+
+
+Los slides de esta sesion se encuentran en el siguiente enlace:
+[Descargar](../slides/sesion1.pdf)
+
+## Ejercicios
+
+En esta sesion, se realizara los siguientes ejercicios:
+
+1. [Ejercicio 1](../ejercicios/ejercicio1.md) resolver xx
+2. [Ejercicio 2](../ejercicios/ejercicio2.md) resolver xx
+
+::: {.callout-warning}
+## fecha limite
+
+La fecha limite para entregar los ejercicios es el dia xx
+:::
+
+## Recursos
+
+* [Recurso 1](../recursos/recurso1.md)
+* [Recurso 2](../recursos/recurso2.md)
+* [Recurso 3](../recursos/recurso3.md)

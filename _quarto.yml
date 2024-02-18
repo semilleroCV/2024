@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-
+pagetitle: "CV"
 website:
   repo-url: https://github.com/SemilleroCI/semillero
   repo-actions: [edit, issue]
@@ -14,11 +14,10 @@ website:
       
     center:
       - text: "Github"
-        href: github.com
+        href: https://github.com/semilleroCV
       - text: "Instagram"
-        href: Instagram.com
-      - text: "FAQ"
-        href: faq.qmd
+        href: https://www.instagram.com/handsoncv/
+
 
     right:  © 2024 Hands-on Computer Vision. Todos los derechos reservados. 
   

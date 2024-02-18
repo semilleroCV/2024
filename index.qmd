@@ -42,54 +42,54 @@ format:
         </thead>
         <tbody>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 1</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">1 piloto</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Todos</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 4</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion1.html">Piloto</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Esta sesion es introductoria del topico en general </td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 2</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">2 generalidades imágenes</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><span style="color: red;">Hoover</span></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 11</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion2.html">Generalidades imágenes</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">desde píxeles hasta el procesamiento digital</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 3</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">3 espectral</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><span style="color: red;">Cristian y Miguel</span></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 18</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion3.html">Imagenes Espectrales</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Desvela los secretos del mundo invisible</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 4</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">4 depth pasivo</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><span style="color: red;">Ramiro y Miguel</span></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 1</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion4.html">Depth pasivo</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Explora la profundidad sin contacto</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 5</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">5 depth activo</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><span style="color: red;">Ramiro y Hoover</span></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 8</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion5.html">Depth activo</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Profundidad con precisión milimétrica</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 6</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">6 deep learning crash => projects definition</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><span style="color: red;">Fabian y Hoover</span></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 15</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion6.html">Deep Learning</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Despierta el poder de la inteligencia artificial en la visión por computadora</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 7</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">7 segmentación</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><span style="color: red;">Fabian y Cristian</span></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 22</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion7.html">Segmentación</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Un mundo de píxeles clasificados</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 8</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">8 thermal imaging</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><span style="color: red;">Oscar y Hoover</span></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 29</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion8.html">Imagenes termicas</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">El mundo a traves del calor</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 9</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">9 tinyml</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><span style="color: red;">Fabian y Oscar</span></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Mayo 6</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion4.html">Tinyml</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Un mundo de posibilidades en miniatura</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Sesión 10</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">10 projects</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Mayo 13</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion10.html">Proyectos</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Desafía tus habilidades</td>
             </tr>
         </tbody>
     </table>
@@ -102,8 +102,8 @@ format:
     <p>
         ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros.
     </p>
-    <p style="color: red" class="deadline">Fecha límite de inscripción: 31 de marzo de 2024</p> 
-    <a class="button" href="inscripcion.qmd">Inscribirse Ahora</a>
+    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de febrero de 2024</p> 
+    <a class="button" href="typeform.com">Inscribirse Ahora</a>
 </section>
 
 <h2>Realizado por:</h2>
@@ -149,7 +149,7 @@ format:
     <section class="student-container">
         <img src="/images/oscar.jpg" alt="" class="student-image">
         <section class="student-description">
-            <h3>Oscar</h3>
+            <h3>Oscar Torrens</h3>
             <p>Estudiante de Ingenieria de Sistemas e Informática</p>
         </section>
     </section>
@@ -165,5 +165,5 @@ format:
 
 </main>
 <footer>
-    <small>Para consultas, contacta a <a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hfarueda@uis.edu.co">hfarueda@uis.edu.co</a>.</small>
+    <small>Para consultas, contacta a <a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=Handsoncvs@gmail.com">handsoncvs@gmail.com</a>.</small>
 </footer>

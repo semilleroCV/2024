@@ -1,5 +1,221 @@
 [
   {
+    "objectID": "Sesiones/sesion9.html#temas-a-tratar",
+    "href": "Sesiones/sesion9.html#temas-a-tratar",
+    "title": "TinyML",
+    "section": "temas a tratar",
+    "text": "temas a tratar\n\nxxxx\nxxxx\nxxxx\nxxxx",
+    "crumbs": [
+      "Inicio",
+      "TinyML"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion9.html#slides",
+    "href": "Sesiones/sesion9.html#slides",
+    "title": "TinyML",
+    "section": "slides",
+    "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
+    "crumbs": [
+      "Inicio",
+      "TinyML"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion9.html#ejercicios",
+    "href": "Sesiones/sesion9.html#ejercicios",
+    "title": "TinyML",
+    "section": "Ejercicios",
+    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
+    "crumbs": [
+      "Inicio",
+      "TinyML"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion9.html#recursos",
+    "href": "Sesiones/sesion9.html#recursos",
+    "title": "TinyML",
+    "section": "Recursos",
+    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
+    "crumbs": [
+      "Inicio",
+      "TinyML"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion7.html#temas-a-tratar",
+    "href": "Sesiones/sesion7.html#temas-a-tratar",
+    "title": "Segmentacion",
+    "section": "temas a tratar",
+    "text": "temas a tratar\n\nxxxx\nxxxx\nxxxx\nxxxx",
+    "crumbs": [
+      "Inicio",
+      "Segmentacion"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion7.html#slides",
+    "href": "Sesiones/sesion7.html#slides",
+    "title": "Segmentacion",
+    "section": "slides",
+    "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
+    "crumbs": [
+      "Inicio",
+      "Segmentacion"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion7.html#ejercicios",
+    "href": "Sesiones/sesion7.html#ejercicios",
+    "title": "Segmentacion",
+    "section": "Ejercicios",
+    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
+    "crumbs": [
+      "Inicio",
+      "Segmentacion"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion7.html#recursos",
+    "href": "Sesiones/sesion7.html#recursos",
+    "title": "Segmentacion",
+    "section": "Recursos",
+    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
+    "crumbs": [
+      "Inicio",
+      "Segmentacion"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion5.html#temas-a-tratar",
+    "href": "Sesiones/sesion5.html#temas-a-tratar",
+    "title": "Estimacion activa de la profundidad",
+    "section": "temas a tratar",
+    "text": "temas a tratar\n\nxxxx\nxxxx\nxxxx\nxxxx",
+    "crumbs": [
+      "Inicio",
+      "Estimacion *activa* de la profundidad"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion5.html#slides",
+    "href": "Sesiones/sesion5.html#slides",
+    "title": "Estimacion activa de la profundidad",
+    "section": "slides",
+    "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
+    "crumbs": [
+      "Inicio",
+      "Estimacion *activa* de la profundidad"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion5.html#ejercicios",
+    "href": "Sesiones/sesion5.html#ejercicios",
+    "title": "Estimacion activa de la profundidad",
+    "section": "Ejercicios",
+    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
+    "crumbs": [
+      "Inicio",
+      "Estimacion *activa* de la profundidad"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion5.html#recursos",
+    "href": "Sesiones/sesion5.html#recursos",
+    "title": "Estimacion activa de la profundidad",
+    "section": "Recursos",
+    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
+    "crumbs": [
+      "Inicio",
+      "Estimacion *activa* de la profundidad"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion3.html",
+    "href": "Sesiones/sesion3.html",
+    "title": "Imagenes espectrales",
+    "section": "",
+    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "crumbs": [
+      "Inicio",
+      "Imagenes espectrales"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion10.html",
+    "href": "Sesiones/sesion10.html",
+    "title": "Proyectos / Posters",
+    "section": "",
+    "text": "En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan\n\n\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
+    "crumbs": [
+      "Inicio",
+      "Proyectos / Posters"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nSemillero  Hands-on   Computer Vision\n",
+    "section": "",
+    "text": "Semillero  Hands-on   Computer Vision\n\n\n\n\n \n \n\n\n\n\nExplora el Futuro de la Visión por Computadora\n\n\nÚnete a nosotros en el Semillero “Hands-on Computer Vision” y sumérgete en una experiencia única que fusiona la teoría con la práctica en el fascinante mundo de la visión por computadora. Enfocándonos en temas avanzados como Computational Imaging, Thermal Imaging, Spectral Imaging, Depth, y más, este semillero te brindará la oportunidad de adentrarte en las tecnologías de vanguardia, utilizando herramientas como OpenCV y Python.\n\n\n\n\nCronograma\n\n\n\n\n\nFecha\n\n\nTítulo\n\n\nDescripción\n\n\n\n\n\n\nMarzo 4\n\n\nPiloto\n\n\nEsta sesion es introductoria del topico en general\n\n\n\n\nMarzo 11\n\n\nGeneralidades imágenes\n\n\ndesde píxeles hasta el procesamiento digital\n\n\n\n\nMarzo 18\n\n\nImagenes Espectrales\n\n\nDesvela los secretos del mundo invisible\n\n\n\n\nAbril 1\n\n\nDepth pasivo\n\n\nExplora la profundidad sin contacto\n\n\n\n\nAbril 8\n\n\nDepth activo\n\n\nProfundidad con precisión milimétrica\n\n\n\n\nAbril 15\n\n\nDeep Learning\n\n\nDespierta el poder de la inteligencia artificial en la visión por computadora\n\n\n\n\nAbril 22\n\n\nSegmentación\n\n\nUn mundo de píxeles clasificados\n\n\n\n\nAbril 29\n\n\nImagenes termicas\n\n\nEl mundo a traves del calor\n\n\n\n\nMayo 6\n\n\nTinyml\n\n\nUn mundo de posibilidades en miniatura\n\n\n\n\nMayo 13\n\n\nProyectos\n\n\nDesafía tus habilidades\n\n\n\n\n\n\n\nParticipa en el Semillero\n\n\n¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros.\n\n\nFecha límite de inscripción: 1 de febrero de 2024\n\nInscribirse Ahora\n\n\nRealizado por:\n\n\n\n\n\nHoover Fabian Rueda Chacón\n\n\nIngeniero de Sistemas e Informática, con maestría y doctorado en Ingeniería Eléctrica y Computación. Realizó su formación en Colombia y EE. UU., siendo Asociado Postdoctoral en la Universidad de Boston. Sus áreas de investigación incluyen procesamiento de imágenes, algoritmos, óptica computacional y optimización numérica.\n\n\n\n\n\n\n\n\nNelson Fabian Pérez Pérez\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n\n\nCristhian Camilo Rey Rueda\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n\n\nRamiro Santiago Ávila Chacón\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n\n\nMiguel Ángel Molina Garzón\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n\n\nOscar Torrens\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n! Unete al canal de Discord !\n\n\n\n\n  \n\n\n\n\nPara consultas, contacta a handsoncvs@gmail.com."
+  },
+  {
+    "objectID": "curso.html",
+    "href": "curso.html",
+    "title": "Semillero “Hands-on Computer Vision”",
+    "section": "",
+    "text": "Bienvenido al semillero Hands-on Computer Vision, un viaje emocionante y práctico a través del vasto mundo de la visión por computadora y el procesamiento de imágenes. Aquí, no solo aprenderás los conceptos teóricos, sino que también tendrás la oportunidad de aplicarlos en proyectos reales y desafiantes.",
+    "crumbs": [
+      "Inicio",
+      "Semillero \"Hands-on Computer Vision\""
+    ]
+  },
+  {
+    "objectID": "curso.html#qué-te-espera",
+    "href": "curso.html#qué-te-espera",
+    "title": "Semillero “Hands-on Computer Vision”",
+    "section": "¿Qué te espera?",
+    "text": "¿Qué te espera?\nPrepárate para sumergirte en sesiones interactivas y prácticas donde exploraremos temas como:\n\nSegmentación de imágenes basada en propiedades de los materiales.\nProcesamiento de imágenes RGB+D para la comprensión de escenas y navegación.\nUso de Lidar/ToF para rangos de medición.\nImágenes térmicas y sus aplicaciones.\nDesarrollo de software con inteligencia artificial para dispositivos.\nTinyML: implementación de ML en hardware como Arduino.\nProcesamiento de imágenes en la web.\n\nCada sesión está diseñada para construir una base sólida y avanzar hacia temas más complejos, garantizando un aprendizaje integral y práctico.",
+    "crumbs": [
+      "Inicio",
+      "Semillero \"Hands-on Computer Vision\""
+    ]
+  },
+  {
+    "objectID": "curso.html#herramientas-y-tecnologías",
+    "href": "curso.html#herramientas-y-tecnologías",
+    "title": "Semillero “Hands-on Computer Vision”",
+    "section": "Herramientas y Tecnologías",
+    "text": "Herramientas y Tecnologías\nVamos a utilizar tecnologías y herramientas de vanguardia, incluyendo:\n\nLibrerías y lenguajes: OpenCV, Python, arduino, flutter y más.\nPlataformas colaborativas como GitHub y Colab para un aprendizaje interactivo y colaborativo.",
+    "crumbs": [
+      "Inicio",
+      "Semillero \"Hands-on Computer Vision\""
+    ]
+  },
+  {
+    "objectID": "curso.html#proyecto-incremental",
+    "href": "curso.html#proyecto-incremental",
+    "title": "Semillero “Hands-on Computer Vision”",
+    "section": "Proyecto Incremental",
+    "text": "Proyecto Incremental\nA lo largo del semillero, trabajarás en un proyecto incremental, donde cada sesión contribuirá a un proyecto final completo y funcional. Este enfoque práctico garantiza que no solo aprendas los conceptos, sino que también ganes experiencia práctica aplicándolos.",
+    "crumbs": [
+      "Inicio",
+      "Semillero \"Hands-on Computer Vision\""
+    ]
+  },
+  {
+    "objectID": "curso.html#únete-a-nosotros",
+    "href": "curso.html#únete-a-nosotros",
+    "title": "Semillero “Hands-on Computer Vision”",
+    "section": "Únete a Nosotros",
+    "text": "Únete a Nosotros\n¿Listo para embarcarte en esta aventura de aprendizaje y descubrimiento? Sigue navegando por nuestro sitio web para obtener más detalles sobre cada sesión y cómo puedes inscribirte.\n¡Estamos emocionados de tenerte a bordo y no podemos esperar para ver lo que crearemos juntos en el mundo de la visión por computadora!\n\n¡Sigue explorando y preparándote para una experiencia de aprendizaje única en el semillero “Hands-on Computer Vision”!",
+    "crumbs": [
+      "Inicio",
+      "Semillero \"Hands-on Computer Vision\""
+    ]
+  },
+  {
     "objectID": "galeria.html",
     "href": "galeria.html",
     "title": "Hands-on Computer Vision",
@@ -51,161 +267,176 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion9.html",
-    "href": "Sesiones/sesion9.html",
-    "title": "TinyML",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
-    "crumbs": [
-      "Inicio",
-      "TinyML"
-    ]
-  },
-  {
-    "objectID": "Sesiones/sesion5.html",
-    "href": "Sesiones/sesion5.html",
-    "title": "Estimacion activa de la profundidad",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
-    "crumbs": [
-      "Inicio",
-      "Estimacion *activa* de la profundidad"
-    ]
-  },
-  {
-    "objectID": "Sesiones/sesion2.html",
-    "href": "Sesiones/sesion2.html",
+    "objectID": "Sesiones/sesion2.html#temas-a-tratar",
+    "href": "Sesiones/sesion2.html#temas-a-tratar",
     "title": "Generalidad imagenes",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "section": "temas a tratar",
+    "text": "temas a tratar\n\nxxxx\nxxxx\nxxxx\nxxxx",
     "crumbs": [
       "Inicio",
       "Generalidad imagenes"
     ]
   },
   {
-    "objectID": "Sesiones/sesion10.html",
-    "href": "Sesiones/sesion10.html",
-    "title": "Proyectos / Posters",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "objectID": "Sesiones/sesion2.html#slides",
+    "href": "Sesiones/sesion2.html#slides",
+    "title": "Generalidad imagenes",
+    "section": "slides",
+    "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
     "crumbs": [
       "Inicio",
-      "Proyectos / Posters"
+      "Generalidad imagenes"
     ]
   },
   {
-    "objectID": "curso.html",
-    "href": "curso.html",
-    "title": "Semillero “Hands-on Computer Vision”",
-    "section": "",
-    "text": "Bienvenido al semillero Hands-on Computer Vision, un viaje emocionante y práctico a través del vasto mundo de la visión por computadora y el procesamiento de imágenes. Aquí, no solo aprenderás los conceptos teóricos, sino que también tendrás la oportunidad de aplicarlos en proyectos reales y desafiantes.",
+    "objectID": "Sesiones/sesion2.html#ejercicios",
+    "href": "Sesiones/sesion2.html#ejercicios",
+    "title": "Generalidad imagenes",
+    "section": "Ejercicios",
+    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
     "crumbs": [
       "Inicio",
-      "Semillero \"Hands-on Computer Vision\""
+      "Generalidad imagenes"
     ]
   },
   {
-    "objectID": "curso.html#qué-te-espera",
-    "href": "curso.html#qué-te-espera",
-    "title": "Semillero “Hands-on Computer Vision”",
-    "section": "¿Qué te espera?",
-    "text": "¿Qué te espera?\nPrepárate para sumergirte en sesiones interactivas y prácticas donde exploraremos temas como:\n\nSegmentación de imágenes basada en propiedades de los materiales.\nProcesamiento de imágenes RGB+D para la comprensión de escenas y navegación.\nUso de Lidar/ToF para rangos de medición.\nImágenes térmicas y sus aplicaciones.\nDesarrollo de software para productos basados en Apple, utilizando sensores integrados.\nTinyML: implementación de ML en hardware como Arduino/Raspberry PI.\nProcesamiento de imágenes en la web.\n\nCada sesión está diseñada para construir una base sólida y avanzar hacia temas más complejos, garantizando un aprendizaje integral y práctico.",
+    "objectID": "Sesiones/sesion2.html#recursos",
+    "href": "Sesiones/sesion2.html#recursos",
+    "title": "Generalidad imagenes",
+    "section": "Recursos",
+    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
     "crumbs": [
       "Inicio",
-      "Semillero \"Hands-on Computer Vision\""
+      "Generalidad imagenes"
     ]
   },
   {
-    "objectID": "curso.html#herramientas-y-tecnologías",
-    "href": "curso.html#herramientas-y-tecnologías",
-    "title": "Semillero “Hands-on Computer Vision”",
-    "section": "Herramientas y Tecnologías",
-    "text": "Herramientas y Tecnologías\nVamos a utilizar tecnologías y herramientas de vanguardia, incluyendo:\n\nLibrerías y lenguajes: OpenCV, Python, Swift, y más.\nPlataformas colaborativas como GitHub y Colab para un aprendizaje interactivo y colaborativo.\nKaggle y otras plataformas para retos y competencias emocionantes.",
-    "crumbs": [
-      "Inicio",
-      "Semillero \"Hands-on Computer Vision\""
-    ]
-  },
-  {
-    "objectID": "curso.html#proyecto-incremental",
-    "href": "curso.html#proyecto-incremental",
-    "title": "Semillero “Hands-on Computer Vision”",
-    "section": "Proyecto Incremental",
-    "text": "Proyecto Incremental\nA lo largo del semillero, trabajarás en un proyecto incremental, donde cada sesión contribuirá a un proyecto final completo y funcional. Este enfoque práctico garantiza que no solo aprendas los conceptos, sino que también ganes experiencia práctica aplicándolos.",
-    "crumbs": [
-      "Inicio",
-      "Semillero \"Hands-on Computer Vision\""
-    ]
-  },
-  {
-    "objectID": "curso.html#únete-a-nosotros",
-    "href": "curso.html#únete-a-nosotros",
-    "title": "Semillero “Hands-on Computer Vision”",
-    "section": "Únete a Nosotros",
-    "text": "Únete a Nosotros\n¿Listo para embarcarte en esta aventura de aprendizaje y descubrimiento? Sigue navegando por nuestro sitio web para obtener más detalles sobre cada sesión y cómo puedes inscribirte.\n¡Estamos emocionados de tenerte a bordo y no podemos esperar para ver lo que crearemos juntos en el mundo de la visión por computadora!\n\n¡Sigue explorando y preparándote para una experiencia de aprendizaje única en el semillero “Hands-on Computer Vision”!",
-    "crumbs": [
-      "Inicio",
-      "Semillero \"Hands-on Computer Vision\""
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nSemillero  Hands-on   Computer Vision\n",
-    "section": "",
-    "text": "Semillero  Hands-on   Computer Vision\n\n\n\n\n \n \n\n\n\n\nExplora el Futuro de la Visión por Computadora\n\n\nÚnete a nosotros en el Semillero “Hands-on Computer Vision” y sumérgete en una experiencia única que fusiona la teoría con la práctica en el fascinante mundo de la visión por computadora. Enfocándonos en temas avanzados como Computational Imaging, Thermal Imaging, Spectral Imaging, Depth, y más, este semillero te brindará la oportunidad de adentrarte en las tecnologías de vanguardia, utilizando herramientas como OpenCV y Python.\n\n\n\n\nCronograma\n\n\n\n\n\nFecha\n\n\nTítulo\n\n\nDescripción\n\n\n\n\n\n\nSesión 1\n\n\n1 piloto\n\n\nTodos\n\n\n\n\nSesión 2\n\n\n2 generalidades imágenes\n\n\nHoover\n\n\n\n\nSesión 3\n\n\n3 espectral\n\n\nCristian y Miguel\n\n\n\n\nSesión 4\n\n\n4 depth pasivo\n\n\nRamiro y Miguel\n\n\n\n\nSesión 5\n\n\n5 depth activo\n\n\nRamiro y Hoover\n\n\n\n\nSesión 6\n\n\n6 deep learning crash =&gt; projects definition\n\n\nFabian y Hoover\n\n\n\n\nSesión 7\n\n\n7 segmentación\n\n\nFabian y Cristian\n\n\n\n\nSesión 8\n\n\n8 thermal imaging\n\n\nOscar y Hoover\n\n\n\n\nSesión 9\n\n\n9 tinyml\n\n\nFabian y Oscar\n\n\n\n\nSesión 10\n\n\n10 projects\n\n\n\n\n\n\n\n\n\nParticipa en el Semillero\n\n\n¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros.\n\n\nFecha límite de inscripción: 31 de marzo de 2024\n\nInscribirse Ahora\n\n\nRealizado por:\n\n\n\n\n\nHoover Fabian Rueda Chacón\n\n\nIngeniero de Sistemas e Informática, con maestría y doctorado en Ingeniería Eléctrica y Computación. Realizó su formación en Colombia y EE. UU., siendo Asociado Postdoctoral en la Universidad de Boston. Sus áreas de investigación incluyen procesamiento de imágenes, algoritmos, óptica computacional y optimización numérica.\n\n\n\n\n\n\n\n\nNelson Fabian Pérez Pérez\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n\n\nCristhian Camilo Rey Rueda\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n\n\nRamiro Santiago Ávila Chacón\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n\n\nMiguel Ángel Molina Garzón\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n\n\nOscar\n\n\nEstudiante de Ingenieria de Sistemas e Informática\n\n\n\n\n\n! Unete al canal de Discord !\n\n\n\n\n  \n\n\n\n\nPara consultas, contacta a hfarueda@uis.edu.co."
-  },
-  {
-    "objectID": "Sesiones/sesion4.html",
-    "href": "Sesiones/sesion4.html",
+    "objectID": "Sesiones/sesion4.html#temas-a-tratar",
+    "href": "Sesiones/sesion4.html#temas-a-tratar",
     "title": "Estimacion pasiva de la profundidad",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "section": "temas a tratar",
+    "text": "temas a tratar\n\nxxxx\nxxxx\nxxxx\nxxxx",
     "crumbs": [
       "Inicio",
       "Estimacion *pasiva* de la profundidad"
     ]
   },
   {
-    "objectID": "Sesiones/sesion7.html",
-    "href": "Sesiones/sesion7.html",
-    "title": "Segemntacion de materiales",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "objectID": "Sesiones/sesion4.html#slides",
+    "href": "Sesiones/sesion4.html#slides",
+    "title": "Estimacion pasiva de la profundidad",
+    "section": "slides",
+    "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
     "crumbs": [
       "Inicio",
-      "Segemntacion de materiales"
+      "Estimacion *pasiva* de la profundidad"
     ]
   },
   {
-    "objectID": "Sesiones/sesion6.html",
-    "href": "Sesiones/sesion6.html",
+    "objectID": "Sesiones/sesion4.html#ejercicios",
+    "href": "Sesiones/sesion4.html#ejercicios",
+    "title": "Estimacion pasiva de la profundidad",
+    "section": "Ejercicios",
+    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
+    "crumbs": [
+      "Inicio",
+      "Estimacion *pasiva* de la profundidad"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion4.html#recursos",
+    "href": "Sesiones/sesion4.html#recursos",
+    "title": "Estimacion pasiva de la profundidad",
+    "section": "Recursos",
+    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
+    "crumbs": [
+      "Inicio",
+      "Estimacion *pasiva* de la profundidad"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion6.html#temas-a-tratar",
+    "href": "Sesiones/sesion6.html#temas-a-tratar",
     "title": "Deep learning",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "section": "temas a tratar",
+    "text": "temas a tratar\n\nxxxx\nxxxx\nxxxx\nxxxx",
     "crumbs": [
       "Inicio",
       "Deep learning"
     ]
   },
   {
-    "objectID": "Sesiones/sesion3.html",
-    "href": "Sesiones/sesion3.html",
-    "title": "Estimacion pasiva de la profundidad",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "objectID": "Sesiones/sesion6.html#slides",
+    "href": "Sesiones/sesion6.html#slides",
+    "title": "Deep learning",
+    "section": "slides",
+    "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
     "crumbs": [
       "Inicio",
-      "Estimacion *pasiva* de la profundidad"
+      "Deep learning"
     ]
   },
   {
-    "objectID": "Sesiones/sesion8.html",
-    "href": "Sesiones/sesion8.html",
+    "objectID": "Sesiones/sesion6.html#ejercicios",
+    "href": "Sesiones/sesion6.html#ejercicios",
+    "title": "Deep learning",
+    "section": "Ejercicios",
+    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
+    "crumbs": [
+      "Inicio",
+      "Deep learning"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion6.html#recursos",
+    "href": "Sesiones/sesion6.html#recursos",
+    "title": "Deep learning",
+    "section": "Recursos",
+    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
+    "crumbs": [
+      "Inicio",
+      "Deep learning"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion8.html#temas-a-tratar",
+    "href": "Sesiones/sesion8.html#temas-a-tratar",
     "title": "Imagenes termicas",
-    "section": "",
-    "text": "In this session, we’re diving straight into the core of image formation – within the first few moments, you’ll engage with an interactive example that demonstrates the fundamental principles of image capturing and processing. These principles form the foundation of what drives modern computer vision technology, offering a glimpse into the intricate dance of light and sensors that was at the forefront of computational imaging just a decade ago.\n\n\n\nslides de la sesion*\n\n\n\n\n\n\nNew!\n\n\n\nEsta sesion se realizara el dia xx a las xx",
+    "section": "temas a tratar",
+    "text": "temas a tratar\n\nxxxx\nxxxx\nxxxx\nxxxx",
+    "crumbs": [
+      "Inicio",
+      "Imagenes termicas"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion8.html#slides",
+    "href": "Sesiones/sesion8.html#slides",
+    "title": "Imagenes termicas",
+    "section": "slides",
+    "text": "slides\nLos slides de esta sesion se encuentran en el siguiente enlace: Descargar",
+    "crumbs": [
+      "Inicio",
+      "Imagenes termicas"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion8.html#ejercicios",
+    "href": "Sesiones/sesion8.html#ejercicios",
+    "title": "Imagenes termicas",
+    "section": "Ejercicios",
+    "text": "Ejercicios\nEn esta sesion, se realizara los siguientes ejercicios:\n\nEjercicio 1 resolver xx\nEjercicio 2 resolver xx\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los ejercicios es el dia xx",
+    "crumbs": [
+      "Inicio",
+      "Imagenes termicas"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion8.html#recursos",
+    "href": "Sesiones/sesion8.html#recursos",
+    "title": "Imagenes termicas",
+    "section": "Recursos",
+    "text": "Recursos\n\nRecurso 1\nRecurso 2\nRecurso 3",
     "crumbs": [
       "Inicio",
       "Imagenes termicas"
