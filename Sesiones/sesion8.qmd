@@ -2,16 +2,17 @@
 title: Imagenes termicas
 
 ---
-<style>* {overflow: visible;}     h2{
+<style>
+* {overflow: visible;}     h2{
         border-bottom: 1px solid #dee2e6 !important;
-    }
-    </style>
+}
+</style>
 
-::: {layout="[35,65]"}
+::: {layout="[45,45]"}
 
-![](../images/sesiones/sesion1.jpg)
+![](../images/sesiones/sesion8.gif)
 
-En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan
+Descubre el invisible espectro del calor en nuestra sesión sobre imágenes térmicas. Aprenderás cómo estas poderosas herramientas revelan el mundo oculto de la energía térmica, abriendo nuevas perspectivas en campos como la seguridad, la medicina y el medio ambiente. Esta introducción te equipará con el conocimiento básico para comprender y aplicar la tecnología térmica en diversos contextos, transformando tu manera de ver el mundo.
 :::
 
 :::{.callout-tip}
@@ -19,34 +20,3 @@ En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nu
 Esta sesion se realizara el dia xx a las xx en el salon xx
 :::
 
-## temas a tratar
-
-* xxxx
-* xxxx
-* xxxx
-* xxxx
-
-## slides
-
-
-Los slides de esta sesion se encuentran en el siguiente enlace:
-[Descargar](../slides/sesion1.pdf)
-
-## Ejercicios
-
-En esta sesion, se realizara los siguientes ejercicios:
-
-1. [Ejercicio 1](../ejercicios/ejercicio1.md) resolver xx
-2. [Ejercicio 2](../ejercicios/ejercicio2.md) resolver xx
-
-::: {.callout-warning}
-## fecha limite
-
-La fecha limite para entregar los ejercicios es el dia xx
-:::
-
-## Recursos
-
-* [Recurso 1](../recursos/recurso1.md)
-* [Recurso 2](../recursos/recurso2.md)
-* [Recurso 3](../recursos/recurso3.md)

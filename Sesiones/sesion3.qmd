@@ -7,46 +7,15 @@ title: Imagenes espectrales
     }
     </style>
 
-::: {layout="[35,65]"}
+::: {layout="[40,60]"}
 
-![](../images/sesiones/sesion1.jpg)
+![](../images/sesiones/sesion3.png)
 
-En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan
+Adéntrate en el fascinante mundo de las imágenes multi e hiperespectrales, donde la fusión entre imágenes a color y espectrales abre un amplio abanico de aplicaciones. Exploraremos cómo la naturaleza de la luz influye en su formación, desde fenómenos como la refracción, difracción y reflexión. Desde una perspectiva teórica, analizaremos los principios ópticos subyacentes, mientras que en aplicaciones prácticas, exploraremos desde la agricultura de precisión hasta la detección de enfermedades. Al mismo tiempo, nos centraremos en el potencial creativo y analítico de estas imágenes, alentando la exploración con herramientas y técnicas para la manipulación y visualización de datos espectrales y multispectrales.
+
 :::
 
 :::{.callout-tip}
 ## aviso!!
 Esta sesion se realizara el dia xx a las xx en el salon xx
 :::
-
-## temas a tratar
-
-* xxxx
-* xxxx
-* xxxx
-* xxxx
-
-## slides
-
-
-Los slides de esta sesion se encuentran en el siguiente enlace:
-[Descargar](../slides/sesion1.pdf)
-
-## Ejercicios
-
-En esta sesion, se realizara los siguientes ejercicios:
-
-1. [Ejercicio 1](../ejercicios/ejercicio1.md) resolver xx
-2. [Ejercicio 2](../ejercicios/ejercicio2.md) resolver xx
-
-::: {.callout-warning}
-## fecha limite
-
-La fecha limite para entregar los ejercicios es el dia xx
-:::
-
-## Recursos
-
-* [Recurso 1](../recursos/recurso1.md)
-* [Recurso 2](../recursos/recurso2.md)
-* [Recurso 3](../recursos/recurso3.md)

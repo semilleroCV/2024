@@ -21,15 +21,4 @@ En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nu
 Esta sesion se realizara el dia 4 de marzo a las 4:00pm en el salon xx
 :::
 
-## temas a tratar
-
-* xxxx
-* xxxx
-* xxxx
-* xxxx
-
-## slides
-
-Los slides de esta sesion se encuentran en el siguiente enlace:
-[Descargar](../slides/sesion1.pdf)
 

@@ -43,52 +43,52 @@ format:
         <tbody>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 4</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion1.html">Piloto</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion1.html">Piloto</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Esta sesion es introductoria del topico en general </td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 11</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion2.html">Generalidades imágenes</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion2.html">Generalidades imágenes</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">desde píxeles hasta el procesamiento digital</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 18</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion3.html">Imagenes Espectrales</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion3.html">Imagenes Espectrales</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Desvela los secretos del mundo invisible</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 1</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion4.html">Depth pasivo</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion4.html">Depth pasivo</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Explora la profundidad sin contacto</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 8</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion5.html">Depth activo</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion5.html">Depth activo</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Profundidad con precisión milimétrica</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 15</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion6.html">Deep Learning</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion6.html">Deep Learning</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Despierta el poder de la inteligencia artificial en la visión por computadora</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 22</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion7.html">Segmentación</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion7.html">Segmentación</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Un mundo de píxeles clasificados</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 29</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion8.html">Imagenes termicas</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion8.html">Imagenes termicas</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">El mundo a traves del calor</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Mayo 6</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion4.html">Tinyml</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion4.html">Tinyml</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Un mundo de posibilidades en miniatura</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Mayo 13</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="sesiones/sesion10.html">Proyectos</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion10.html">Proyectos</a></td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Desafía tus habilidades</td>
             </tr>
         </tbody>
@@ -102,7 +102,7 @@ format:
     <p>
         ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros.
     </p>
-    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de febrero de 2024</p> 
+    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de marzo de 2024</p> 
     <a class="button" href="https://rqm1zv23ond.typeform.com/to/Q4oPnCK6">Inscribirse Ahora</a>
 </section>
 
@@ -149,8 +149,8 @@ format:
     <section class="student-container">
         <img src="/images/oscar.jpg" alt="" class="student-image">
         <section class="student-description">
-            <h4><b>Oscar Torrens</b></h4>
-            <p>Estudiante de Ingeniería de Sistemas e Informática</p>
+            <h4><b>Oscar Ivan Torrens Bustamante</b></h4>
+            <p>Estudiante de Ingenieria de Sistemas e Informática</p>
         </section>
     </section>
     <section >

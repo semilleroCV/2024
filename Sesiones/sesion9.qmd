@@ -9,9 +9,9 @@ title: TinyML
 
 ::: {layout="[35,65]"}
 
-![](../images/sesiones/sesion1.jpg)
+![](../images/sesiones/sesion9.webp)
 
-En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan
+Descubre cómo el poder del Machine Learning cabe en la palma de tu mano con nuestra sesión sobre TinyML. Esta fascinante área combina la inteligencia artificial con dispositivos de baja potencia, abriendo un mundo de posibilidades para aplicaciones inteligentes en espacios reducidos. Exploraremos cómo TinyML está revolucionando lo que los dispositivos pequeños pueden hacer, haciendo posible la inteligencia artificial en cualquier lugar y momento.
 :::
 
 :::{.callout-tip}
@@ -19,34 +19,3 @@ En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nu
 Esta sesion se realizara el dia xx a las xx en el salon xx
 :::
 
-## temas a tratar
-
-* xxxx
-* xxxx
-* xxxx
-* xxxx
-
-## slides
-
-
-Los slides de esta sesion se encuentran en el siguiente enlace:
-[Descargar](../slides/sesion1.pdf)
-
-## Ejercicios
-
-En esta sesion, se realizara los siguientes ejercicios:
-
-1. [Ejercicio 1](../ejercicios/ejercicio1.md) resolver xx
-2. [Ejercicio 2](../ejercicios/ejercicio2.md) resolver xx
-
-::: {.callout-warning}
-## fecha limite
-
-La fecha limite para entregar los ejercicios es el dia xx
-:::
-
-## Recursos
-
-* [Recurso 1](../recursos/recurso1.md)
-* [Recurso 2](../recursos/recurso2.md)
-* [Recurso 3](../recursos/recurso3.md)

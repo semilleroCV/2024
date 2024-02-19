@@ -10,7 +10,7 @@ website:
 
   page-footer:
     left: |
-      Desarrolado por estudiantes :)
+      Desarrollado por estudiantes :)
       
     center:
       - text: "Github"

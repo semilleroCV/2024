@@ -9,44 +9,12 @@ title: Generalidad imagenes
 
 ::: {layout="[35,65]"}
 
-![](../images/sesiones/sesion1.jpg)
+![](../images/sesiones/sesion2.webp)
 
-En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan
+Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración integral te llevará a través de un viaje desde los conceptos fundamentales hasta las complejidades del preprocesamiento, abarcando tanto la óptica detrás de las imágenes como el hardware y software que hacen posible su creación y manipulación. Diseñada para encender la curiosidad y expandir tu comprensión, esta sesión no solo revelará cómo se forman las imágenes digitales, sino que también te introducirá a las herramientas y técnicas esenciales para trabajar con ellas. Con un enfoque en la innovación y la creatividad, te invitamos a descubrir las posibilidades ilimitadas que las imágenes digitales ofrecen para la investigación, el arte y la tecnología. 
 :::
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia xx a las xx en el salon xx
+Esta sesion se realizara el dia xx a las xx
 :::
-
-## temas a tratar
-
-* xxxx
-* xxxx
-* xxxx
-* xxxx
-
-## slides
-
-
-Los slides de esta sesion se encuentran en el siguiente enlace:
-[Descargar](../slides/sesion1.pdf)
-
-## Ejercicios
-
-En esta sesion, se realizara los siguientes ejercicios:
-
-1. [Ejercicio 1](../ejercicios/ejercicio1.md) resolver xx
-2. [Ejercicio 2](../ejercicios/ejercicio2.md) resolver xx
-
-::: {.callout-warning}
-## fecha limite
-
-La fecha limite para entregar los ejercicios es el dia xx
-:::
-
-## Recursos
-
-* [Recurso 1](../recursos/recurso1.md)
-* [Recurso 2](../recursos/recurso2.md)
-* [Recurso 3](../recursos/recurso3.md)
