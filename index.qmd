@@ -122,39 +122,39 @@ format:
         <img src="/images/fabian.png" alt="" class="student-image">
         <section class="student-description">
             <h4><b>Nelson Fabian Pérez Pérez</b></h4>
-            <p>Estudiante de Ingenieria de Sistemas e Informática</p>
+            <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section class="student-container">
         <img src="/images/cristian.jpg" alt="" class="student-image">
         <section class="student-description">
             <h4><b>Cristhian Camilo Rey Rueda</b></h4>
-            <p>Estudiante de Ingenieria de Sistemas e Informática</p>
+            <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section class="student-container">
         <img src="/images/ramiro.jpeg" alt="" class="student-image">
         <section class="student-description">
             <h4><b>Ramiro Santiago Ávila Chacón</b></h4>
-            <p>Estudiante de Ingenieria de Sistemas e Informática</p>
+            <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section class="student-container">
         <img src="/images/miguel.png" alt="" class="student-image">
         <section class="student-description">
             <h4><b>Miguel Ángel Molina Garzón</b></h4>
-            <p>Estudiante de Ingenieria de Sistemas e Informática</p>
+            <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section class="student-container">
         <img src="/images/oscar.jpg" alt="" class="student-image">
         <section class="student-description">
             <h4><b>Oscar Torrens</b></h4>
-            <p>Estudiante de Ingenieria de Sistemas e Informática</p>
+            <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section >
-        <p class="modalButton">! Unete al canal de Discord !</p>
+        <p class="modalButton">! Únete al canal de Discord !</p>
         <div class="triangleIcon"></div>
         <a class="fixedButton" href="https://discord.gg/MkCpdsHZzJ" target="_blank">
          <img class="roundedFixedBtn" src="/images/discord.png"></img>
