@@ -26,7 +26,7 @@ format:
 <section class="join">
     <h3>Explora el Futuro de la Visión por Computadora</h3>
     <p>
-        Únete a nosotros en el Semillero "Hands-on Computer Vision" y sumérgete en una experiencia única que fusiona la teoría con la práctica en el fascinante mundo de la visión por computadora. Enfocándonos en temas avanzados como Computational Imaging, Thermal Imaging, Spectral Imaging, Depth, y más, este semillero te brindará la oportunidad de adentrarte en las tecnologías de vanguardia, utilizando herramientas como OpenCV y Python.
+        Únete a nosotros en el Semillero "Hands-on Computer Vision" y sumérgete en una experiencia única que fusiona la teoría con la práctica en el fascinante mundo de la visión por computadora. Enfocándonos en temas avanzados como Computational Imaging, Deep Learning, Thermal Imaging, Spectral Imaging, Depth Imaging y más. Este semillero te brindará la oportunidad de adentrarte en las tecnologías de vanguardia, utilizando herramientas como OpenCV y Python.
     </p>
 </section>
 
@@ -44,27 +44,27 @@ format:
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 4</td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion1.html">Piloto</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Esta sesion es introductoria del topico en general </td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Esta sesión es introductoria al semillero en general </td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 11</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion2.html">Generalidades imágenes</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">desde píxeles hasta el procesamiento digital</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion2.html">De fotones a pixeles</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Generalidades sobre la adquisición y procesamiento digital de imágenes</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Marzo 18</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion3.html">Imagenes Espectrales</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Desvela los secretos del mundo invisible</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion3.html">Imágenes espectrales</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Conoce los secretos que hay mas allá de una imagen de color</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 1</td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion4.html">Depth pasivo</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Explora la profundidad sin contacto</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Explora las técnicas de estimación  de profundidad sin fuentes externas</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 8</td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion5.html">Depth activo</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Profundidad con precisión milimétrica</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Extrayendo profundidad con precision milimétrica a partir de la luz</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 15</td>
@@ -74,22 +74,22 @@ format:
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 22</td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion7.html">Segmentación</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Un mundo de píxeles clasificados</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Delineando el mundo digital a través de píxeles clasificados meticulosamente</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Abril 29</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion8.html">Imagenes termicas</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">El mundo a traves del calor</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion8.html">Imágenes térmicas</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">El mundo visto a través del calor</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Mayo 6</td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion4.html">Tinyml</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Un mundo de posibilidades en miniatura</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion4.html">TinyML</a></td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Inteligencia artificial en la palma de tu mano</td>
             </tr>
             <tr style="transition: background-color 0.3s ease;">
                 <td style="padding: 10px 15px; border: 1px solid #ddd;">Mayo 13</td>
                 <td style="padding: 10px 15px; border: 1px solid #ddd;"><a href="Sesiones/sesion10.html">Proyectos</a></td>
-                <td style="padding: 10px 15px; border: 1px solid #ddd;">Desafía tus habilidades</td>
+                <td style="padding: 10px 15px; border: 1px solid #ddd;">Desafía tus habilidades 🚀 🚀 </td>
             </tr>
         </tbody>
     </table>
@@ -102,7 +102,7 @@ format:
     <p>
         ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros.
     </p>
-    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de marzo de 2024</p> 
+    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de Marzo de 2024</p> 
     <a class="button" href="https://rqm1zv23ond.typeform.com/to/Q4oPnCK6">Inscribirse Ahora</a>
 </section>
 

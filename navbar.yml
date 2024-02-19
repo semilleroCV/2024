@@ -17,7 +17,7 @@ website:
         href: index.qmd
       - text: Sesiones
         href: curso.qmd
-      - text: Galeria
+      - text: Galería
         href: galeria.qmd
 
 
