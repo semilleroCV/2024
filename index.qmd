@@ -32,7 +32,7 @@ format:
 
 <section class="upcoming-sessions">
     <h3>Cronograma</h3>
-    <p style="text-align: center">Todas las sesiones se llevarán a cabo los días lunes de 4:00 p.m. a 6:00 p.m en la UIS a partir del 4 de marzo</p>
+    <p style="text-align: center; color: #00827F;font-weight: bold">Todas las sesiones se llevarán a cabo los días lunes de 4:00 p.m. a 6:00 p.m en la UIS a partir del 4 de marzo</p>
     <table>
         <thead>
             <tr style="background-color: #f2f2f2;">
