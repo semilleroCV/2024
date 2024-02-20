@@ -16,5 +16,5 @@ Embárcate en un viaje al núcleo del Deep Learning y su revolucionaria aplicaci
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia xx a las xx en el salon xx
+Esta sesion se realizara el dia 15 de abril a las 4:00pm
 :::

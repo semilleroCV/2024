@@ -16,6 +16,6 @@ Descubre cómo el poder del Machine Learning cabe en la palma de tu mano con nue
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia xx a las xx en el salon xx
+Esta sesion se realizara el dia 6 de mayo a las 4:00pm
 :::
 

@@ -16,5 +16,5 @@ En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nu
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia xx a las xx en el salon xx
+Esta sesion se realizara el dia 8 de abril a las 4:00pm
 :::

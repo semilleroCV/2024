@@ -15,8 +15,11 @@ title: Imágenes térmicas
 Descubre el invisible espectro del calor en nuestra sesión sobre imágenes térmicas. Aprenderás cómo estas poderosas herramientas revelan el mundo oculto de la energía térmica, abriendo nuevas perspectivas en campos como la seguridad, la medicina y el medio ambiente. Esta introducción te equipará con el conocimiento básico para comprender y aplicar la tecnología térmica en diversos contextos, transformando tu manera de ver el mundo.
 :::
 
+
+
+
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia xx a las xx en el salon xx
+Esta sesion se realizara el dia 29 de abril a las 4:00pm
 :::
 

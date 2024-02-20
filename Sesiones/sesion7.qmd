@@ -16,5 +16,5 @@ Adéntrate en el corazón de las imágenes con nuestra sesión dedicada a la Seg
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia xx a las xx en el salon xx
+Esta sesion se realizara el dia 22 de abril a las 4:00pm
 :::
