@@ -11,7 +11,7 @@ format:
 
 <div style="text-align: center;">
    <h1 style="font-family:  'Reem Kufi Ink' ,sans-serif;">
-         Semillero&nbsp;&nbsp;Hands-on&nbsp;&nbsp; <span style="color: #00827F font-size: calc(1.6rem + 0.9vw);">C</span>omputer <span style="color: #00827F">V</span>ision
+         Semillero&nbsp;&nbsp;Hands-on&nbsp;&nbsp; <span style="color: #00827F;font-size: calc(1.8rem + 0.9vw);">C</span>omputer <span style="color: #00827F;font-size: calc(1.8rem + 0.9vw);">V</span>ision
     </h1>
 </div>
 <section class="imagecarousel">
@@ -104,7 +104,7 @@ format:
         ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros que comenzará el 4 de marzo de 2024.
     </p>
     <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de Marzo de 2024</p> 
-    <a class="button" href="https://rqm1zv23ond.typeform.com/to/Q4oPnCK6">Inscribirse Ahora</a>
+    <a class="button" href="https://tally.so/r/nrArkL6">Inscribirse Ahora</a>
 </section>
 
 <h2>Realizado por:</h2>
