@@ -3,7 +3,8 @@ project:
   output-dir: docs
 pagetitle: "CV"
 website:
-  repo-url: https://github.com/SemilleroCI/semillero
+  google-analytics: "G-ZXNWL4ZT8E"
+  repo-url: https://github.com/semilleroCV/Hands-on-Computer-Vision
   repo-actions: [edit, issue]
   title: "Computer Vision"
 

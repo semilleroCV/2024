@@ -32,6 +32,7 @@ format:
 
 <section class="upcoming-sessions">
     <h3>Cronograma</h3>
+    <p style="text-align: center">Todas las sesiones se llevarán a cabo los días lunes de 4:00 p.m. a 6:00 p.m en la UIS a partir del 4 de marzo</p>
     <table>
         <thead>
             <tr style="background-color: #f2f2f2;">
@@ -100,7 +101,7 @@ format:
 <section class="join">
     <h3>Participa en el Semillero</h3>
     <p>
-        ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros.
+        ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros que comenzará el 4 de marzo de 2024.
     </p>
     <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de Marzo de 2024</p> 
     <a class="button" href="https://rqm1zv23ond.typeform.com/to/Q4oPnCK6">Inscribirse Ahora</a>
