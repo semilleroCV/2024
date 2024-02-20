@@ -11,7 +11,7 @@ format:
 
 <div style="text-align: center;">
    <h1 style="font-family:  'Reem Kufi Ink' ,sans-serif;">
-         Semillero&nbsp;&nbsp;Hands-on&nbsp;&nbsp; <span style="color: #00827F">C</span>omputer <span style="color: #00827F">V</span>ision
+         Semillero&nbsp;&nbsp;Hands-on&nbsp;&nbsp; <span style="color: #00827F font-size: calc(1.6rem + 0.9vw);">C</span>omputer <span style="color: #00827F">V</span>ision
     </h1>
 </div>
 <section class="imagecarousel">
