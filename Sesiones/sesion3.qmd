@@ -7,7 +7,7 @@ title: Imagenes espectrales
     }
     </style>
 
-::: {layout="[40,60]"}
+::: {layout="[35,65]"}
 
 ![](../images/sesiones/sesion3.png)
 

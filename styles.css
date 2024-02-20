@@ -4,6 +4,10 @@
         max-height: 50px !important;
     }
 
+    .student {
+        display:grid; margin-top: 1.5rem; opacity: .9;font-size: 1.25rem; margin-bottom: 0.1rem;
+    }
+
     * {
         overflow-x: hidden;
     }

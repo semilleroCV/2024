@@ -121,35 +121,35 @@ format:
     <section class="student-container">
         <img src="/images/fabian.png" alt="" class="student-image">
         <section class="student-description">
-            <h4><b>Nelson Fabian Pérez Pérez</b></h4>
+            <p class="student"><b>Nelson Fabian Pérez Pérez</b></p>
             <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section class="student-container">
         <img src="/images/cristian.jpg" alt="" class="student-image">
         <section class="student-description">
-            <h4><b>Cristhian Camilo Rey Rueda</b></h4>
+            <p class="student"><b>Cristhian Camilo Rey Rueda</b></p>
             <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section class="student-container">
         <img src="/images/ramiro.jpeg" alt="" class="student-image">
         <section class="student-description">
-            <h4><b>Ramiro Santiago Ávila Chacón</b></h4>
+            <p class="student"><b>Ramiro Santiago Ávila Chacón</b></p>
             <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section class="student-container">
         <img src="/images/miguel.png" alt="" class="student-image">
         <section class="student-description">
-            <h4><b>Miguel Ángel Molina Garzón</b></h4>
+            <p class="student"><b>Miguel Ángel Molina Garzón</b></p>
             <p>Estudiante de Ingeniería de Sistemas e Informática</p>
         </section>
     </section>
     <section class="student-container">
         <img src="/images/oscar.jpg" alt="" class="student-image">
         <section class="student-description">
-            <h4><b>Oscar Ivan Torrens Bustamante</b></h4>
+            <p class="student"><b>Oscar Ivan Torrens Bustamante</b></p>
             <p>Estudiante de Ingenieria de Sistemas e Informática</p>
         </section>
     </section>

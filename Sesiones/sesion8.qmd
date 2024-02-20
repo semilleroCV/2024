@@ -8,7 +8,7 @@ title: Imagenes termicas
 }
 </style>
 
-::: {layout="[45,45]"}
+::: {layout="[35,65]"}
 
 ![](../images/sesiones/sesion8.gif)
 

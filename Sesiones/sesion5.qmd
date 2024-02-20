@@ -7,7 +7,7 @@ title: Estimacion *activa* de la profundidad
     }
     </style>
 
-::: {layout="[45,45]"}
+::: {layout="[35,65]"}
 
 ![](../images/sesiones/sesion5.png)
 
