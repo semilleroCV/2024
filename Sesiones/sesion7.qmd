@@ -1,5 +1,5 @@
 ---
-title: Segmentacion
+title: Segmentación
 
 ---
 <style>* {overflow: visible;}     h2{
@@ -9,9 +9,9 @@ title: Segmentacion
 
 ::: {layout="[35,65]"}
 
-![](../images/sesiones/sesion9.png)
+![](../images/sesiones/sesion78.gif)
 
-Adéntrate en el corazón de las imágenes con nuestra sesión dedicada a la Segmentación Semántica y de Materiales, donde la tecnología se encuentra con la percepción para desentrañar la composición y el significado oculto detrás de cada píxel. Esta sesión te guiará a través de las últimas técnicas y herramientas que permiten a las máquinas no solo reconocer objetos y escenas, sino también entender su materialidad y esencia. Desde aplicaciones en realidad aumentada hasta mejoras en la sostenibilidad ambiental, descubre cómo esta rama del aprendizaje profundo está transformando industrias y redefiniendo nuestra interacción con el entorno digital y físico. 
+Adéntrate en el corazón de las imágenes con nuestra sesión dedicada a la Segmentación Semántica y de Materiales, donde la tecnología se encuentra con la percepción para desentrañar la composición y el significado oculto detrás de cada píxel. Esta sesión te guiará a través de las últimas técnicas y herramientas que permiten a las máquinas no solo reconocer objetos y escenas, sino también entender su materialidad y esencia.
 :::
 
 :::{.callout-tip}

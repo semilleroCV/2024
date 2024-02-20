@@ -1,5 +1,5 @@
 ---
-title:  Deep learning
+title: Deep learning
 
 ---
 <style>* {overflow: visible;}     h2{

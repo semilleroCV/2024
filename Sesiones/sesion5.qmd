@@ -1,5 +1,5 @@
 ---
-title: Estimacion *activa* de la profundidad
+title: Estimación *activa* de la profundidad
 
 ---
 <style>* {overflow: visible;}     h2{
@@ -9,7 +9,7 @@ title: Estimacion *activa* de la profundidad
 
 ::: {layout="[35,65]"}
 
-![](../images/sesiones/sesion5.png)
+![](../images/sesiones/sesion5.webp)
 
 En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan
 :::

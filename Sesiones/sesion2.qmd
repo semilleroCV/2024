@@ -1,5 +1,5 @@
 ---
-title: Generalidad imagenes
+title: De fotones a pixeles
 
 ---
 <style>* {overflow: visible;}     h2{

@@ -1,5 +1,5 @@
 ---
-title: Imagenes espectrales
+title: Imágenes espectrales
 
 ---
 <style>* {overflow: visible;}     h2{

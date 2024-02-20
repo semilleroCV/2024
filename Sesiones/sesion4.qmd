@@ -1,5 +1,5 @@
 ---
-title: Estimacion *pasiva* de la profundidad
+title: Estimación *pasiva* de la profundidad
 
 ---
 <style>* {overflow: visible;}     h2{

@@ -1,7 +1,7 @@
 website:
   sidebar:
     contents:
-      - curso.qmd
+      - sesiones.qmd
       - text: "-----"
       - Sesiones/sesion1.qmd
       - Sesiones/sesion2.qmd
