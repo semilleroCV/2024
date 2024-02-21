@@ -24,9 +24,4 @@ website:
 
     tools:
 
-      - icon: github
-        menu:
-          - text: Source Code
-            url:  https://code.com
-          - text: Report a Bug
-            url:  https://bugs.com'
+      - favicon: uis.png

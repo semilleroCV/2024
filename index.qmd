@@ -166,5 +166,7 @@ format:
 
 </main>
 <footer>
+   <img src="uis.png" alt="Logo UIS" style="width: 130px; display: block; margin-left: auto; margin-right: auto;">
+    <br>
     <small>Para consultas, contacta a <a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=Handsoncvs@gmail.com">handsoncvs@gmail.com</a>.</small>
 </footer>
