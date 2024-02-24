@@ -1,5 +1,5 @@
 ---
-title: Deep learning
+title: Imágenes espectrales
 
 ---
 <style>* {overflow: visible;}     h2{
@@ -9,12 +9,13 @@ title: Deep learning
 
 ::: {layout="[35,65]"}
 
-![](../images/sesiones/sesion6.webp)
+![](../images/sesiones/sesion3.png)
 
-Embárcate en un viaje al núcleo del Deep Learning y su revolucionaria aplicación en el campo de la Computer Vision en nuestra sesión. Esta exploración está diseñada para sumergirte rápidamente en los conceptos y técnicas que están redefiniendo la forma en que las máquinas interpretan el mundo visual. Desde la comprensión de redes neuronales convolucionales hasta el descubrimiento de cómo el aprendizaje profundo puede extraer patrones y características complejas de imágenes y videos, esta sesión es una introducción esencial y dinámica a las herramientas y métodos que están en la vanguardia de la visión por computadora. 
+Adéntrate en el fascinante mundo de las imágenes multi e hiperespectrales, donde la fusión entre imágenes a color y espectrales abre un amplio abanico de aplicaciones. Exploraremos cómo la naturaleza de la luz influye en su formación, desde fenómenos como la refracción, difracción y reflexión. Desde una perspectiva teórica, analizaremos los principios ópticos subyacentes, mientras que en aplicaciones prácticas, exploraremos desde la agricultura de precisión hasta la detección de enfermedades. Al mismo tiempo, nos centraremos en el potencial creativo y analítico de estas imágenes, alentando la exploración con herramientas y técnicas para la manipulación y visualización de datos espectrales y multispectrales.
+
 :::
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia 15 de abril a las 4:00pm
+Esta sesion se realizara el dia 18 de marzo a las 4:00pm
 :::
