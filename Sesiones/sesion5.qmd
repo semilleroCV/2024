@@ -1,5 +1,5 @@
 ---
-title: Estimación *activa* de la profundidad
+title: Estimación *pasiva* de la profundidad
 
 ---
 <style>* {overflow: visible;}     h2{
@@ -9,12 +9,12 @@ title: Estimación *activa* de la profundidad
 
 ::: {layout="[35,65]"}
 
-![](../images/sesiones/sesion5.webp)
+![](../images/sesiones/sesion4.webp)
 
-En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan
+Sumérgete en el arte y ciencia de descifrar la tercera dimensión con nuestra sesión sobre Estimación Pasiva de la Profundidad. Exploraremos técnicas innovadoras que permiten a las máquinas percibir y medir la profundidad del entorno sin intervención activa, utilizando únicamente la luz natural y las imágenes capturadas. Esta sesión te abrirá las puertas a una comprensión fundamental de cómo se puede interpretar el espacio y la distancia a partir de elementos visuales, sentando las bases para avances en robótica, navegación autónoma y realidad aumentada.
 :::
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia 8 de abril a las 4:00pm
+Esta sesion se realizara el dia 1 de abril a las 4:00pm
 :::

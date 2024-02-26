@@ -1,5 +1,5 @@
 ---
-title: Estimación *pasiva* de la profundidad
+title: Imágenes espectrales
 
 ---
 <style>* {overflow: visible;}     h2{
@@ -9,12 +9,13 @@ title: Estimación *pasiva* de la profundidad
 
 ::: {layout="[35,65]"}
 
-![](../images/sesiones/sesion4.webp)
+![](../images/sesiones/sesion3.png)
 
-Sumérgete en el arte y ciencia de descifrar la tercera dimensión con nuestra sesión sobre Estimación Pasiva de la Profundidad. Exploraremos técnicas innovadoras que permiten a las máquinas percibir y medir la profundidad del entorno sin intervención activa, utilizando únicamente la luz natural y las imágenes capturadas. Esta sesión te abrirá las puertas a una comprensión fundamental de cómo se puede interpretar el espacio y la distancia a partir de elementos visuales, sentando las bases para avances en robótica, navegación autónoma y realidad aumentada.
+Adéntrate en el fascinante mundo de las imágenes multi e hiperespectrales, donde la fusión entre imágenes a color y espectrales abre un amplio abanico de aplicaciones. Exploraremos cómo la naturaleza de la luz influye en su formación, desde fenómenos como la refracción, difracción y reflexión. Desde una perspectiva teórica, analizaremos los principios ópticos subyacentes, mientras que en aplicaciones prácticas, exploraremos desde la agricultura de precisión hasta la detección de enfermedades. Al mismo tiempo, nos centraremos en el potencial creativo y analítico de estas imágenes, alentando la exploración con herramientas y técnicas para la manipulación y visualización de datos espectrales y multispectrales.
+
 :::
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia 1 de abril a las 4:00pm
+Esta sesion se realizara el dia 18 de marzo a las 4:00pm
 :::
