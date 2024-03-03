@@ -1,5 +1,5 @@
 ---
-title: Hands-on Computer Vision
+title: Galeria
 sidebar: false
 format:
   html:
