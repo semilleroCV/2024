@@ -1,0 +1,30 @@
+---
+title: Escritorio
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+    <script type="importmap">
+    {
+        "imports":{
+          "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module" src="escritorio.js"></script>
+
+
+---
+
+
+<div id="canvas" style="width:50%; margin:0 auto;">
+
+<p style="text-align: center;">puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena
+</p>
+
+</div>
+

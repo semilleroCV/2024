@@ -5,10 +5,35 @@ format:
   html:
     toc: false
     page-layout: full
-
-
-
-
+    css: galeria.css
 ---
 
-in construction
+
+```{=html}
+<div class="grid-container">
+
+  <div class="grid-item">
+    <a href="/models/fight.html" class="card">
+      <img src="/images/fight.png" alt="Image1">
+      <h3>Lucha</h3>
+  </a>
+
+  </div>
+  
+  <div class="grid-item">
+    <a href="/models/miguel.html" class="card">
+      <img src="/images/miguel2.png" alt="Image2">
+      <h3>Miguel</h3>
+  </a>
+  </div>
+
+  <div class="grid-item">
+    <a href="/models/escritorio.html" class="card">
+      <img src="/images/escritorio.png" alt="Image3">
+     <h3>Escritorio</h3>
+  </a>
+  </div>
+
+</div>
+
+```
