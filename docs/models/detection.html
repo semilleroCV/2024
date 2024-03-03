@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,10 +76,60 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 </script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js" type="text/javascript"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd" type="text/javascript"></script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="galeria.css">
+<script src="script.js" defer=""></script>
+
+<style>
+
+video {
+    display: block;
+}
+
+section {
+    opacity: 1;
+    transition: opacity 500ms ease-in-out;
+}
+
+.removed {
+    display: none;
+}
+
+.invisible {
+    opacity: 0.2;
+}
+
+.camView {
+    position: relative;
+    float: left;
+    width: calc(100% - 20px);
+    margin: 10px;
+    cursor: pointer;
+}
+
+.camView p {
+    position: absolute;
+    padding: 5px;
+    background-color: rgba(0, 70, 139, 0.85);
+    color: #FFF;
+    border: 1px dashed rgba(255, 255, 255, 0.7);
+    z-index: 2;
+    font-size: 12px;
+}
+
+.highlighter {
+    background: rgba(0, 70, 139, 0.25);
+    border: 1px dashed #fff;
+    z-index: 1;
+    position: absolute;
+}
+</style>
+
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -89,10 +139,10 @@ gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../logo.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Computer Vision</span>
     </a>
   </div>
@@ -103,15 +153,15 @@ gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./sesiones.html"> 
+    <a class="nav-link" href="../sesiones.html"> 
 <span class="menu-text">Sesiones</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./galeria.html" aria-current="page"> 
+    <a class="nav-link" href="../galeria.html"> 
 <span class="menu-text">Galería</span></a>
   </li>  
 </ul>
@@ -132,7 +182,7 @@ gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Galeria</h1>
+<h1 class="title">Deteccion</h1>
 </div>
 
 
@@ -149,47 +199,21 @@ gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 </header>
 
 
-<div class="grid-container">
 
-  <div class="grid-item">
-    <a href="./models/fight.html" class="card">
-      <img src="./images/fight.png" alt="Image1">
-      <h3 class="anchored">Lucha</h3>
-  </a>
-
-  </div>
-  
-  <div class="grid-item">
-    <a href="./models/miguel.html" class="card">
-      <img src="./images/miguel2.png" alt="Image2">
-      <h3 class="anchored">Miguel</h3>
-  </a>
-  </div>
-
-  <div class="grid-item">
-    <a href="./models/escritorio.html" class="card">
-      <img src="./images/escritorio.png" alt="Image3">
-     <h3 class="anchored">Escritorio</h3>
-  </a>
-  </div>
-
-  <div class="grid-item">
-    <a href="./models/detection.html" class="card">
-      <img src="./images/object.png" alt="Image3">
-     <h3 class="anchored">Deteccion de objetos</h3>
-  </a>
-  </div>
-
-    <div class="grid-item">
-    <a href="./models/depth.html" class="card">
-      <img src="./images/gatodepth.png" alt="Image3">
-     <h3 class="anchored">Estimacion de profundidad</h3>
-  </a>
-  </div>
+<p>Espera a que se cargue el modelo de detección de objetos, una vez que se haya cargado se habilitará el botón para activar la cámara.</p>
 
 
-</div>
 
+<p id="status">Cargando modelo de detección de objetos...</p>
+
+<section id="demos" class="invisible">
+    <p> Manten algunos objetos cerca de la cámara para que los detecte</p>
+    <div id="liveView" class="camView">
+        <button id="webcamButton">Habilitar camara</button>
+        <video id="webcam" autoplay="" width="640" height="480"></video>
+    </div>
+</section>
+<!-- Import TensorFlow.js library -->
 
 
 
@@ -600,7 +624,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/edit/main/galeria.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/edit/main/models/detection.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>© 2024 Hands-on Computer Vision. Todos los derechos reservados.</p>
 </div>

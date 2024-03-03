@@ -117,6 +117,13 @@
     "text": "puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena"
   },
   {
+    "objectID": "models/detection.html",
+    "href": "models/detection.html",
+    "title": "Deteccion",
+    "section": "",
+    "text": "Espera a que se cargue el modelo de detección de objetos, una vez que se haya cargado se habilitará el botón para activar la cámara.\n\n\n\nCargando modelo de detección de objetos...\n\n\n     Manten algunos objetos cerca de la cámara para que los detecte\n    \n        Habilitar camara"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "\nSemillero  Hands-on   Computer Vision\n",
@@ -128,7 +135,14 @@
     "href": "galeria.html",
     "title": "Galeria",
     "section": "",
-    "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel\n  \n  \n\n  \n    \n      \n     Escritorio"
+    "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel\n  \n  \n\n  \n    \n      \n     Escritorio\n  \n  \n\n  \n    \n      \n     Deteccion de objetos\n  \n  \n\n    \n    \n      \n     Estimacion de profundidad"
+  },
+  {
+    "objectID": "models/depth.html",
+    "href": "models/depth.html",
+    "title": "Deteccion",
+    "section": "",
+    "text": "Estimacion de la profundidad\n  \n    \n      \n        \n        \n      \n      Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
   },
   {
     "objectID": "models/escritorio.html",

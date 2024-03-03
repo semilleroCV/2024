@@ -34,6 +34,21 @@ format:
   </a>
   </div>
 
+  <div class="grid-item">
+    <a href="/models/detection.html" class="card">
+      <img src="/images/object.png" alt="Image3">
+     <h3>Deteccion de objetos</h3>
+  </a>
+  </div>
+
+    <div class="grid-item">
+    <a href="/models/depth.html" class="card">
+      <img src="/images/gatodepth.png" alt="Image3">
+     <h3>Estimacion de profundidad</h3>
+  </a>
+  </div>
+
+
 </div>
 
 ```
