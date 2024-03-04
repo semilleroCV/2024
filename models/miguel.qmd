@@ -1,5 +1,5 @@
 ---
-title: Miguel
+title: Miguel Angel
 sidebar: false
 format:
   html:
