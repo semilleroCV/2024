@@ -23,7 +23,7 @@ format:
   <div class="grid-item">
     <a href="/models/miguel.html" class="card">
       <img src="/images/miguel2.png" alt="Image2">
-      <h3>Miguel</h3>
+      <h3>Miguel Angel</h3>
   </a>
   </div>
 
