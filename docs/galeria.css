@@ -38,3 +38,10 @@
 a{
   text-decoration: none;
 }
+
+/* Media queries para vistas más pequeñas, como móviles */
+@media (max-width: 768px) {
+  .grid-item {
+    flex: 100%; /* En pantallas pequeñas, cada item tomará el 100% del ancho */
+  }
+}

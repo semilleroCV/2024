@@ -103,9 +103,13 @@ format:
     <p>
         ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros que comenzará el 4 de marzo de 2024.
     </p>
-    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de Marzo de 2024</p> 
-    <a class="button" href="https://tally.so/r/nrArkL">Inscribirse Ahora</a>
+    <!-- Fecha límite de inscripción eliminada 
+    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de Marzo de 2024</p> -->
+    <!-- Botón de inscripción eliminado 
+    <a class="button" href="https://tally.so/r/nrArkL">Inscribirse Ahora</a> -->
+    <p style="color: red" class="deadline">La fecha de inscripción ya finalizó.</p>
 </section>
+
 
 <h2>Realizado por:</h2>
 
