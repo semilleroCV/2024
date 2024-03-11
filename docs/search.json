@@ -153,7 +153,7 @@
     "href": "Sesiones/sesion2.html",
     "title": "De fotones a pixeles",
     "section": "",
-    "text": "Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración integral te llevará a través de un viaje desde los conceptos fundamentales hasta las complejidades del preprocesamiento, abarcando tanto la óptica detrás de las imágenes como el hardware y software que hacen posible su creación y manipulación. Diseñada para encender la curiosidad y expandir tu comprensión, esta sesión no solo revelará cómo se forman las imágenes digitales, sino que también te introducirá a las herramientas y técnicas esenciales para trabajar con ellas. Con un enfoque en la innovación y la creatividad, te invitamos a descubrir las posibilidades ilimitadas que las imágenes digitales ofrecen para la investigación, el arte y la tecnología.\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 11 de marzo a las 4:00pm",
+    "text": "Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración integral te llevará a través de un viaje desde los conceptos fundamentales hasta las complejidades del preprocesamiento, abarcando tanto la óptica detrás de las imágenes como el hardware y software que hacen posible su creación y manipulación. Diseñada para encender la curiosidad y expandir tu comprensión, esta sesión no solo revelará cómo se forman las imágenes digitales, sino que también te introducirá a las herramientas y técnicas esenciales para trabajar con ellas. Con un enfoque en la innovación y la creatividad, te invitamos a descubrir las posibilidades ilimitadas que las imágenes digitales ofrecen para la investigación, el arte y la tecnología.\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 11 de marzo a las 4:00pm\n\n\n\nRecursos Adicionales\nLink a los notebooks: https://github.com/Factral/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2",
     "crumbs": [
       "Inicio",
       "De fotones a pixeles"
@@ -186,7 +186,7 @@
     "href": "Sesiones/sesion1.html",
     "title": "Piloto",
     "section": "",
-    "text": "En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 4 de marzo a las 4:00pm\n\n\nLink al repositorio: https://github.com/semilleroCV/Hands-on-Computer-Vision",
+    "text": "En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan\n\n\n\n:::{.callout-tip} ##\n\nExplora Nuestro Video Introductorio\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink al repositorio: https://github.com/semilleroCV/Hands-on-Computer-Vision",
     "crumbs": [
       "Inicio",
       "Piloto"
@@ -212,5 +212,16 @@
     "title": "Deteccion",
     "section": "",
     "text": "Espera a que se cargue el modelo de detección de objetos, una vez que se haya cargado se habilitará el botón para activar la cámara.\n\n\n\nCargando modelo de detección de objetos...\n\n\n     Manten algunos objetos cerca de la cámara para que los detecte\n    \n        Habilitar camara"
+  },
+  {
+    "objectID": "Sesiones/sesion1.html#section",
+    "href": "Sesiones/sesion1.html#section",
+    "title": "Piloto",
+    "section": "",
+    "text": "Explora Nuestro Video Introductorio\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink al repositorio: https://github.com/semilleroCV/Hands-on-Computer-Vision",
+    "crumbs": [
+      "Inicio",
+      "Piloto"
+    ]
   }
 ]

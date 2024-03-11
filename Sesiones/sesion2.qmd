@@ -18,3 +18,7 @@ Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración 
 ## aviso!!
 Esta sesion se realizara el dia 11 de marzo a las 4:00pm
 :::
+
+### Recursos Adicionales
+
+Link a los notebooks: <a href="https://github.com/Factral/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2" target="_blank">https://github.com/Factral/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2</a>
