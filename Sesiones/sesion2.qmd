@@ -14,11 +14,14 @@ title: De fotones a pixeles
 Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración integral te llevará a través de un viaje desde los conceptos fundamentales hasta las complejidades del preprocesamiento, abarcando tanto la óptica detrás de las imágenes como el hardware y software que hacen posible su creación y manipulación. Diseñada para encender la curiosidad y expandir tu comprensión, esta sesión no solo revelará cómo se forman las imágenes digitales, sino que también te introducirá a las herramientas y técnicas esenciales para trabajar con ellas. Con un enfoque en la innovación y la creatividad, te invitamos a descubrir las posibilidades ilimitadas que las imágenes digitales ofrecen para la investigación, el arte y la tecnología. 
 :::
 
-:::{.callout-tip}
-## aviso!!
-Esta sesion se realizara el dia 11 de marzo a las 4:00pm
-:::
+### Explora Nuestro Video Introductorio
+
+<iframe width="700" height="515" src="https://www.youtube.com/embed/gv-IROsoaT4?si=PAiqJHErNMfYGQ38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Consulta las Diapositivas de la Sesión
+
+<iframe src="/slides/SemilleroCV_Session2_De_Fotones_a_Pixeles.pdf" width="100%" height="500px"></iframe>
 
 ### Recursos Adicionales
 
-Link a los notebooks: <a href="https://github.com/Factral/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2" target="_blank">https://github.com/Factral/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2</a>
+Link a los notebooks: <a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2" target="_blank">https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2
