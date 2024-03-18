@@ -18,6 +18,7 @@ include-in-header:
     }
     </script>
     <script type="module" src="segment.js"></script>
+    <script type="module" src="worker.js"></script>
 
 
 ---

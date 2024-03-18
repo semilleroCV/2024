@@ -18,7 +18,6 @@ include-in-header:
     }
     </script>
     <script type="module" src="sentimientos.js"></script>
-    <script type="module" src="worker.js"></script>
 
 
 ---

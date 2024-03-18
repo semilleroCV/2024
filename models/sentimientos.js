@@ -13,9 +13,11 @@ document.getElementById("sendButton").addEventListener("click", async () => {
 });
 
 async function analyzeSentiment(text) {
-    const pipe = await pipeline('sentiment-analysis')
+    const pipe = await pipeline('sentiment-analysis','Xenova/bert-base-multilingual-uncased-sentiment')
 
     const result = await pipe(text)
+
+    console.log(result)
     
     return result[0]
 }
