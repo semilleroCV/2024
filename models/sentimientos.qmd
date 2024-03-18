@@ -1,0 +1,35 @@
+---
+title: Analisis de sentimientos
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+    <link rel="stylesheet" href="sentimientos.css" />
+    <script type="importmap">
+    {
+      "imports":{
+        "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+        "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/",
+        "transformers": "https://unpkg.com/@xenova/transformers@2.15.1/dist/transformers.min.js"
+      }
+    }
+    </script>
+    <script type="module" src="sentimientos.js"></script>
+    <script type="module" src="worker.js"></script>
+
+
+---
+
+
+```{=html}
+    <div class="container">
+        Ingresa un texto y presiona el botón para analizar el sentimiento.
+        <br>
+        <input type="text" id="inputText" placeholder="Ingresa tu texto aquí..." />
+        <button id="sendButton">Enviar</button>
+        <div id="result"></div>
+    </div>
+```

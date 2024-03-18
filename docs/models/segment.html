@@ -76,15 +76,17 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 </script>
+<link rel="stylesheet" href="segment.css">
 <script type="importmap">
 {
-    "imports":{
-      "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
-      "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
-    }
+  "imports":{
+    "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/",
+    "transformers": "https://unpkg.com/@xenova/transformers@2.15.1/dist/transformers.min.js"
   }
+}
 </script>
-<script type="module" src="escritorio.js"></script>
+<script type="module" src="segment.js"></script>
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -140,7 +142,7 @@ gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Escritorio</h1>
+<h1 class="title">Segmentacion</h1>
 </div>
 
 
@@ -157,11 +159,29 @@ gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 </header>
 
 
-<div id="canvas" style="width:50%; margin:0 auto;">
-<p style="text-align: center;">
-puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena
-</p>
-</div>
+
+    <div id="container">
+        <label id="upload-button" for="upload">
+            <svg width="25" height="25" viewbox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill="#000" d="M3.5 24.3a3 3 0 0 1-1.9-.8c-.5-.5-.8-1.2-.8-1.9V2.9c0-.7.3-1.3.8-1.9.6-.5 1.2-.7 2-.7h18.6c.7 0 1.3.2 1.9.7.5.6.7 1.2.7 2v18.6c0 .7-.2 1.4-.7 1.9a3 3 0 0 1-2 .8H3.6Zm0-2.7h18.7V2.9H3.5v18.7Zm2.7-2.7h13.3c.3 0 .5 0 .6-.3v-.7l-3.7-5a.6.6 0 0 0-.6-.2c-.2 0-.4 0-.5.3l-3.5 4.6-2.4-3.3a.6.6 0 0 0-.6-.3c-.2 0-.4.1-.5.3l-2.7 3.6c-.1.2-.2.4 0 .7.1.2.3.3.6.3Z">
+                </path>
+            </svg>
+            Click para subir una imagen
+            <label id="example">(o usa el ejemplo)</label>
+        </label>
+        <canvas id="mask-output"></canvas>
+    </div>
+    <label id="status"></label>
+    <div id="controls">
+        <button id="reset-image">Reiniciar imagen</button>
+        <button id="clear-points">Limpiar puntos</button>
+        <button id="cut-mask" disabled="">Recortar mascara</button>
+    </div>
+    <p id="information">
+        Clic izquierdo = puntos positivos, clic derecho = puntos negativos.
+    </p>
+    <input id="upload" type="file" accept="image/*">
+<!-- Import TensorFlow.js library -->
 
 
 
@@ -572,7 +592,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/edit/main/models/escritorio.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/edit/main/models/segment.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>© 2024 Hands-on Computer Vision. Todos los derechos reservados.</p>
 </div>

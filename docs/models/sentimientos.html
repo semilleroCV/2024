@@ -76,15 +76,18 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 </script>
+<link rel="stylesheet" href="sentimientos.css">
 <script type="importmap">
 {
-    "imports":{
-      "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
-      "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
-    }
+  "imports":{
+    "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/",
+    "transformers": "https://unpkg.com/@xenova/transformers@2.15.1/dist/transformers.min.js"
   }
+}
 </script>
-<script type="module" src="escritorio.js"></script>
+<script type="module" src="sentimientos.js"></script>
+<script type="module" src="worker.js"></script>
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -140,7 +143,7 @@ gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Escritorio</h1>
+<h1 class="title">Analisis de sentimientos</h1>
 </div>
 
 
@@ -157,11 +160,13 @@ gtag('config', 'G-ZXNWL4ZT8E', { 'anonymize_ip': true});
 </header>
 
 
-<div id="canvas" style="width:50%; margin:0 auto;">
-<p style="text-align: center;">
-puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena
-</p>
-</div>
+    <div class="container">
+        Ingresa un texto y presiona el botón para analizar el sentimiento.
+        <br>
+        <input type="text" id="inputText" placeholder="Ingresa tu texto aquí...">
+        <button id="sendButton">Enviar</button>
+        <div id="result"></div>
+    </div>
 
 
 
@@ -572,7 +577,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/edit/main/models/escritorio.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/edit/main/models/sentimientos.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>© 2024 Hands-on Computer Vision. Todos los derechos reservados.</p>
 </div>

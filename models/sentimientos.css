@@ -1,0 +1,50 @@
+
+
+.container {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    margin-top: 20px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}
+
+button {
+    display: block;
+    width: 150px;
+    padding: 10px;
+    margin: 20px auto 0;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+/* Estilos existentes... */
+
+#result {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    border: 2px solid #007bff;
+    background-color: #f0f8ff;
+    color: #000;
+    display: none; /* Inicialmente oculto */
+}
+
+.result-item {
+    margin-bottom: 10px;
+}
+
+.result-item span {
+    font-weight: bold;
+}
