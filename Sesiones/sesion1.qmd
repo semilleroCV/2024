@@ -21,7 +21,7 @@ En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nu
 
 ### Explora Nuestro Video Introductorio
 
-<iframe width="700" height="515" src="https://www.youtube.com/embed/4RzxN0HSqHk?si=bLCcdFgd_Z9Z9RnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="515" src="https://www.youtube.com/embed/pV72XKbUTZ0?si=yf3hp_rx-zjm93WD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Consulta las Diapositivas de la Sesión
 
@@ -29,4 +29,4 @@ En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nu
 
 ### Recursos Adicionales
 
-Link al repositorio: <a href="https://github.com/semilleroCV/Hands-on-Computer-Vision">https://github.com/semilleroCV/Hands-on-Computer-Vision</a>
+Link al repositorio: <a href="https://github.com/semilleroCV/Hands-on-Computer-Vision" target="_blank">https://github.com/semilleroCV/Hands-on-Computer-Vision</a>
