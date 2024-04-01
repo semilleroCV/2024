@@ -15,7 +15,6 @@ Adéntrate en el fascinante mundo de las imágenes multi e hiperespectrales, don
 
 :::
 
-:::{.callout-tip}
-## aviso!!
-Esta sesion se realizara el dia 18 de marzo a las 4:00pm
-:::
+### Recursos Adicionales
+
+Link del notebook: <a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4" target="_blank">https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4</a>
