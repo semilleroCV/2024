@@ -232,10 +232,21 @@
     "href": "Sesiones/sesion3.html#section",
     "title": "Deep learning",
     "section": "",
-    "text": "Explora Nuestro Video Introductorio\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion3",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion3",
     "crumbs": [
       "Inicio",
       "Deep learning"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion4.html#section",
+    "href": "Sesiones/sesion4.html#section",
+    "title": "Imágenes espectrales",
+    "section": "",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
+    "crumbs": [
+      "Inicio",
+      "Imágenes espectrales"
     ]
   }
 ]
