@@ -77,11 +77,11 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion4.html",
-    "href": "Sesiones/sesion4.html",
+    "objectID": "Sesiones/sesion4.html#section",
+    "href": "Sesiones/sesion4.html#section",
     "title": "Imágenes espectrales",
     "section": "",
-    "text": "Adéntrate en el fascinante mundo de las imágenes multi e hiperespectrales, donde la fusión entre imágenes a color y espectrales abre un amplio abanico de aplicaciones. Exploraremos cómo la naturaleza de la luz influye en su formación, desde fenómenos como la refracción, difracción y reflexión. Desde una perspectiva teórica, analizaremos los principios ópticos subyacentes, mientras que en aplicaciones prácticas, exploraremos desde la agricultura de precisión hasta la detección de enfermedades. Al mismo tiempo, nos centraremos en el potencial creativo y analítico de estas imágenes, alentando la exploración con herramientas y técnicas para la manipulación y visualización de datos espectrales y multispectrales.\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
     "crumbs": [
       "Inicio",
       "Imágenes espectrales"
@@ -135,14 +135,14 @@
     "href": "models/depth.html",
     "title": "Deteccion",
     "section": "",
-    "text": "Estimacion de la profundidad\n  \n    \n      \n        \n        \n      \n      Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
+    "text": "Imagen a Point Cloud\n  \n    \n      \n        \n        \n      \n      Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
   },
   {
     "objectID": "galeria.html",
     "href": "galeria.html",
     "title": "Galeria",
     "section": "",
-    "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel Angel\n  \n  \n\n  \n    \n      \n     Escritorio\n  \n  \n\n  \n    \n      \n     Deteccion de objetos\n  \n  \n\n  \n    \n      \n     Estimacion de profundidad\n  \n  \n\n  \n    \n      \n     Segmentacion"
+    "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel Angel\n  \n  \n\n  \n    \n      \n     Escritorio\n  \n  \n\n  \n    \n      \n     Deteccion de objetos\n  \n  \n\n  \n    \n      \n     Imagen a Point cloud\n  \n  \n\n  \n    \n      \n     Segmentacion\n  \n  \n\n    \n    \n      \n     Estimacion de profundidad"
   },
   {
     "objectID": "index.html",
@@ -156,7 +156,7 @@
     "href": "models/depth2.html",
     "title": "Estimacion de la profundidad",
     "section": "",
-    "text": "Estimacion de la profundidad\n  \n    \n      \n        \n        \n      \n      Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
+    "text": "Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
   },
   {
     "objectID": "models/escritorio.html",
@@ -191,11 +191,11 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion3.html",
-    "href": "Sesiones/sesion3.html",
+    "objectID": "Sesiones/sesion3.html#section",
+    "href": "Sesiones/sesion3.html#section",
     "title": "Deep learning",
     "section": "",
-    "text": "Embárcate en un viaje al núcleo del Deep Learning y su revolucionaria aplicación en el campo de la Computer Vision en nuestra sesión. Esta exploración está diseñada para sumergirte rápidamente en los conceptos y técnicas que están redefiniendo la forma en que las máquinas interpretan el mundo visual. Desde la comprensión de redes neuronales convolucionales hasta el descubrimiento de cómo el aprendizaje profundo puede extraer patrones y características complejas de imágenes y videos, esta sesión es una introducción esencial y dinámica a las herramientas y métodos que están en la vanguardia de la visión por computadora.\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 15 de abril a las 4:00pm",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion3",
     "crumbs": [
       "Inicio",
       "Deep learning"
@@ -232,28 +232,6 @@
     "crumbs": [
       "Inicio",
       "TinyML"
-    ]
-  },
-  {
-    "objectID": "Sesiones/sesion3.html#section",
-    "href": "Sesiones/sesion3.html#section",
-    "title": "Deep learning",
-    "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion3",
-    "crumbs": [
-      "Inicio",
-      "Deep learning"
-    ]
-  },
-  {
-    "objectID": "Sesiones/sesion4.html#section",
-    "href": "Sesiones/sesion4.html#section",
-    "title": "Imágenes espectrales",
-    "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
-    "crumbs": [
-      "Inicio",
-      "Imágenes espectrales"
     ]
   }
 ]

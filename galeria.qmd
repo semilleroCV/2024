@@ -44,7 +44,7 @@ format:
   <div class="grid-item">
     <a href="/models/depth.html" class="card">
       <img src="/images/gatodepth.png" alt="Image3">
-     <h3>Estimacion de profundidad</h3>
+     <h3>Imagen a Point cloud</h3>
   </a>
   </div>
 
@@ -52,6 +52,13 @@ format:
     <a href="/models/segment.html" class="card">
       <img src="/images/segment.jpg" alt="Image3">
      <h3>Segmentacion</h3>
+  </a>
+  </div>
+
+    <div class="grid-item">
+    <a href="/models/depth2.html" class="card">
+      <img src="/images/depth2.png" alt="Image3">
+     <h3>Estimacion de profundidad</h3>
   </a>
   </div>
 
