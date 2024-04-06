@@ -55,12 +55,13 @@ format:
   </a>
   </div>
 
-    <div class="grid-item">
+  <div class="grid-item">
     <a href="/models/depth2.html" class="card">
       <img src="/images/depth2.png" alt="Image3">
-     <h3>Estimacion de profundidad</h3>
+     <h3>Estimacion de la profundidad</h3>
   </a>
-  </div>
+</div>
+
 
 
 </div>
