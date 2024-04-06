@@ -16,7 +16,7 @@ Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración 
 
 ### Explora el Video de la Sesión
 
-<iframe width="700" height="515" src="https://www.youtube.com/embed/gv-IROsoaT4?si=PAiqJHErNMfYGQ38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="515" src="https://www.youtube.com/embed/h9pO9EeGfbE?si=F7XzDSo9VtUHSsDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Consulta las Diapositivas de la Sesión
 

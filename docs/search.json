@@ -81,7 +81,7 @@
     "href": "Sesiones/sesion4.html",
     "title": "Imágenes espectrales",
     "section": "",
-    "text": "Adéntrate en el fascinante mundo de las imágenes multi e hiperespectrales, donde la fusión entre imágenes a color y espectrales abre un amplio abanico de aplicaciones. Exploraremos cómo la naturaleza de la luz influye en su formación, desde fenómenos como la refracción, difracción y reflexión. Desde una perspectiva teórica, analizaremos los principios ópticos subyacentes, mientras que en aplicaciones prácticas, exploraremos desde la agricultura de precisión hasta la detección de enfermedades. Al mismo tiempo, nos centraremos en el potencial creativo y analítico de estas imágenes, alentando la exploración con herramientas y técnicas para la manipulación y visualización de datos espectrales y multispectrales.\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 18 de marzo a las 4:00pm",
+    "text": "Adéntrate en el fascinante mundo de las imágenes multi e hiperespectrales, donde la fusión entre imágenes a color y espectrales abre un amplio abanico de aplicaciones. Exploraremos cómo la naturaleza de la luz influye en su formación, desde fenómenos como la refracción, difracción y reflexión. Desde una perspectiva teórica, analizaremos los principios ópticos subyacentes, mientras que en aplicaciones prácticas, exploraremos desde la agricultura de precisión hasta la detección de enfermedades. Al mismo tiempo, nos centraremos en el potencial creativo y analítico de estas imágenes, alentando la exploración con herramientas y técnicas para la manipulación y visualización de datos espectrales y multispectrales.\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
     "crumbs": [
       "Inicio",
       "Imágenes espectrales"
@@ -142,7 +142,7 @@
     "href": "galeria.html",
     "title": "Galeria",
     "section": "",
-    "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel Angel\n  \n  \n\n  \n    \n      \n     Escritorio\n  \n  \n\n  \n    \n      \n     Deteccion de objetos\n  \n  \n\n  \n    \n      \n     Estimacion de profundidad\n  \n  \n\n  \n    \n      \n     Analisis de sentimientos\n  \n  \n\n  \n    \n      \n     Segmentacion"
+    "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel Angel\n  \n  \n\n  \n    \n      \n     Escritorio\n  \n  \n\n  \n    \n      \n     Deteccion de objetos\n  \n  \n\n  \n    \n      \n     Estimacion de profundidad\n  \n  \n\n  \n    \n      \n     Segmentacion"
   },
   {
     "objectID": "index.html",
@@ -232,6 +232,28 @@
     "crumbs": [
       "Inicio",
       "TinyML"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion3.html#section",
+    "href": "Sesiones/sesion3.html#section",
+    "title": "Deep learning",
+    "section": "",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion3",
+    "crumbs": [
+      "Inicio",
+      "Deep learning"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion4.html#section",
+    "href": "Sesiones/sesion4.html#section",
+    "title": "Imágenes espectrales",
+    "section": "",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
+    "crumbs": [
+      "Inicio",
+      "Imágenes espectrales"
     ]
   }
 ]

@@ -14,7 +14,18 @@ title: Deep learning
 Embárcate en un viaje al núcleo del Deep Learning y su revolucionaria aplicación en el campo de la Computer Vision en nuestra sesión. Esta exploración está diseñada para sumergirte rápidamente en los conceptos y técnicas que están redefiniendo la forma en que las máquinas interpretan el mundo visual. Desde la comprensión de redes neuronales convolucionales hasta el descubrimiento de cómo el aprendizaje profundo puede extraer patrones y características complejas de imágenes y videos, esta sesión es una introducción esencial y dinámica a las herramientas y métodos que están en la vanguardia de la visión por computadora. 
 :::
 
-:::{.callout-tip}
-## aviso!!
-Esta sesion se realizara el dia 15 de abril a las 4:00pm
-:::
+
+## 
+
+### Explora el Video de la Sesión
+
+<iframe width="700" height="515" src="https://www.youtube.com/embed/T2BuybnUsII?si=ntC-mgawfsozCpdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Consulta las Diapositivas de la Sesión
+
+<iframe src="/slides/SemilleroCV_Session3_Deep Learning.pdf" width="100%" height="500px"></iframe>
+
+### Recursos Adicionales
+
+Link del notebook: <a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion3" target="_blank">https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion3</a>
+

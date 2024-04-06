@@ -49,15 +49,8 @@ format:
   </div>
 
   <div class="grid-item">
-    <a href="/models/sentimientos.html" class="card">
-      <img src="/images/sentimiento.jpg" alt="Image3">
-     <h3>Analisis de sentimientos</h3>
-  </a>
-  </div>
-
-  <div class="grid-item">
     <a href="/models/segment.html" class="card">
-      <img src="/images/segment.jpg" alt="Image3" width="300px">
+      <img src="/images/segment.jpg" alt="Image3">
      <h3>Segmentacion</h3>
   </a>
   </div>
