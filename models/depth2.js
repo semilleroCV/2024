@@ -9,7 +9,7 @@ env.allowLocalModels = false;
 env.backends.onnx.wasm.proxy = true;
 
 // Constants
-const EXAMPLE_URL = 'https://huggingface.co/datasets/Xenova/transformers.js-docs/resolve/main/bread_small.png';
+const EXAMPLE_URL = '../images/depthexample.jpeg';
 const DEFAULT_SCALE = 0.75;
 
 // Reference the elements that we will need
