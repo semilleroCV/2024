@@ -16,7 +16,7 @@ In construction
 
 :::{.callout-tip}
 ## aviso!!
-Esta sesion se realizara el dia 13 de mayo a las 4:00pm
+Esta sesion se realizara el dia 20 de mayo a las 4:00pm
 :::
 
 ::: {.callout-warning}
