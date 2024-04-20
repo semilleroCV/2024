@@ -7,7 +7,14 @@ title: Estimación *activa* de la profundidad
     }
     </style>
 
+::: {layout="[35,65]"}
+
+![](../images/sesiones/sesion5.webp)
+
+Explora la estimación activa de profundidad, un campo crucial en tecnología avanzada, donde técnicas como la luz estructurada y el tiempo de vuelo abren nuevas dimensiones en robótica y realidad aumentada. Este tópico no solo es fundamental para entender cómo interactuamos con el espacio tridimensional, sino que también es esencial para el avance de tecnologías emergentes que moldean nuestro futuro
+
 :::
+
 
 ## 
 
