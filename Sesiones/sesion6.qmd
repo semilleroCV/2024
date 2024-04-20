@@ -7,14 +7,20 @@ title: Estimación *activa* de la profundidad
     }
     </style>
 
-::: {layout="[35,65]"}
-
-![](../images/sesiones/sesion5.webp)
-
-En esta sesión piloto, nos sumergiremos de lleno en el corazón de lo que es nuestro semillero, ofreciendo desde los primeros instantes una experiencia cautivadora que ilustra las bases y el propósito de nuestra iniciativa. Estos fundamentos son el pilar de nuestra misión, brindando una ventana a la pasión y dedicación que han sido el motor de este proyecto desde su concepción. Al participar en esta introducción, no solo descubrirás la esencia de nuestro semillero, sino que también te conectarás con las motivaciones y aspiraciones que nos impulsan
 :::
 
-:::{.callout-tip}
-## aviso!!
-Esta sesion se realizara el dia 8 de abril a las 4:00pm
-:::
+## 
+
+### Explora el Video de la Sesión
+
+<iframe width="700" height="515" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Consulta las Diapositivas de la Sesión
+
+<iframe src="/slides/SemilleroCV_Session6_ActiveDepthImaging.pdf" width="100%" height="500px"></iframe>
+
+### Recursos Adicionales
+
+Link del notebook: <a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion6" target="_blank">https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion6</a>
+
+
