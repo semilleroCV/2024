@@ -19,6 +19,9 @@ website:
         href: sesiones.qmd
       - text: Galería
         href: galeria.qmd
+      - text: Proyectos
+        href: proyectos.qmd
+        
 
 
 

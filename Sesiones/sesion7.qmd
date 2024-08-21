@@ -14,7 +14,18 @@ title: Segmentación
 Adéntrate en el corazón de las imágenes con nuestra sesión dedicada a la Segmentación Semántica y de Materiales, donde la tecnología se encuentra con la percepción para desentrañar la composición y el significado oculto detrás de cada píxel. Esta sesión te guiará a través de las últimas técnicas y herramientas que permiten a las máquinas no solo reconocer objetos y escenas, sino también entender su materialidad y esencia.
 :::
 
-:::{.callout-tip}
-## aviso!!
-Esta sesion se realizara el dia 29 de abril a las 4:00pm
-:::
+## 
+
+### Explora el Video de la Sesión
+
+<!-- <iframe width="700" height="515" src="https://www.youtube.com/embed/pGjUVlc640E?si=04RcvXqyvFnjq2ZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+### Consulta las Diapositivas de la Sesión
+
+<iframe src="/slides/SemilleroCV_Session8_ImageSegmentation.pdf" width="100%" height="500px"></iframe>
+
+### Recursos Adicionales
+
+Link del notebook: <a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion8" target="_blank">https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion8</a>
+
+

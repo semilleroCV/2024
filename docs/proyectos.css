@@ -1,0 +1,105 @@
+/* Estilo general del contenedor */
+.container {
+    height: 600px;  /* Incrementado para mayor altura */
+    width: 100%;  /* Mantiene el 100% del ancho disponible */
+    max-width: 1200px; /* Aumentado el tamaño máximo para mayor presencia */
+    border-radius: 1em;
+    overflow: hidden;
+    box-shadow: 0 15px 30px #dbdbdb;  /* Sombra incrementada para mayor profundidad */
+    font-family: sans-serif;
+    margin: 0 auto;  /* Centrado del contenedor */
+}
+
+/* Disposición de la paleta */
+.palette {
+    display: flex;
+    height: 90%;  /* Aumentado para ocupar casi todo el contenedor */
+    width: 100%;
+}
+
+/* Estilo de cada color/proyecto */
+.color {
+    height: 100%;
+    flex: 1;
+    position: relative;  /* Posiciona el contenido dentro del color */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: flex 0.2s linear, background-size 0.2s linear;  /* Transición más suave */
+    background-size: cover;  /* Imagen de fondo cubre todo el bloque */
+    background-position: center;
+    border-radius: 1em;  /* Bordes redondeados para un look más moderno */
+    background-repeat: no-repeat;
+}
+
+.color span {
+    opacity: 0;
+    transition: opacity 0.2s linear;  /* Transición más suave para la opacidad */
+}
+
+/* Contenido dentro de cada color/proyecto */
+.color .content {
+    position: absolute;
+    bottom: 20px;  /* Ajustado para mayor espacio visual */
+    left: 20px;
+    right: 20px;
+    background: rgba(0, 0, 0, 0.7);  /* Fondo ligeramente más oscuro para mayor legibilidad */
+    padding: 20px;  /* Más espacio alrededor del texto */
+    border-radius: 10px;  /* Bordes más redondeados */
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.4s ease;  /* Transición más lenta para un efecto más suave */
+    height: 110px;  /* Establece una altura fija para asegurar que todos los títulos ocupen el mismo espacio */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+/* Ajuste del estilo de los títulos para tamaño y alineación */
+.color .content h3 {
+    font-size: 16px;  /* Tamaño de fuente más pequeño */
+    line-height: 1.2;  /* Ajusta la altura de la línea */
+    margin: 0;  /* Elimina el margen para asegurar que el texto esté centrado */
+    text-align: center;  /* Asegura que el texto esté centrado horizontalmente */
+    display: inline-block;  /* Permite que el título respete la altura fija del contenedor */
+}
+
+/* Efecto al pasar el ratón */
+.color:hover {
+    flex: 4;  /* Aumentado para mayor ampliación en hover */
+    box-shadow: rgba(100, 100, 111, 0.3) 0px 10px 40px;  /* Sombra más pronunciada en hover */
+}
+
+.color:hover span,
+.color:hover .content {
+    opacity: 1;  /* Muestra el texto y contenido al hacer hover */
+}
+
+/* Estilos específicos para cada proyecto */
+.project1 {
+    background-image: url('images/proyectos/passive.png');
+}
+
+.project2 {
+    background-image: url('images/proyectos/material.png');
+}
+
+.project3 {
+    background-image: url('images/proyectos/depth.png');
+}
+
+.project4 {
+    background-image: url('images/proyectos/spectral.jpg');
+}
+
+.project5 {
+    background-image: url('images/proyectos/classification.png');
+}
+
+.project6 {
+    background-image: url('images/proyectos/transformer.png');
+}

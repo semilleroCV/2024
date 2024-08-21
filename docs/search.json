@@ -7,25 +7,21 @@
     "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel Angel\n  \n  \n\n  \n    \n      \n     Escritorio\n  \n  \n\n  \n    \n      \n     Deteccion de objetos\n  \n  \n\n  \n    \n      \n     Imagen a Point cloud\n  \n  \n\n  \n    \n      \n     Segmentacion\n  \n  \n\n  \n    \n      \n     Estimacion de la profundidad"
   },
   {
-    "objectID": "Sesiones/sesion2.html",
-    "href": "Sesiones/sesion2.html",
-    "title": "De fotones a pixeles",
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
     "section": "",
-    "text": "Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración integral te llevará a través de un viaje desde los conceptos fundamentales hasta las complejidades del preprocesamiento, abarcando tanto la óptica detrás de las imágenes como el hardware y software que hacen posible su creación y manipulación. Diseñada para encender la curiosidad y expandir tu comprensión, esta sesión no solo revelará cómo se forman las imágenes digitales, sino que también te introducirá a las herramientas y técnicas esenciales para trabajar con ellas. Con un enfoque en la innovación y la creatividad, te invitamos a descubrir las posibilidades ilimitadas que las imágenes digitales ofrecen para la investigación, el arte y la tecnología.\n\n\n\n\nExplora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink a los notebooks: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2",
-    "crumbs": [
-      "Inicio",
-      "De fotones a pixeles"
-    ]
+    "text": "Aquí puedes explorar los proyectos finales desarrollados por nuestro semillero de investigación “Hands on Computer Vision”.\n\n\n  \n    \n      \n        Reconstrucción 3D de escenas mediante técnicas de profundidad pasiva\n      \n    \n    \n      \n        Clasificación de Materiales\n      \n    \n    \n      \n        Detección de objetos y estimación de la profundidad usando un sistema de visión estéreo\n      \n    \n    \n      \n        Evaluación Post-Incendio de la vegetación del Páramo de Santurbán.\n      \n    \n    \n      \n        Clasificación de imágenes espectrales\n      \n    \n    \n      \n        Evaluación de Visión Transformers en Clasificación de Imágenes"
   },
   {
-    "objectID": "Sesiones/sesion6.html",
-    "href": "Sesiones/sesion6.html",
-    "title": "Estimación activa de la profundidad",
+    "objectID": "Sesiones/sesion4.html#section",
+    "href": "Sesiones/sesion4.html#section",
+    "title": "Imágenes espectrales",
     "section": "",
-    "text": "::: {layout=“[35,65]”}\nExplora la estimación activa de profundidad, un campo crucial en tecnología avanzada, donde técnicas como la luz estructurada y el tiempo de vuelo abren nuevas dimensiones en robótica y realidad aumentada. Este tópico no solo es fundamental para entender cómo interactuamos con el espacio tridimensional, sino que también es esencial para el avance de tecnologías emergentes que moldean nuestro futuro",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
     "crumbs": [
       "Inicio",
-      "Estimación *activa* de la profundidad"
+      "Imágenes espectrales"
     ]
   },
   {
@@ -40,11 +36,11 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion5.html",
-    "href": "Sesiones/sesion5.html",
+    "objectID": "Sesiones/sesion5.html#section",
+    "href": "Sesiones/sesion5.html#section",
     "title": "Estimación pasiva de la profundidad",
     "section": "",
-    "text": ":::",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion5",
     "crumbs": [
       "Inicio",
       "Estimación *pasiva* de la profundidad"
@@ -180,11 +176,11 @@
     "text": "Imagen a Point Cloud\n  \n    \n      \n        \n        \n      \n      Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
   },
   {
-    "objectID": "Sesiones/sesion7.html",
-    "href": "Sesiones/sesion7.html",
+    "objectID": "Sesiones/sesion7.html#section",
+    "href": "Sesiones/sesion7.html#section",
     "title": "Segmentación",
     "section": "",
-    "text": "Adéntrate en el corazón de las imágenes con nuestra sesión dedicada a la Segmentación Semántica y de Materiales, donde la tecnología se encuentra con la percepción para desentrañar la composición y el significado oculto detrás de cada píxel. Esta sesión te guiará a través de las últimas técnicas y herramientas que permiten a las máquinas no solo reconocer objetos y escenas, sino también entender su materialidad y esencia.\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 29 de abril a las 4:00pm",
+    "text": "Explora el Video de la Sesión\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion8",
     "crumbs": [
       "Inicio",
       "Segmentación"
@@ -213,17 +209,6 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion4.html#section",
-    "href": "Sesiones/sesion4.html#section",
-    "title": "Imágenes espectrales",
-    "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
-    "crumbs": [
-      "Inicio",
-      "Imágenes espectrales"
-    ]
-  },
-  {
     "objectID": "Sesiones/sesion6.html#section",
     "href": "Sesiones/sesion6.html#section",
     "title": "Estimación activa de la profundidad",
@@ -235,14 +220,14 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion5.html#section",
-    "href": "Sesiones/sesion5.html#section",
-    "title": "Estimación pasiva de la profundidad",
+    "objectID": "Sesiones/sesion2.html",
+    "href": "Sesiones/sesion2.html",
+    "title": "De fotones a pixeles",
     "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion5",
+    "text": "Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración integral te llevará a través de un viaje desde los conceptos fundamentales hasta las complejidades del preprocesamiento, abarcando tanto la óptica detrás de las imágenes como el hardware y software que hacen posible su creación y manipulación. Diseñada para encender la curiosidad y expandir tu comprensión, esta sesión no solo revelará cómo se forman las imágenes digitales, sino que también te introducirá a las herramientas y técnicas esenciales para trabajar con ellas. Con un enfoque en la innovación y la creatividad, te invitamos a descubrir las posibilidades ilimitadas que las imágenes digitales ofrecen para la investigación, el arte y la tecnología.\n\n\n\n\nExplora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink a los notebooks: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2",
     "crumbs": [
       "Inicio",
-      "Estimación *pasiva* de la profundidad"
+      "De fotones a pixeles"
     ]
   }
 ]

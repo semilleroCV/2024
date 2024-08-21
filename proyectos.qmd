@@ -1,0 +1,51 @@
+---
+title: "Proyectos"
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+    css: proyectos.css
+---
+
+Aquí puedes explorar los proyectos finales desarrollados por nuestro semillero de investigación "Hands on Computer Vision".
+
+```{=html}
+
+<div class="container">
+  <div class="palette">
+    <div class="color project1">
+      <div class="content">
+        <h3>Reconstrucción 3D de escenas mediante técnicas de profundidad pasiva</h3>
+      </div>
+    </div>
+    <div class="color project2">
+      <div class="content">
+        <h3>Clasificación de Materiales</h3>
+      </div>
+    </div>
+    <div class="color project3">
+      <div class="content">
+        <h3>Detección de objetos y estimación de la profundidad usando un sistema de visión estéreo</h3>
+      </div>
+    </div>
+    <div class="color project4">
+      <div class="content">
+        <h3>Evaluación Post-Incendio de la vegetación del Páramo de Santurbán.</h3>
+      </div>
+    </div>
+    <div class="color project5">
+      <div class="content">
+        <h3>Clasificación de imágenes espectrales</h3>
+      </div>
+    </div>
+    <div class="color project6">
+      <div class="content">
+        <h3>Evaluación de Visión Transformers en Clasificación de Imágenes</h3>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+```
