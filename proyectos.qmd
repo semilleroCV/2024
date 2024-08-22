@@ -23,7 +23,7 @@ format:
     </div>
     <div class="color project3">
       <div class="content">
-        <h3>Detección de objetos y estimación de la profundidad usando un sistema de visión estéreo</h3>
+        <h3>Detección de objetos y estimación de la profundidad para entornos urbanos en Bucaramanga</h3>
       </div>
     </div>
     <div class="color project4">
