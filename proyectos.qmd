@@ -7,9 +7,6 @@ format:
     page-layout: full
     css: proyectos.css
 ---
-
-Aquí puedes explorar los proyectos finales desarrollados por nuestro semillero de investigación "Hands on Computer Vision".
-
 ```{=html}
 
 <div class="container">
@@ -31,7 +28,7 @@ Aquí puedes explorar los proyectos finales desarrollados por nuestro semillero 
     </div>
     <div class="color project4">
       <div class="content">
-        <h3>Evaluación Post-Incendio de la vegetación del Páramo de Santurbán.</h3>
+        <h3>Evaluación Post-Incendio de la vegetación del Páramo de Santurbán</h3>
       </div>
     </div>
     <div class="color project5">
