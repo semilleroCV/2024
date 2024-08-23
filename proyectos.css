@@ -1,23 +1,38 @@
+/* Centrar el título de la página */
+.page-title {
+    text-align: center;
+    font-size: 2.5em; /* Tamaño de fuente para hacer que el título destaque */
+    font-weight: bold;
+    margin-top: 20px; /* Espacio superior */
+    margin-bottom: 20px; /* Espacio inferior */
+    color: #008780; /* Color del título que combina con el diseño */
+}
+
 /* General container style */
 .container {
-    height: 600px;
+    height: 60vh; /* Asegura que el contenedor ocupe toda la altura de la ventana */
     width: 100%;
     max-width: none;
     border-radius: 1em;
     overflow: hidden;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); /* Reduced shadow */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); /* Sombra reducida */
     font-family: sans-serif;
     margin: 0;
     padding: 20px;
-    background: linear-gradient(to bottom right, #008780, #10b981, #6ee7b7);  /* Gradient background */
+    background: linear-gradient(to bottom right, #008780, #10b981, #6ee7b7);  /* Fondo de degradado */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centra el contenido verticalmente */
 }
 
 /* Palette layout */
 .palette {
     display: flex;
-    height: 90%;
+    height: 90%; /* Ajuste de altura para las paletas dentro del contenedor */
     width: 100%;
     gap: 5px;
+    align-items: center; /* Centra verticalmente las paletas */
+    flex-direction: row; /* Disposición horizontal predeterminada */
 }
 
 /* Style for each color/project */
@@ -48,42 +63,43 @@
     width: 100%;
     height: 100%;
     z-index: 1;
+    transition: background 0.3s ease-in-out;
 }
 
 /* Content inside each color/project */
 .color .content {
     position: absolute;
-    z-index: 2; 
+    z-index: 2;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Center content vertically */
-    align-items: center; /* Center content horizontally */
+    justify-content: center; /* Centra el contenido verticalmente */
+    align-items: center; /* Centra el contenido horizontalmente */
     padding: 20px;
-    text-align: center; /* Center text */
-    background: rgba(0, 0, 0, 0.5);  
+    text-align: center; /* Centra el texto */
+    background: rgba(0, 0, 0, 0.5);
     opacity: 1;
-    transition: opacity 0.3s ease-in-out;  
+    transition: opacity 0.3s ease-in-out;
 }
 
 /* Title positioned at the top and centered */
 .color .content .title {
-    font-size: 20px; /* Increased font size */
+    font-size: 20px; /* Tamaño de fuente aumentado */
     line-height: 1.4;
     margin: 0;
-    color: #FFFFFF;  
+    color: #FFFFFF;
     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8);
-    opacity: 1;  
+    opacity: 1;
 }
 
 /* Description positioned at the bottom, centered, and hidden by default */
 .color .content .description {
-    font-size: 16px; /* Increased font size */
+    font-size: 16px; /* Tamaño de fuente aumentado */
     color: #ecfdf5;
-    opacity: 0;  
+    opacity: 0;
     height: 0;
     margin-top: 10px;
     overflow: hidden;
@@ -92,20 +108,18 @@
 
 /* On hover, show the description */
 .color:hover .content .description {
-    opacity: 1;  
+    opacity: 1;
     height: auto;
-}
-
-/* Hide content of non-hovered cards */
-.palette:hover .color:not(:hover) .content {
-    opacity: 0;  
-    
 }
 
 /* Hover effect */
 .color:hover {
     flex: 4;
-    
+}
+
+/* Hide content of non-hovered cards */
+.palette:hover .color:not(:hover) .content {
+    opacity: 0;
 }
 
 /* Specific styles for each project */
@@ -131,4 +145,17 @@
 
 .project6 {
     background-image: url('/images/proyectos/project6.webp');
+}
+
+/* Media Query: Vertical Layout for Mobile Devices */
+@media (max-width: 768px) {
+    .palette {
+        flex-direction: column; /* Cambiar a disposición vertical */
+        height: auto; /* Ajustar altura para acomodar todas las paletas verticalmente */
+    }
+
+    .color {
+        height: 150px; /* Ajustar la altura de cada paleta en dispositivos móviles */
+        flex: 1 1 auto; /* Permitir que cada paleta tenga una altura adecuada */
+    }
 }
