@@ -99,11 +99,13 @@
 /* Hide content of non-hovered cards */
 .palette:hover .color:not(:hover) .content {
     opacity: 0;  
+    
 }
 
 /* Hover effect */
 .color:hover {
     flex: 4;
+    
 }
 
 /* Specific styles for each project */
