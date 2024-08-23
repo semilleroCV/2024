@@ -139,6 +139,15 @@
 /* Hide content of non-hovered cards */
 .palette:hover .color:not(:hover) .content {
     opacity: 1;
+    background: rgba(0, 0, 0, 0.7);
+    transition: background 0.3s;
+
+}
+
+.palette:hover .color:hover .content {
+    background: rgba(0, 0, 0, 0.4);
+    transition: background 0.3s;
+
 }
 
 /* Specific styles for each project */
