@@ -1,16 +1,36 @@
 /* Centrar el título de la página */
 .page-title {
     text-align: center;
-    font-size: 2.5em; /* Tamaño de fuente para hacer que el título destaque */
+    font-size: 3em; /* Aumentar el tamaño de la fuente */
     font-weight: bold;
-    margin-top: 20px; /* Espacio superior */
-    margin-bottom: 20px; /* Espacio inferior */
-    color: #008780; /* Color del título que combina con el diseño */
+    margin-top: 30px; /* Más espacio superior */
+    margin-bottom: 30px; /* Más espacio inferior */
+    color: #008780; /* Color de respaldo */
+    background: linear-gradient(90deg, #008780, #10b981, #6ee7b7); /* Degradado de color */
+    -webkit-background-clip: text; /* Aplicar el degradado solo al texto */
+    -webkit-text-fill-color: transparent; /* Hacer el relleno del texto transparente para mostrar el degradado */
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.15); /* Sombra sutil para dar profundidad */
+    font-family: 'Poppins', sans-serif; /* Cambiar la tipografía por algo más estilizado */
+    letter-spacing: 2px; /* Espaciado entre letras */
+    text-transform: uppercase; /* Transformar el texto a mayúsculas para mayor impacto */
+    position: relative; /* Posicionamiento relativo para elementos pseudo */
+}
+
+/* Efecto decorativo adicional debajo del título */
+.page-title::after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 4px;
+    background: #10b981; /* Color de la línea decorativa */
+    margin: 15px auto 0; /* Centrando la línea */
+    border-radius: 2px; /* Bordes redondeados para la línea */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Sombra de la línea */
 }
 
 /* General container style */
 .container {
-    height: 60vh; /* Asegura que el contenedor ocupe toda la altura de la ventana */
+    height: 60vh;
     width: 100%;
     max-width: none;
     border-radius: 1em;
@@ -32,13 +52,12 @@
     width: 100%;
     gap: 5px;
     align-items: center; /* Centra verticalmente las paletas */
-    flex-direction: row; /* Disposición horizontal predeterminada */
 }
 
 /* Style for each color/project */
 .color {
     height: 100%;
-    flex: 1 1 0;
+    flex: 1 1 auto; /* Ajuste de flexibilidad */
     position: relative;
     display: flex;
     align-items: center;
@@ -119,7 +138,7 @@
 
 /* Hide content of non-hovered cards */
 .palette:hover .color:not(:hover) .content {
-    opacity: 0;
+    opacity: 1;
 }
 
 /* Specific styles for each project */
@@ -147,15 +166,23 @@
     background-image: url('/images/proyectos/project6.webp');
 }
 
-/* Media Query: Vertical Layout for Mobile Devices */
+/* Media query para dispositivos móviles */
 @media (max-width: 768px) {
+    .container {
+        height: auto; /* Permite que el contenedor se ajuste según el contenido */
+    }
+    
     .palette {
-        flex-direction: column; /* Cambiar a disposición vertical */
-        height: auto; /* Ajustar altura para acomodar todas las paletas verticalmente */
+        flex-direction: column; /* Cambia la orientación a vertical */
+        height: auto; /* Ajuste de altura para la disposición vertical */
     }
 
     .color {
-        height: 150px; /* Ajustar la altura de cada paleta en dispositivos móviles */
-        flex: 1 1 auto; /* Permitir que cada paleta tenga una altura adecuada */
+        height: 150px; /* Ajustar la altura de cada proyecto en dispositivos móviles */
+        width: 100%; /* Asegura que los proyectos ocupen todo el ancho disponible */
+    }
+
+    .color:hover {
+        flex: 1; /* Desactiva el cambio de tamaño en dispositivos móviles */
     }
 }
