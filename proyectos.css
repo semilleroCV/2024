@@ -175,6 +175,11 @@
     background-image: url('/images/proyectos/project6.webp');
 }
 
+.project7 {
+    background-image: url('/images/proyectos/project7.webp');
+}
+
+
 /* Media query para dispositivos móviles */
 @media (max-width: 768px) {
     .container {
