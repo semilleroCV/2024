@@ -18,7 +18,7 @@ Adéntrate en el corazón de las imágenes con nuestra sesión dedicada a la Seg
 
 ### Explora el Video de la Sesión
 
-<!-- <iframe width="700" height="515" src="https://www.youtube.com/embed/pGjUVlc640E?si=04RcvXqyvFnjq2ZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="700" height="515" src="https://www.youtube.com/embed/GzI1NYrKPuI?si=aOlOmTxhazaRgJrB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Consulta las Diapositivas de la Sesión
 

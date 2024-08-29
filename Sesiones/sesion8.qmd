@@ -14,12 +14,19 @@ title: Imágenes térmicas
 
 Descubre el invisible espectro del calor en nuestra sesión sobre imágenes térmicas. Aprenderás cómo estas poderosas herramientas revelan el mundo oculto de la energía térmica, abriendo nuevas perspectivas en campos como la seguridad, la medicina y el medio ambiente. Esta introducción te equipará con el conocimiento básico para comprender y aplicar la tecnología térmica en diversos contextos, transformando tu manera de ver el mundo.
 :::
+## 
+
+### Explora el Video de la Sesión
+
+<iframe width="700" height="515" src="https://www.youtube.com/embed/EynS8_fFFfM?si=qjt0xj96357_znll" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Consulta las Diapositivas de la Sesión
+
+<iframe src="/slides/SemilleroCV_Session9_ThermalImaging.pdf" width="100%" height="500px"></iframe>
+
+### Recursos Adicionales
+
+Link del notebook: <a href="https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion9" target="_blank">https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion9</a>
 
 
-
-
-:::{.callout-tip}
-## aviso!!
-Esta sesion se realizara el dia 6 de mayo a las 4:00pm
-:::
 
