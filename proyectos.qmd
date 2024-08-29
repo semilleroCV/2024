@@ -8,6 +8,28 @@ format:
 ---
 <div class="page-title">Proyectos</div>
 
+<div style="
+    background: linear-gradient(90deg, #008780, #10b981, #6ee7b7);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+">
+<p style="margin: 0; font-size: 16px;">
+  Para asistir a la presentación el 2 de septiembre de 4:00 p.m. a 6:00 p.m. en el auditorio del Centic, diligencia:
+    <a href="https://forms.gle/ACnyCE1dsgj7nJX97" target="_blank" style="
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: bold;
+        border-bottom: 2px solid #ffffff;
+        transition: border-bottom 0.3s;
+    ">este formulario</a>
+</p>
+</div>
+
 ```{=html}
 
 <div class="container">
