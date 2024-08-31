@@ -1,6 +1,5 @@
 [
   {
-<<<<<<< HEAD
     "objectID": "galeria.html",
     "href": "galeria.html",
     "title": "Galeria",
@@ -8,11 +7,65 @@
     "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel Angel\n  \n  \n\n  \n    \n      \n     Escritorio\n  \n  \n\n  \n    \n      \n     Deteccion de objetos\n  \n  \n\n  \n    \n      \n     Imagen a Point cloud\n  \n  \n\n  \n    \n      \n     Segmentacion\n  \n  \n\n  \n    \n      \n     Estimacion de la profundidad"
   },
   {
-    "objectID": "proyectos.html",
-    "href": "proyectos.html",
-    "title": "Computer Vision",
+    "objectID": "models/detection.html",
+    "href": "models/detection.html",
+    "title": "Deteccion",
     "section": "",
-    "text": "Proyectos\n\n\n\n  \n    \n      \n        Proyecto 1\n        Reconstrucción 3D de escenas mediante técnicas de profundidad pasiva\n      \n    \n    \n      \n        Proyecto 2\n        Clasificación de materiales\n      \n    \n    \n      \n        Proyecto 3\n        Detección de objetos y estimación de la profundidad para entornos urbanos en Bucaramanga\n      \n    \n    \n      \n        Proyecto 4\n        Evaluación post-incendio de la vegetación del Páramo de Santurbán\n      \n    \n    \n      \n        Proyecto 5\n        Clasificación de imágenes espectrales\n      \n    \n    \n      \n        Proyecto 6\n        Evaluación de Visión Transformers en clasificación de imágenes\n      \n    \n    \n      \n        Proyecto 7\n        Diagnóstico del cáncer de mama mediante modelos preentrenados y ajustados con imágenes térmicas"
+    "text": "Espera a que se cargue el modelo de detección de objetos, una vez que se haya cargado se habilitará el botón para activar la cámara.\n\n\n\nCargando modelo de detección de objetos...\n\n\n     Manten algunos objetos cerca de la cámara para que los detecte\n    \n        Habilitar camara"
+  },
+  {
+    "objectID": "models/depth.html",
+    "href": "models/depth.html",
+    "title": "Deteccion",
+    "section": "",
+    "text": "Imagen a Point Cloud\n  \n    \n      \n        \n        \n      \n      Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
+  },
+  {
+    "objectID": "models/miguel.html",
+    "href": "models/miguel.html",
+    "title": "Miguel Angel",
+    "section": "",
+    "text": "puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena"
+  },
+  {
+    "objectID": "models/segment.html",
+    "href": "models/segment.html",
+    "title": "Segmentacion",
+    "section": "",
+    "text": "Click para subir una imagen\n            (o usa el ejemplo)\n        \n        \n    \n    \n    \n        Reiniciar imagen\n        Limpiar puntos\n        Recortar mascara\n    \n    \n        Clic izquierdo = puntos positivos, clic derecho = puntos negativos."
+  },
+  {
+    "objectID": "Sesiones/sesion1.html#section",
+    "href": "Sesiones/sesion1.html#section",
+    "title": "Piloto",
+    "section": "",
+    "text": "Explora Nuestro Video Introductorio\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink al repositorio: https://github.com/semilleroCV/Hands-on-Computer-Vision",
+    "crumbs": [
+      "Inicio",
+      "Piloto"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion6.html#section",
+    "href": "Sesiones/sesion6.html#section",
+    "title": "Estimación activa de la profundidad",
+    "section": "",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion6",
+    "crumbs": [
+      "Inicio",
+      "Estimación *activa* de la profundidad"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion7.html#section",
+    "href": "Sesiones/sesion7.html#section",
+    "title": "Segmentación",
+    "section": "",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion8",
+    "crumbs": [
+      "Inicio",
+      "Segmentación"
+    ]
   },
   {
     "objectID": "Sesiones/sesion4.html#section",
@@ -26,41 +79,20 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion3.html#section",
-    "href": "Sesiones/sesion3.html#section",
-    "title": "Deep learning",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nSemillero  Hands-on   Computer Vision\n",
     "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion3",
-    "crumbs": [
-      "Inicio",
-      "Deep learning"
-    ]
+    "text": "Semillero  Hands-on   Computer Vision\n\n\n\n\n \n \n\n\n\n\nExplora el Futuro de la Visión por Computadora\n\n\nÚnete a nosotros en el Semillero “Hands-on Computer Vision” y sumérgete en una experiencia única que fusiona la teoría con la práctica en el fascinante mundo de la visión por computadora. Nos enfocaremos en temas avanzados como Fotografía computacional, Aprendizaje profundo, Imágenes térmicas, Imágenes espectrales, Estimación de la profundidad y más. Este semillero te brindará la oportunidad de adentrarte en las tecnologías de vanguardia, utilizando herramientas como OpenCV y Python.\n\n\n\n\nCronograma\n\n\nTodas las sesiones se llevarán a cabo los días lunes de 4:00 p.m. a 6:00 p.m en la UIS a partir del 4 de marzo\n\n\n\n\n\nFecha\n\n\nTítulo\n\n\nDescripción\n\n\n\n\n\n\nMarzo 4\n\n\nPiloto\n\n\nEsta sesión es introductoria al semillero en general\n\n\n\n\nMarzo 11\n\n\nDe fotones a pixeles\n\n\nGeneralidades sobre la adquisición y procesamiento digital de imágenes\n\n\n\n\nMarzo 18\n\n\nDeep Learning\n\n\nDespierta el poder de la inteligencia artificial en la visión por computadora\n\n\n\n\nAbril 1\n\n\nImágenes espectrales\n\n\nConoce los secretos que hay mas allá de una imagen de color\n\n\n\n\nAbril 8\n\n\nEstimación pasiva de la profundidad\n\n\nExplora las técnicas de estimación de profundidad sin fuentes externas\n\n\n\n\nAbril 15\n\n\nEstimación activa de la profundidad\n\n\nExtrayendo profundidad con precisión milimétrica a partir de la luz\n\n\n\n\nAbril 22\n\n\nDefinición de proyectos\n\n\nRétate a ti mismo 🔥🔥\n\n\n\n\nAbril 29\n\n\nSegmentación\n\n\nDelineando el mundo digital a través de píxeles clasificados meticulosamente\n\n\n\n\n\n🌴 Vacaciones 🌴\n\n\n\n\nAgosto 26\n\n\nImágenes térmicas\n\n\nEl mundo visto a través del calor\n\n\n\n\nSeptiembre 2\n\n\nSustentación de proyectos\n\n\nDesafía tus habilidades 🚀 🚀\n\n\n\n\n\n\n\nParticipa en el Semillero\n\n\n¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros que comenzará el 4 de marzo de 2024.\n\n\n\n\nLa fecha de inscripción ya finalizó.\n\n\n\nRealizado por:\n\n\n\n\n\nHoover Fabian Rueda Chacón\n\n\nIngeniero de Sistemas e Informática, con maestría y doctorado en Ingeniería Eléctrica y Computación. Realizó su formación en Colombia y EE. UU., siendo Asociado Postdoctoral en la Universidad de Boston. Sus áreas de investigación incluyen procesamiento de imágenes, algoritmos, óptica computacional y optimización numérica.\n\n\n\n\n\n\n\n\nNelson Fabian Pérez Pérez\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n\n\nCristhian Camilo Rey Rueda\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n\n\nRamiro Santiago Ávila Chacón\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n\n\nMiguel Ángel Molina Garzón\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n\n\nOscar Ivan Torrens Bustamante\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n! Únete al canal de Discord !\n\n\n\n\n  \n\n\n\n\n  Para consultas, contacta a handsoncvs@gmail.com."
   },
   {
-    "objectID": "Sesiones/sesion5.html#section",
-    "href": "Sesiones/sesion5.html#section",
-    "title": "Estimación pasiva de la profundidad",
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Computer Vision",
     "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion5",
-    "crumbs": [
-      "Inicio",
-      "Estimación *pasiva* de la profundidad"
-    ]
+    "text": "Proyectos\n\n\n\nPara asistir a la presentación el 2 de septiembre de 4:00 p.m. a 6:00 p.m. en el auditorio del Centic, diligencia: este formulario\n\n\n\n\n \n \n \n \n Proyecto 1\n Reconstrucción 3D de escenas mediante técnicas de profundidad pasiva\n \n \n \n \n \n \n Proyecto 2\n Clasificación de materiales\n \n \n \n \n \n \n Proyecto 3\n Detección de objetos y estimación de la profundidad para entornos urbanos en Bucaramanga\n \n \n \n \n \n \n Proyecto 4\n Evaluación post-incendio de la vegetación del Páramo de Santurbán\n \n \n \n \n \n \n Proyecto 5\n Clasificación de imágenes espectrales\n \n \n \n \n \n \n Proyecto 6\n Evaluación de Visión Transformers en clasificación de imágenes\n \n \n \n \n \n \n Proyecto 7\n Diagnóstico del cáncer de mama mediante modelos preentrenados y ajustados con imágenes térmicas"
   },
   {
-    "objectID": "Sesiones/sesion10.html",
-    "href": "Sesiones/sesion10.html",
-    "title": "Proyectos / Posters",
-    "section": "",
-    "text": "In construction\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 20 de mayo a las 4:00pm\n\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los proyectos es el dia xx",
-    "crumbs": [
-      "Inicio",
-      "Proyectos / Posters"
-    ]
-  },
-  {
-=======
->>>>>>> 85f2c96bb28ce3d9c5963aa5de19164d06e0d2ed
     "objectID": "sesiones.html",
     "href": "sesiones.html",
     "title": "Semillero “Hands-on Computer Vision”",
@@ -116,14 +148,25 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion7.html#section",
-    "href": "Sesiones/sesion7.html#section",
-    "title": "Segmentación",
+    "objectID": "Sesiones/sesion10.html",
+    "href": "Sesiones/sesion10.html",
+    "title": "Proyectos / Posters",
     "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion8",
+    "text": "In construction\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 20 de mayo a las 4:00pm\n\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los proyectos es el dia xx",
     "crumbs": [
       "Inicio",
-      "Segmentación"
+      "Proyectos / Posters"
+    ]
+  },
+  {
+    "objectID": "Sesiones/sesion2.html",
+    "href": "Sesiones/sesion2.html",
+    "title": "De fotones a pixeles",
+    "section": "",
+    "text": "Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración integral te llevará a través de un viaje desde los conceptos fundamentales hasta las complejidades del preprocesamiento, abarcando tanto la óptica detrás de las imágenes como el hardware y software que hacen posible su creación y manipulación. Diseñada para encender la curiosidad y expandir tu comprensión, esta sesión no solo revelará cómo se forman las imágenes digitales, sino que también te introducirá a las herramientas y técnicas esenciales para trabajar con ellas. Con un enfoque en la innovación y la creatividad, te invitamos a descubrir las posibilidades ilimitadas que las imágenes digitales ofrecen para la investigación, el arte y la tecnología.\n\n\n\n\nExplora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink a los notebooks: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2",
+    "crumbs": [
+      "Inicio",
+      "De fotones a pixeles"
     ]
   },
   {
@@ -149,85 +192,15 @@
     ]
   },
   {
-    "objectID": "Sesiones/sesion10.html",
-    "href": "Sesiones/sesion10.html",
-    "title": "Proyectos / Posters",
+    "objectID": "Sesiones/sesion8.html#section",
+    "href": "Sesiones/sesion8.html#section",
+    "title": "Imágenes térmicas",
     "section": "",
-    "text": "In construction\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 20 de mayo a las 4:00pm\n\n\n\n\n\n\n\n\nfecha limite\n\n\n\nLa fecha limite para entregar los proyectos es el dia xx",
+    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion9",
     "crumbs": [
       "Inicio",
-      "Proyectos / Posters"
+      "Imágenes térmicas"
     ]
-  },
-  {
-    "objectID": "proyectos.html",
-    "href": "proyectos.html",
-    "title": "Computer Vision",
-    "section": "",
-    "text": "Proyectos\n\n\n\nPara asistir a la presentación el 2 de septiembre de 4:00 p.m. a 6:00 p.m. en el auditorio del Centic, diligencia: este formulario\n\n\n\n\n  \n    \n      \n        Proyecto 1\n        Reconstrucción 3D de escenas mediante técnicas de profundidad pasiva\n      \n    \n    \n      \n        Proyecto 2\n        Clasificación de Materiales\n      \n    \n    \n      \n        Proyecto 3\n        Detección de objetos y estimación de la profundidad para entornos urbanos en Bucaramanga\n      \n    \n    \n      \n        Proyecto 4\n        Evaluación Post-Incendio de la vegetación del Páramo de Santurbán\n      \n    \n    \n      \n        Proyecto 5\n        Clasificación de imágenes espectrales\n      \n    \n    \n      \n        Proyecto 6\n        Evaluación de Visión Transformers en Clasificación de Imágenes"
-  },
-  {
-    "objectID": "models/segment.html",
-    "href": "models/segment.html",
-    "title": "Segmentacion",
-    "section": "",
-    "text": "Click para subir una imagen\n            (o usa el ejemplo)\n        \n        \n    \n    \n    \n        Reiniciar imagen\n        Limpiar puntos\n        Recortar mascara\n    \n    \n        Clic izquierdo = puntos positivos, clic derecho = puntos negativos."
-  },
-  {
-    "objectID": "models/fight.html",
-    "href": "models/fight.html",
-    "title": "Fight",
-    "section": "",
-    "text": "puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena"
-  },
-  {
-    "objectID": "models/detection.html",
-    "href": "models/detection.html",
-    "title": "Deteccion",
-    "section": "",
-    "text": "Espera a que se cargue el modelo de detección de objetos, una vez que se haya cargado se habilitará el botón para activar la cámara.\n\n\n\nCargando modelo de detección de objetos...\n\n\n     Manten algunos objetos cerca de la cámara para que los detecte\n    \n        Habilitar camara"
-  },
-  {
-    "objectID": "models/depth.html",
-    "href": "models/depth.html",
-    "title": "Deteccion",
-    "section": "",
-    "text": "Imagen a Point Cloud\n  \n    \n      \n        \n        \n      \n      Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
-  },
-  {
-    "objectID": "galeria.html",
-    "href": "galeria.html",
-    "title": "Galeria",
-    "section": "",
-    "text": "Lucha\n  \n\n  \n  \n  \n    \n      \n      Miguel Angel\n  \n  \n\n  \n    \n      \n     Escritorio\n  \n  \n\n  \n    \n      \n     Deteccion de objetos\n  \n  \n\n  \n    \n      \n     Imagen a Point cloud\n  \n  \n\n  \n    \n      \n     Segmentacion\n  \n  \n\n  \n    \n      \n     Estimacion de la profundidad"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nSemillero  Hands-on   Computer Vision\n",
-    "section": "",
-    "text": "Semillero  Hands-on   Computer Vision\n\n\n\n\n \n \n\n\n\n\nExplora el Futuro de la Visión por Computadora\n\n\nÚnete a nosotros en el Semillero “Hands-on Computer Vision” y sumérgete en una experiencia única que fusiona la teoría con la práctica en el fascinante mundo de la visión por computadora. Nos enfocaremos en temas avanzados como Fotografía computacional, Aprendizaje profundo, Imágenes térmicas, Imágenes espectrales, Estimación de la profundidad y más. Este semillero te brindará la oportunidad de adentrarte en las tecnologías de vanguardia, utilizando herramientas como OpenCV y Python.\n\n\n\n\nCronograma\n\n\nTodas las sesiones se llevarán a cabo los días lunes de 4:00 p.m. a 6:00 p.m en la UIS a partir del 4 de marzo\n\n\n\n\n\nFecha\n\n\nTítulo\n\n\nDescripción\n\n\n\n\n\n\nMarzo 4\n\n\nPiloto\n\n\nEsta sesión es introductoria al semillero en general\n\n\n\n\nMarzo 11\n\n\nDe fotones a pixeles\n\n\nGeneralidades sobre la adquisición y procesamiento digital de imágenes\n\n\n\n\nMarzo 18\n\n\nDeep Learning\n\n\nDespierta el poder de la inteligencia artificial en la visión por computadora\n\n\n\n\nAbril 1\n\n\nImágenes espectrales\n\n\nConoce los secretos que hay mas allá de una imagen de color\n\n\n\n\nAbril 8\n\n\nEstimación pasiva de la profundidad\n\n\nExplora las técnicas de estimación de profundidad sin fuentes externas\n\n\n\n\nAbril 15\n\n\nEstimación activa de la profundidad\n\n\nExtrayendo profundidad con precisión milimétrica a partir de la luz\n\n\n\n\nAbril 22\n\n\nDefinición de proyectos\n\n\nRétate a ti mismo 🔥🔥\n\n\n\n\nAbril 29\n\n\nSegmentación\n\n\nDelineando el mundo digital a través de píxeles clasificados meticulosamente\n\n\n\n\n\n🌴 Vacaciones 🌴\n\n\n\n\nAgosto 26\n\n\nImágenes térmicas\n\n\nEl mundo visto a través del calor\n\n\n\n\nSeptiembre 2\n\n\nSustentación de proyectos\n\n\nDesafía tus habilidades 🚀 🚀\n\n\n\n\n\n\n\nParticipa en el Semillero\n\n\n¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros que comenzará el 4 de marzo de 2024.\n\n\n\n\nLa fecha de inscripción ya finalizó.\n\n\n\nRealizado por:\n\n\n\n\n\nHoover Fabian Rueda Chacón\n\n\nIngeniero de Sistemas e Informática, con maestría y doctorado en Ingeniería Eléctrica y Computación. Realizó su formación en Colombia y EE. UU., siendo Asociado Postdoctoral en la Universidad de Boston. Sus áreas de investigación incluyen procesamiento de imágenes, algoritmos, óptica computacional y optimización numérica.\n\n\n\n\n\n\n\n\nNelson Fabian Pérez Pérez\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n\n\nCristhian Camilo Rey Rueda\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n\n\nRamiro Santiago Ávila Chacón\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n\n\nMiguel Ángel Molina Garzón\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n\n\nOscar Ivan Torrens Bustamante\n\n\nEstudiante de Ingeniería de Sistemas e Informática\n\n\n\n\n\n! Únete al canal de Discord !\n\n\n\n\n  \n\n\n\n\n  Para consultas, contacta a handsoncvs@gmail.com."
-  },
-  {
-    "objectID": "models/depth2.html",
-    "href": "models/depth2.html",
-    "title": "Estimacion de la profundidad",
-    "section": "",
-    "text": "Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
-  },
-  {
-    "objectID": "models/escritorio.html",
-    "href": "models/escritorio.html",
-    "title": "Escritorio",
-    "section": "",
-    "text": "puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena"
-  },
-  {
-    "objectID": "models/miguel.html",
-    "href": "models/miguel.html",
-    "title": "Miguel Angel",
-    "section": "",
-    "text": "puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena"
   },
   {
     "objectID": "models/sentimientos.html",
@@ -237,58 +210,31 @@
     "text": "Ingresa un texto y presiona el botón para analizar el sentimiento.\n        \n        \n        Enviar"
   },
   {
-    "objectID": "Sesiones/sesion1.html#section",
-    "href": "Sesiones/sesion1.html#section",
-    "title": "Piloto",
+    "objectID": "models/fight.html",
+    "href": "models/fight.html",
+    "title": "Fight",
     "section": "",
-    "text": "Explora Nuestro Video Introductorio\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink al repositorio: https://github.com/semilleroCV/Hands-on-Computer-Vision",
-    "crumbs": [
-      "Inicio",
-      "Piloto"
-    ]
+    "text": "puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena"
   },
   {
-    "objectID": "Sesiones/sesion2.html",
-    "href": "Sesiones/sesion2.html",
-    "title": "De fotones a pixeles",
+    "objectID": "models/escritorio.html",
+    "href": "models/escritorio.html",
+    "title": "Escritorio",
     "section": "",
-    "text": "Sumérgete en el fascinante mundo de las imágenes digitales. Esta exploración integral te llevará a través de un viaje desde los conceptos fundamentales hasta las complejidades del preprocesamiento, abarcando tanto la óptica detrás de las imágenes como el hardware y software que hacen posible su creación y manipulación. Diseñada para encender la curiosidad y expandir tu comprensión, esta sesión no solo revelará cómo se forman las imágenes digitales, sino que también te introducirá a las herramientas y técnicas esenciales para trabajar con ellas. Con un enfoque en la innovación y la creatividad, te invitamos a descubrir las posibilidades ilimitadas que las imágenes digitales ofrecen para la investigación, el arte y la tecnología.\n\n\n\n\nExplora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink a los notebooks: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion2",
-    "crumbs": [
-      "Inicio",
-      "De fotones a pixeles"
-    ]
+    "text": "puedes hacer zoom con la tecla del raton, mover la perspectiva con el mouse y con shift + mouse mover escena"
   },
   {
-    "objectID": "Sesiones/sesion4.html#section",
-    "href": "Sesiones/sesion4.html#section",
-    "title": "Imágenes espectrales",
+    "objectID": "models/depth2.html",
+    "href": "models/depth2.html",
+    "title": "Estimacion de la profundidad",
     "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion4",
-    "crumbs": [
-      "Inicio",
-      "Imágenes espectrales"
-    ]
+    "text": "Click para subir una imagen\n      (o usa el ejemplo)\n    \n  \n  \n  \n\n   hecho con Transformers.js"
   },
   {
-    "objectID": "Sesiones/sesion6.html#section",
-    "href": "Sesiones/sesion6.html#section",
-    "title": "Estimación activa de la profundidad",
+    "objectID": "proyectos/proyecto1.html",
+    "href": "proyectos/proyecto1.html",
+    "title": "test",
     "section": "",
-    "text": "Explora el Video de la Sesión\n\n\n\n\nConsulta las Diapositivas de la Sesión\n\n\n\n\nRecursos Adicionales\nLink del notebook: https://github.com/semilleroCV/Hands-on-Computer-Vision/tree/main/Sesiones/Sesion6",
-    "crumbs": [
-      "Inicio",
-      "Estimación *activa* de la profundidad"
-    ]
-  },
-  {
-    "objectID": "Sesiones/sesion8.html",
-    "href": "Sesiones/sesion8.html",
-    "title": "Imágenes térmicas",
-    "section": "",
-    "text": "Descubre el invisible espectro del calor en nuestra sesión sobre imágenes térmicas. Aprenderás cómo estas poderosas herramientas revelan el mundo oculto de la energía térmica, abriendo nuevas perspectivas en campos como la seguridad, la medicina y el medio ambiente. Esta introducción te equipará con el conocimiento básico para comprender y aplicar la tecnología térmica en diversos contextos, transformando tu manera de ver el mundo.\n\n\n\n\n\n\n\n\n\naviso!!\n\n\n\nEsta sesion se realizara el dia 6 de mayo a las 4:00pm",
-    "crumbs": [
-      "Inicio",
-      "Imágenes térmicas"
-    ]
+    "text": "Beyond Appearances: Material Segmentation with Embedded Spectral Information from RGB-D imagery\n        Fabian Perez, Hoover Rueda-Chacón\n        Universidad Industrial de Santander, Colombia\n        CVPR latinx 2024\n        \n            Paper\n            Code\n        \n\n     \n            [Placeholder for main image]\n        \n\n    \n            Abstract\n            In the realm of computer vision, material segmentation of natural scenes represents a challenge, driven by the complex and diverse appearances of materials. Traditional approaches often rely on RGB images, which can be deceptive given the variability in appearances due to different lighting conditions. Other methods, that employ polarization or spectral imagery, offer a more reliable material differentiation but their cost and accessibility restrict their everyday usage."
   }
 ]

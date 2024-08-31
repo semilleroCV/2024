@@ -1,0 +1,55 @@
+---
+title: test
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css" integrity="sha512-B46MVOJpI6RBsdcU307elYeStF2JKT87SsHZfRSkjVi4/iZ3912zXi45X5/CBr/GbCyLx6M1GQtTKYRd52Jxgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="proyectos.css" />
+      <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+    rel="stylesheet">
+    <link rel="stylesheet" href="proyectos.css" />
+    <link rel="stylesheet" href="bulma.css" />
+
+
+
+---
+
+
+```{=html}
+  
+
+
+    <div class="container">
+        <h1>Beyond Appearances: Material Segmentation with Embedded Spectral Information from RGB-D imagery</h1>
+        <p class="authors">Fabian Perez, Hoover Rueda-Chacón</p>
+        <p class="affiliation">Universidad Industrial de Santander, Colombia</p>
+        <p class="conference">CVPR latinx 2024</p>
+        <div class="buttons">
+            <a href="#" class="button">Paper</a>
+            <a href="#" class="button">Code</a>
+        </div>
+
+     <div class="image-placeholder">
+            [Placeholder for main image]
+        </div>
+
+    <div class="abstract">
+            <h2>Abstract</h2>
+            <p>In the realm of computer vision, material segmentation of natural scenes represents a challenge, driven by the complex and diverse appearances of materials. Traditional approaches often rely on RGB images, which can be deceptive given the variability in appearances due to different lighting conditions. Other methods, that employ polarization or spectral imagery, offer a more reliable material differentiation but their cost and accessibility restrict their everyday usage.</p>
+
+        </div>
+
+    </div>
+
+
+
+```
+<!-- Import TensorFlow.js library -->
