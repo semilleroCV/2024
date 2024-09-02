@@ -38,7 +38,7 @@ format:
  <a href="/proyectos/proyecto1.html">
  <div class="content">
  <div class="title">Proyecto 1</div>
- <div class="description">Reconstrucción 3D de escenas mediante técnicas de profundidad pasiva</div>
+ <div class="description">Implementación de modelo de redes neuronales convolucionales para clasificación de imágenes hiperespectrales usando transformada wavelet</div>
  </div>
  </a>
  </div>
@@ -46,7 +46,7 @@ format:
  <a href="/proyectos/proyecto2.html">
  <div class="content">
  <div class="title">Proyecto 2</div>
- <div class="description">Clasificación de materiales</div>
+ <div class="description">BWMP2: Dataset RGB para Clasificación de Materiales con un Modelo Fundacional Finamente Ajustado</div>
  </div>
  </a>
  </div>
@@ -59,10 +59,10 @@ format:
  </a>
  </div>
  <div class="color project4">
- <a href="#">
+ <a href="/proyectos/proyecto4.html">
  <div class="content">
  <div class="title">Proyecto 4</div>
- <div class="description">Evaluación post-incendio de la vegetación del Páramo de Santurbán</div>
+ <div class="description">Evaluación Post Incendio de la vegetación del Páramo de Santurbán Mediante Imagenes Espectrales</div>
  </div>
  </a>
  </div>

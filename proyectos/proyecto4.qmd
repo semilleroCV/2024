@@ -1,0 +1,85 @@
+---
+title: test
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css" integrity="sha512-B46MVOJpI6RBsdcU307elYeStF2JKT87SsHZfRSkjVi4/iZ3912zXi45X5/CBr/GbCyLx6M1GQtTKYRd52Jxgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="proyectos.css" />
+      <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+    rel="stylesheet">
+    <link rel="stylesheet" href="proyectos.css" />
+    <link rel="stylesheet" href="proyecto2.css" />
+    <link rel="stylesheet" href="bulma.css" />
+    <script type="module" src="proyecto2.js"></script>
+
+
+
+
+---
+
+
+```{=html}
+  
+
+
+    <div class="container">
+       <h1>Evaluación Post Incendio de la vegetación del Páramo de Santurbán Mediante Imágenes Espectrales</h1>
+
+<div class="authors" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto4/author1.png" alt="Andres Escalante" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Andres Escalante</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto4/author2.png" alt="Edinson Ojeda" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Edinson Ojeda</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto4/author3.png" alt="Michael Rueda" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Michael Rueda</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto4/author4.png"  alt="Diego Gómez" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Diego Gómez</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto4/tutor.jpeg"  alt="Miguel Molina" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Miguel Molina</p>
+    </div>
+    <!-- Si hay un sexto autor, añade otra div aquí -->
+</div>
+
+<p class="affiliation">Universidad Industrial de Santander, Colombia</p>
+<p class="conference">Semillero HOCV 2024</p>
+<div class="buttons">
+    <a href="#" class="button">Paper</a>
+    <a href="#" class="button">Code</a>
+</div>
+
+
+<div class="image-placeholder" style="display: flex;  align-items: center; gap: 10px;">
+    <img src="../images/proyectos_finales/proyecto4/cuadro.png" alt="Image 1" style="width: 100%; max-width: 500px; height: auto; margin-bottom: 10px;">
+    <img src="../images/proyectos_finales/proyecto4/NDVI.gif" alt="Image 2" style="width: 100%; max-width: 500px; height: auto; margin-bottom: 10px;">
+    <img src="../images/proyectos_finales/proyecto4/rgb.gif" alt="Image 3" style="width: 100%; max-width: 500px; height: auto; margin-bottom: 10px;">
+</div>
+
+
+    <div class="abstract">
+        <h2>Resumen</h2>
+        <p>Este proyecto tiene como objetivo analizar el impacto del incendioocurrido en enero de 2024 en el Páramo de Santurbán, ubicado enSantander, Colombia. Para ello, se utilizarán imágenes espectrales obtenidasa través de la plataforma COPERNICUS, que proporciona datos del satéliteSentinel-2. Mediante estas imágenes, se calcularán índices de vegetacióncomo el NDVI (Índice de Vegetación de Diferencia Normalizada) para evaluarde manera precisa la afectación que el incendio ha tenido sobre la vegetacióny los ecosistemas de la zona.</p>
+
+        </div>
+
+    </div>
+
+
+
+```

@@ -24,12 +24,11 @@ include-in-header:
 
 
 ```{=html}
-  
 
 
     <div class="container">
-        <h1>BWMP2: Dataset RGB para Clasificación de Materiales con un Modelo Fundacional Finamente Ajustado</h1>
-        <p class="authors">Juan Calderón, Brayan Sánchez, César Vanegas, Dana Villamizar, Fabian Perez</p>
+        <h1>Implementación de modelo de redes neuronales convolucionales para clasificación de imágenes hiperespectrales usando transformada wavelet</h1>
+        <p class="authors">Nicolas Quintero, Brayan Quintero, Juan Toloza, Cristian Rey</p>
         <p class="affiliation">Universidad Industrial de Santander, Colombia</p>
         <p class="conference">Semillero HOCV 2024</p>
         <div class="buttons">
@@ -38,12 +37,12 @@ include-in-header:
         </div>
 
      <div class="image-placeholder">
-            [Placeholder for main image]
-        </div>
+       <image src="../images/proyectos_finales/proyecto1/poster.jpeg"  style=" height: 100%;">    
+     </div>
 
     <div class="abstract">
-            <h2>Abstract</h2>
-            <p>In the realm of computer vision, material segmentation of natural scenes represents a challenge, driven by the complex and diverse appearances of materials. Traditional approaches often rely on RGB images, which can be deceptive given the variability in appearances due to different lighting conditions. Other methods, that employ polarization or spectral imagery, offer a more reliable material differentiation but their cost and accessibility restrict their everyday usage.</p>
+        <h2>Resumen</h2>
+        <p>En este proyecto, utilizamos el dataset de Pavia Center, que representa unaregión de la ciudad de Pavia en Italia, para realizar un análisis avanzado de imágeneshiperespectrales. Preprocesamos los datos para optimizar su calidad y relevancia,asegurando que estuvieran listos para su análisis mediante técnicas de aprendizajeprofundo. Utilizamos el modelo "SpectralNET", un modelo innovador que combina elpoder de las redes neuronales con la capacidad de análisis espectral, lo que nospermitió extraer características complejas y patrones únicos en las imágenes.</p>
 
         </div>
 
