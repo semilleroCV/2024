@@ -38,7 +38,7 @@ format:
  <a href="/proyectos/proyecto1.html">
  <div class="content">
  <div class="title">Proyecto 1</div>
- <div class="description">Implementación de modelo de redes neuronales convolucionales para clasificación de imágenes hiperespectrales usando transformada wavelet</div>
+ <div class="description">UISFM: Structure From Motion</div>
  </div>
  </a>
  </div>
@@ -54,7 +54,7 @@ format:
  <a href="/proyectos/proyecto3.html">
  <div class="content">
  <div class="title">Proyecto 3</div>
- <div class="description">Detección de objetos y estimación de la profundidad para entornos urbanos en Bucaramanga</div>
+ <div class="description">Detección de objetos y estimación de la profundidad para entornos urbanos en el área metropolitana de Bucaramanga</div>
  </div>
  </a>
  </div>
@@ -70,7 +70,7 @@ format:
  <a href="/proyectos/proyecto5.html">
  <div class="content">
  <div class="title">Proyecto 5</div>
- <div class="description">Clasificación de imágenes espectrales</div>
+ <div class="description">Implementación de modelo de redes neuronales convolucionales para clasificación de imágenes hiperespectrales usando transformada wavelet</div>
  </div>
  </a>
  </div>
@@ -86,7 +86,7 @@ format:
  <a href="/proyectos/proyecto7.html">
  <div class="content">
  <div class="title">Proyecto 7</div>
- <div class="description">Diagnóstico del cáncer de mama mediante modelos preentrenados y ajustados con imágenes térmicas</div>
+ <div class="description">Diagnóstico del cáncer de mama con modelos de aprendizaje profundo mediante imágenes térmicas</div>
  </div>
  </a>
  </div>
