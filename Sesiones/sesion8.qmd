@@ -22,7 +22,7 @@ Descubre el invisible espectro del calor en nuestra sesión sobre imágenes tér
 
 ### Consulta las Diapositivas de la Sesión
 
-<iframe src="/slides/SemilleroCV_Session9_ThermalImaging.pdf" width="100%" height="500px"></iframe>
+<iframe src="/slides/SemilleroCV_Session8_ThermalImaging_Final.pdf" width="100%" height="500px"></iframe>
 
 ### Recursos Adicionales
 
