@@ -28,7 +28,7 @@
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Sombra de la línea */
 }
 
-/* General container style */
+/* Estilo general del contenedor */
 .container {
     height: 60vh;
     width: 100%;
@@ -45,7 +45,7 @@
     justify-content: center; /* Centra el contenido verticalmente */
 }
 
-/* Palette layout */
+/* Disposición de la paleta */
 .palette {
     display: flex;
     height: 90%; /* Ajuste de altura para las paletas dentro del contenedor */
@@ -54,7 +54,7 @@
     align-items: center; /* Centra verticalmente las paletas */
 }
 
-/* Style for each color/project */
+/* Estilo para cada tarjeta de proyecto */
 .color {
     height: 100%;
     flex: 1 1 auto; /* Ajuste de flexibilidad */
@@ -73,7 +73,7 @@
     overflow: hidden;
 }
 
-/* Subtle gradient effect on images for better text readability */
+/* Efecto de degradado sutil sobre las imágenes para mejor legibilidad del texto */
 .color::before {
     content: "";
     position: absolute;
@@ -85,7 +85,7 @@
     transition: background 0.3s ease-in-out;
 }
 
-/* Content inside each color/project */
+/* Contenido dentro de cada tarjeta de proyecto */
 .color .content {
     position: absolute;
     z-index: 2;
@@ -104,7 +104,7 @@
     transition: opacity 0.3s ease-in-out;
 }
 
-/* Title positioned at the top and centered */
+/* Título posicionado en la parte superior y centrado */
 .color .content .title {
     font-size: 20px; /* Tamaño de fuente aumentado */
     line-height: 1.4;
@@ -114,7 +114,7 @@
     opacity: 1;
 }
 
-/* Description positioned at the bottom, centered, and hidden by default */
+/* Descripción posicionada en la parte inferior, centrada y oculta por defecto */
 .color .content .description {
     font-size: 16px; /* Tamaño de fuente aumentado */
     color: #ecfdf5;
@@ -125,32 +125,30 @@
     transition: opacity 0.3s ease-in-out, height 0.3s ease-in-out;
 }
 
-/* On hover, show the description */
+/* Mostrar la descripción al hacer hover */
 .color:hover .content .description {
     opacity: 1;
     height: auto;
 }
 
-/* Hover effect */
+/* Efecto hover */
 .color:hover {
     flex: 4;
 }
 
-/* Hide content of non-hovered cards */
+/* Ocultar el contenido de las tarjetas que no están siendo hovered */
 .palette:hover .color:not(:hover) .content {
     opacity: 1;
     background: rgba(0, 0, 0, 0.7);
     transition: background 0.3s;
-
 }
 
 .palette:hover .color:hover .content {
     background: rgba(0, 0, 0, 0.4);
     transition: background 0.3s;
-
 }
 
-/* Specific styles for each project */
+/* Estilos específicos para cada proyecto */
 .project1 {
     background-image: url('/images/proyectos/project1.webp');
 }
@@ -179,13 +177,12 @@
     background-image: url('/images/proyectos/project7.webp');
 }
 
-
 /* Media query para dispositivos móviles */
 @media (max-width: 768px) {
     .container {
         height: auto; /* Permite que el contenedor se ajuste según el contenido */
     }
-    
+
     .palette {
         flex-direction: column; /* Cambia la orientación a vertical */
         height: auto; /* Ajuste de altura para la disposición vertical */
@@ -194,6 +191,21 @@
     .color {
         height: 150px; /* Ajustar la altura de cada proyecto en dispositivos móviles */
         width: 100%; /* Asegura que los proyectos ocupen todo el ancho disponible */
+        transition: none; /* Desactiva la transición del tamaño */
+    }
+
+    .color .content {
+        padding: 10px; /* Reducir el padding en pantallas pequeñas */
+        overflow: hidden; /* Prevenir desbordamiento */
+    }
+
+    .color .content .title {
+        font-size: 1.2em; /* Ajuste de tamaño de fuente */
+    }
+
+    .color .content .description {
+        font-size: 0.9em; /* Ajuste de tamaño de fuente */
+        height: auto; /* Permite que la descripción ocupe espacio según su contenido */
     }
 
     .color:hover {
@@ -210,5 +222,23 @@
     .page-title::after {
         width: 30px; /* Reducir la línea decorativa debajo del título */
         height: 3px; /* Ajustar la altura de la línea */
+    }
+}
+
+/* Media query para dispositivos con soporte de hover */
+@media (hover: hover) {
+    .color:hover {
+        flex: 4;
+    }
+
+    .palette:hover .color:not(:hover) .content {
+        opacity: 1;
+        background: rgba(0, 0, 0, 0.7);
+        transition: background 0.3s;
+    }
+
+    .palette:hover .color:hover .content {
+        background: rgba(0, 0, 0, 0.4);
+        transition: background 0.3s;
     }
 }
