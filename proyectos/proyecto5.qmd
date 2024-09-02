@@ -1,0 +1,65 @@
+---
+title: test
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css" integrity="sha512-B46MVOJpI6RBsdcU307elYeStF2JKT87SsHZfRSkjVi4/iZ3912zXi45X5/CBr/GbCyLx6M1GQtTKYRd52Jxgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="proyectos.css" />
+      <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+    rel="stylesheet">
+    <link rel="stylesheet" href="proyectos.css" />
+    <link rel="stylesheet" href="bulma.css" />
+
+
+
+---
+
+
+```{=html}
+
+
+    <div class="container">
+        <h1>Implementación de modelo de redes neuronales convolucionales para clasificación de imágenes hiperespectrales usando transformada wavelet</h1>
+
+<div class="authors" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto5/author1.jpeg" alt="Brayan Quintero" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Brayan Quintero</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto5/author2.jpeg" alt="Nicolas Quintero" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Nicolas Quintero</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto5/author3.jpeg" alt="Juan Toloza" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Juan Toloza</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto5/tutor.jpeg"  alt="Oscar Torres" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Oscar Torres</p>
+    </div>
+     <div class="image-placeholder">
+       <image src="../images/proyectos_finales/proyecto5/poster.jpeg"  style=" height: 100%;">    
+     </div>
+     </div>
+
+    <div class="abstract">
+        <h2>Resumen</h2>
+        <p>En este proyecto, utilizamos el dataset de Pavia Center, que representa unaregión de la ciudad de Pavia en Italia, para realizar un análisis avanzado de imágeneshiperespectrales. Preprocesamos los datos para optimizar su calidad y relevancia,asegurando que estuvieran listos para su análisis mediante técnicas de aprendizajeprofundo. Utilizamos el modelo "SpectralNET", un modelo innovador que combina elpoder de las redes neuronales con la capacidad de análisis espectral, lo que nospermitió extraer características complejas y patrones únicos en las imágenes.</p>
+
+        </div>
+
+    </div>
+
+
+
+```
+<!-- Import TensorFlow.js library -->
