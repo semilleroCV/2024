@@ -43,7 +43,7 @@ format:
  </a>
  </div>
  <div class="color project2">
- <a href="#">
+ <a href="/proyectos/proyecto2.html">
  <div class="content">
  <div class="title">Proyecto 2</div>
  <div class="description">Clasificación de materiales</div>

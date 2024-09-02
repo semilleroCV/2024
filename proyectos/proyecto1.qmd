@@ -28,10 +28,10 @@ include-in-header:
 
 
     <div class="container">
-        <h1>Beyond Appearances: Material Segmentation with Embedded Spectral Information from RGB-D imagery</h1>
-        <p class="authors">Fabian Perez, Hoover Rueda-Chacón</p>
+        <h1>BWMP2: Dataset RGB para Clasificación de Materiales con un Modelo Fundacional Finamente Ajustado</h1>
+        <p class="authors">Juan Calderón, Brayan Sánchez, César Vanegas, Dana Villamizar, Fabian Perez</p>
         <p class="affiliation">Universidad Industrial de Santander, Colombia</p>
-        <p class="conference">CVPR latinx 2024</p>
+        <p class="conference">Semillero HOCV 2024</p>
         <div class="buttons">
             <a href="#" class="button">Paper</a>
             <a href="#" class="button">Code</a>

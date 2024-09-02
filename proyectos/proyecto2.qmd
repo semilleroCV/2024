@@ -1,0 +1,77 @@
+---
+title: test
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css" integrity="sha512-B46MVOJpI6RBsdcU307elYeStF2JKT87SsHZfRSkjVi4/iZ3912zXi45X5/CBr/GbCyLx6M1GQtTKYRd52Jxgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="proyectos.css" />
+      <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+    rel="stylesheet">
+    <link rel="stylesheet" href="proyectos.css" />
+    <link rel="stylesheet" href="proyecto2.css" />
+    <link rel="stylesheet" href="bulma.css" />
+    <script type="module" src="proyecto2.js"></script>
+
+
+
+
+---
+
+
+```{=html}
+  
+
+
+    <div class="container">
+        <h1>BWMP2: Dataset RGB para Clasificación de Materiales con un Modelo Fundacional Finamente Ajustado</h1>
+        <p class="authors">Juan Calderón, Brayan Sánchez, César Vanegas, Dana Villamizar, Fabian Pere</p>
+        <p class="affiliation">Universidad Industrial de Santander, Colombia</p>
+        <p class="conference">Semillero HOCV 2024</p>
+        <div class="buttons">
+            <a href="#" class="button">Paper</a>
+            <a href="#" class="button">Code</a>
+        </div>
+
+     <div class="image-placeholder">
+       <video src="../images/proyectos_finales/proyecto2/arquitectura.mp4" type="video/mp4" style="width: 100%; height: 100%;" autoplay muted loop>    
+     </div>
+
+    <div class="abstract">
+            <h2>Resumen</h2>
+        <p><strong>BWMP2: Clasificación de Materiales Seleccionados</strong> tiene como objetivo crear y optimizar un modelo para la clasificación de materiales utilizando un dataset RGB etiquetado con cinco categorías específicas: Ladrillo, Metal, Papel, Plástico y Madera. El dataset consta de 150 imágenes capturadas con un dispositivo móvil, dividido en un 80% para entrenamiento y un 20% para pruebas. Este dataset es de código abierto y está disponible para la comunidad en <a href="https://huggingface.co/datasets/Sneider-Exe/Material_classification_2U" target="_blank">Hugging Face</a>.</p>
+
+        <p>A partir de este dataset, realizamos un ajuste fino (fine-tuning) de un modelo fundacional ResNet-50, logrando una precisión del 93% en el conjunto de prueba. Además, convertimos el modelo ajustado al formato estándar ONNX, cuantizándolo a UINT8 y reduciendo su tamaño de 98.7 MB a 24.9 MB sin pérdida de rendimiento. Este modelo es también de código abierto y puede ser utilizado en múltiples dispositivos, disponible en <a href="https://huggingface.co/SemilleroCV/resnet50-finetuned-bwmp2-224" target="_blank">Hugging Face Models</a>.</p>
+
+        </div>
+
+
+
+    <h1>Demo</h1>
+    <div class="container_model">
+        <div class="custom-file-upload">
+            <div class="selUpload">
+                <label id="upload-btn" for="upload">
+                    <img id="image" src="https://cdn.icon-icons.com/icons2/2348/PNG/512/image_picture_icon_143003.png" alt="Upload Icon">
+                    Upload Image
+                </label>
+            </div>
+            <input type="file" id="upload" accept="image/*">
+        </div>   
+    </div>
+    <label id="status">Ready</label>
+    <button id="reset-image">Reset image</button>
+
+    </div>
+
+
+
+```
+<!-- Import TensorFlow.js library -->

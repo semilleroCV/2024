@@ -1,0 +1,118 @@
+/* Estilos generales para resetear padding y margin */
+
+
+
+
+.status {
+    margin-top: 10px;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+/* Estilos para el contenedor principal */
+.container_model {
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%; /* Ajustable según el tamaño de la pantalla */
+    max-width: 650px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el label que contiene el icono y el texto */
+.custom-file-upload {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+    border: 2px dashed gray;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-sizing: border-box; /* Incluye padding y border en el tamaño total */
+}
+
+.selUpload {
+    display: flex;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Estilos para el icono o imagen */
+#upload-btn img {
+    margin-bottom: 10px;
+    width: 40px; /* Ajusta el tamaño de la imagen según sea necesario */
+}
+
+/* Estilos para el botón de carga */
+#upload-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#upload-btn:hover {
+    color: #000;
+}
+
+/* Estilos para ocultar el input de archivo */
+#upload {
+    display: none;
+}
+
+/* Estilos para el botón de reset */
+#reset-image {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border: 1px solid #88ccdb;
+    background-color: #85aedc;
+    border-radius: 5px;
+}
+
+#reset-image:hover {
+    background-color: #f0f0f0;
+}
+
+
+
+/* Responsiveness adjustments */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 28px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    #reset-image {
+        font-size: 12px;
+        padding: 8px 16px;
+    }
+
+    #upload-btn img {
+        width: 30px;
+    }
+}
+
+
+#status {
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #e7f9e7; /* Light green background */
+    width: 90%;
+    max-width: 650px;
+    text-align: center;
+    font-size: large;
+    color: #006400; /* Dark green text */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    white-space: pre-wrap; /* Allows for multiple lines of text */
+}
