@@ -43,8 +43,8 @@ include-in-header:
         <p style="margin-top: 5px;">Hammer Muñoz</p>
     </div>
     <div class="author" style="text-align: center;">
-        <img src="../images/proyectos_finales/proyecto3/author3.jpg" alt="Michael Rueda" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-        <p style="margin-top: 5px;">Michael Rueda</p>
+        <img src="../images/proyectos_finales/proyecto3/author3.jpg" alt="William Urrutia" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">William Urrutia</p>
     </div>
     <div class="author" style="text-align: center;">
         <img src="../images/proyectos_finales/proyecto3/tutor.jpeg"  alt="Ramiro Avila" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
