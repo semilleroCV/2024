@@ -1,0 +1,79 @@
+---
+title: test
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css" integrity="sha512-B46MVOJpI6RBsdcU307elYeStF2JKT87SsHZfRSkjVi4/iZ3912zXi45X5/CBr/GbCyLx6M1GQtTKYRd52Jxgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="proyectos.css" />
+      <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+    rel="stylesheet">
+    <link rel="stylesheet" href="proyectos.css" />
+    <link rel="stylesheet" href="proyecto2.css" />
+    <link rel="stylesheet" href="bulma.css" />
+    <script type="module" src="proyecto2.js"></script>
+
+
+
+
+---
+
+
+```{=html}
+  
+
+
+    <div class="container">
+       <h1>Detección de objetos y estimación de la profundidad para entornos urbanos en el área metropolitana de Bucaramanga</h1>
+
+<div class="authors" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto3/author1.jpg" alt="Karen Mateus" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Karen Mateus</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto3/author2.JPEG" alt="Hammer Muñoz" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Hammer Muñoz</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto3/author3.jpg" alt="William Urrutia" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">William Urrutia</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto3/tutor.jpeg"  alt="Ramiro Avila" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Ramiro Avila</p>
+    </div>
+    <!-- Si hay un sexto autor, añade otra div aquí -->
+</div>
+
+<p class="affiliation">Universidad Industrial de Santander, Colombia</p>
+<p class="conference">Semillero HOCV 2024</p>
+<div class="buttons">
+    <a href="#" class="button">Paper</a>
+    <a href="#" class="button">Code</a>
+</div>
+
+
+<div class="image-placeholder" style="overflow:clip;">
+    <img src="../images/proyectos_finales/proyecto3/poster.png" alt="Image 1" style="width: 100%">
+</div>
+
+
+    <div class="abstract">
+        <h2>Resumen</h2>
+        <p>La detección de objetos y la estimación de la profundidad en entornos urbanos presentan desafíos únicos debido a las condiciones cambiantes de iluminación, las oclusiones y la variabilidad de los objetos. Este trabajo aborda estos desafíos mediante la implementación de modelos fundacionales en aprovechamientos de visión por computadora e inteligencia artificial, además del uso de un conjunto de datos RGB de imágenes y videos creado en diferentes escenarios de la ciudad de Bucaramanga.</p>
+
+        </div>
+
+    </div>
+
+
+
+```

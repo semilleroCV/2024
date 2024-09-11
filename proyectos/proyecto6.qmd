@@ -1,0 +1,79 @@
+---
+title: test
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css" integrity="sha512-B46MVOJpI6RBsdcU307elYeStF2JKT87SsHZfRSkjVi4/iZ3912zXi45X5/CBr/GbCyLx6M1GQtTKYRd52Jxgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="proyectos.css" />
+      <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+    rel="stylesheet">
+    <link rel="stylesheet" href="proyectos.css" />
+    <link rel="stylesheet" href="proyecto2.css" />
+    <link rel="stylesheet" href="bulma.css" />
+    <script type="module" src="proyecto2.js"></script>
+
+
+
+
+---
+
+
+```{=html}
+  
+
+
+    <div class="container">
+       <h1>Clasificación y medición de patrones de prendas de moda</h1>
+
+<div class="authors" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto6/author1.jpeg" alt="Paula Arguello" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Paula Arguello</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto6/author2.jpeg" alt="Sebastian Solano" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Sebastian Solano</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto6/author3.jpeg" alt="Valentina Pérez" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Valentina Pérez</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto6/tutor.jpg"  alt="Fabian Perez" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Fabian Perez</p>
+    </div>
+    <!-- Si hay un sexto autor, añade otra div aquí -->
+</div>
+
+<p class="affiliation">Universidad Industrial de Santander, Colombia</p>
+<p class="conference">Semillero HOCV 2024</p>
+<div class="buttons">
+    <a href="#" class="button">Paper</a>
+    <a href="#" class="button">Code</a>
+</div>
+
+
+<div class="image-placeholder" style="overflow:clip;">
+    <img src="../images/proyectos_finales/proyecto6/poster.jpeg" alt="Image 1" style="height: 100%">
+</div>
+
+
+    <div class="abstract">
+        <h2>Resumen</h2>
+        <p>El proyecto "Clasificación y Medición de Patrones de Prendas de Moda" tiene como objetivo predecir el patrón y las características de un vestido a partir de una imagen, utilizando un dataset etiquetado con atributos específicos como el tipo y ancho de manga, el tipo y profundidad de escote, y las dimensiones de la falda. El proceso involucra la extracción de características mediante una CNN, seguida de una clasificación y predicción con un modelo Transformer y una técnica de Zero-shot. Finalmente, se busca el patrón correspondiente en el dataset, permitiendo automatizar la identificación y diseño de patrones en la industria de la moda.</p>
+
+        </div>
+
+    </div>
+
+
+
+```

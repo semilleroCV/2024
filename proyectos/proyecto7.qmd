@@ -1,0 +1,75 @@
+---
+title: test
+sidebar: false
+format:
+  html:
+    toc: false
+    page-layout: full
+include-in-header:
+  text: |
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css" integrity="sha512-B46MVOJpI6RBsdcU307elYeStF2JKT87SsHZfRSkjVi4/iZ3912zXi45X5/CBr/GbCyLx6M1GQtTKYRd52Jxgw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="proyectos.css" />
+      <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+    rel="stylesheet">
+    <link rel="stylesheet" href="proyectos.css" />
+    <link rel="stylesheet" href="proyecto2.css" />
+    <link rel="stylesheet" href="bulma.css" />
+    <script type="module" src="proyecto2.js"></script>
+
+
+
+
+---
+
+
+```{=html}
+  
+
+
+    <div class="container">
+       <h1>Diagnóstico del cáncer de mama con modelos de aprendizaje profundo mediante imágenes térmicas</h1>
+
+<div class="authors" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto7/author1.jpg" alt="Guillermo Pinto" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Guillermo Pinto</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto7/author2.jpeg" alt="Miguel Pimiento" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Miguel Pimiento</p>
+    </div>
+    <div class="author" style="text-align: center;">
+        <img src="../images/proyectos_finales/proyecto7/author3.jpeg" alt="Cristian Diaz" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+        <p style="margin-top: 5px;">Cristian Diaz</p>
+    </div>
+    <!-- Si hay un sexto autor, añade otra div aquí -->
+</div>
+
+<p class="affiliation">Universidad Industrial de Santander, Colombia</p>
+<p class="conference">Semillero HOCV 2024</p>
+<div class="buttons">
+    <a href="#" class="button">Paper</a>
+    <a href="#" class="button">Code</a>
+</div>
+
+
+<div class="image-placeholder" style="overflow:clip;">
+    <img src="../images/proyectos_finales/proyecto7/poster.png" alt="Image 1" style="height: 100%">
+</div>
+
+
+    <div class="abstract">
+        <h2>Resumen</h2>
+        <p>Desarrollamos un enfoque de visión por computadora para el diagnósticotemprano de cáncer de mama utilizando transformadores de visión (ViT) y redesneuronales convoluciones aplicadas al dataset de termografías DMR-IR,alcanzando una exactitud del 95.30%. Nuestro modelo supera, según nuestroconocimiento, los resultados previos obtenidos en este dataset. Implementamostécnicas avanzadas de atención visual, como GradCAM, para mejorar lainterpretabilidad de las predicciones. Este logro subraya el potencial de losmodelos de aprendizaje profundo en imágenes médicas, abriendo nuevasoportunidades para aplicaciones clínicas en la detección temprana y eficiente delcáncer de mama</p>
+
+        </div>
+
+    </div>
+
+
+
+```
