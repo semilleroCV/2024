@@ -125,28 +125,7 @@
     transition: opacity 0.3s ease-in-out, height 0.3s ease-in-out;
 }
 
-/* Mostrar la descripción al hacer hover */
-.color:hover .content .description {
-    opacity: 1;
-    height: auto;
-}
 
-/* Efecto hover */
-.color:hover {
-    flex: 4;
-}
-
-/* Ocultar el contenido de las tarjetas que no están siendo hovered */
-.palette:hover .color:not(:hover) .content {
-    opacity: 1;
-    background: rgba(0, 0, 0, 0.7);
-    transition: background 0.3s;
-}
-
-.palette:hover .color:hover .content {
-    background: rgba(0, 0, 0, 0.4);
-    transition: background 0.3s;
-}
 
 /* Estilos específicos para cada proyecto */
 .project1 {
@@ -208,9 +187,6 @@
         height: auto; /* Permite que la descripción ocupe espacio según su contenido */
     }
 
-    .color:hover {
-        flex: 1; /* Desactiva el cambio de tamaño en dispositivos móviles */
-    }
 
     .page-title {
         font-size: 1em; /* Reduce el tamaño de la fuente para pantallas pequeñas */
@@ -225,10 +201,17 @@
     }
 }
 
-/* Media query para dispositivos con soporte de hover */
-@media (hover: hover) {
+
+/* Mover TODOS los efectos hover dentro de la media query para desktop */
+@media (min-width: 1200px) {
+    /* Efecto hover SOLO para desktop */
     .color:hover {
         flex: 4;
+    }
+
+    .color:hover .content .description {
+        opacity: 1;
+        height: auto;
     }
 
     .palette:hover .color:not(:hover) .content {
