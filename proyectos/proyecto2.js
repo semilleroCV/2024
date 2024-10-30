@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const fileUpload = document.getElementById("upload");
     const resetButton = document.getElementById("reset-image");
     const uploadButton = document.getElementById("upload-btn");
-    const container = document.querySelector(".container");
+    const container = document.querySelector(".custom-file-upload");
 
     status.textContent = "Loading model...";
 
