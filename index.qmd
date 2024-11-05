@@ -5,10 +5,9 @@ format:
     toc: true
     page-layout: full
     css: styles.css
-
 ---
 
-
+```{=html}
 <div style="text-align: center;">
    <h1 style="font-family:  'Reem Kufi Ink' ,sans-serif;">
          Semillero&nbsp;&nbsp;Hands-on&nbsp;&nbsp; <span style="color: #00827F;font-size: calc(1.8rem + 0.9vw);">C</span>omputer <span style="color: #00827F;font-size: calc(1.8rem + 0.9vw);">V</span>ision
@@ -28,6 +27,27 @@ format:
     <p>
         Únete a nosotros en el Semillero "Hands-on Computer Vision" y sumérgete en una experiencia única que fusiona la teoría con la práctica en el fascinante mundo de la visión por computadora. Nos enfocaremos en temas avanzados como Fotografía computacional, Aprendizaje profundo, Imágenes térmicas, Imágenes espectrales, Estimación de la profundidad y más. Este semillero te brindará la oportunidad de adentrarte en las tecnologías de vanguardia, utilizando herramientas como OpenCV y Python.
     </p>
+    <br>
+</section>
+
+<section class="social-media-section">
+<h3>Únete a nuestra comunidad</h3>
+<div class="social-links">
+		 <a id="instagram" href="https://www.instagram.com/" target="_blank" class="social-btn flex-center">
+        <svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.849.07 1.366.062 2.633.334 3.608 1.309.975.975 1.247 2.242 1.309 3.608.058 1.265.069 1.645.069 4.849s-.011 3.584-.069 4.849c-.062 1.366-.334 2.633-1.309 3.608-.975.975-2.242 1.247-3.608 1.309-1.265.058-1.645.069-4.849.069s-3.584-.011-4.849-.069c-1.366-.062-2.633-.334-3.608-1.309-.975-.975-1.247-2.242-1.309-3.608-.058-1.265-.069-1.645-.069-4.849s.011-3.584.069-4.849c.062-1.366.334-2.633 1.309-3.608.975-.975 2.242-1.247 3.608-1.309 1.265-.058 1.645-.069 4.849-.069m0-2.163c-3.257 0-3.67.012-4.947.07-1.905.086-3.654.796-4.906 2.049-1.252 1.252-1.963 3.001-2.049 4.906-.058 1.277-.07 1.69-.07 4.947s.012 3.67.07 4.947c.086 1.905.796 3.654 2.049 4.906 1.252 1.252 3.001 1.963 4.906 2.049 1.277.058 1.69.07 4.947.07s3.67-.012 4.947-.07c1.905-.086 3.654-.796 4.906-2.049 1.252-1.252 1.963-3.001 2.049-4.906.058-1.277.07-1.69.07-4.947s-.012-3.67-.07-4.947c-.086-1.905-.796-3.654-2.049-4.906-1.252-1.252-3.001-1.963-4.906-2.049-1.277-.058-1.69-.07-4.947-.07zm0 5.838c-3.381 0-6.126 2.745-6.126 6.126s2.745 6.126 6.126 6.126 6.126-2.745 6.126-6.126-2.745-6.126-6.126-6.126zm0 10.126c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm6.406-11.845c-.796 0-1.44.645-1.44 1.44s.645 1.44 1.44 1.44 1.44-.645 1.44-1.44-.645-1.44-1.44-1.44z"/></svg>
+        <span>Instagram</span>
+    </a>
+
+    <a id="discord" href="https://discord.gg/scgwtA9f4E" target="_blank" class="social-btn flex-center">
+        <svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M20.317 4.369a19.791 19.791 0 00-4.885-1.515.074.074 0 00-.079.037c-.211.375-.444.864-.61 1.251-1.844-.278-3.68-.278-5.486 0-.173-.404-.42-.902-.63-1.277a.077.077 0 00-.078-.037 19.736 19.736 0 00-4.886 1.515.07.07 0 00-.033.027c-3.08 4.6-3.922 9.086-3.503 13.516a.081.081 0 00.031.055 19.969 19.969 0 005.988 3.06.073.073 0 00.079-.028c.462-.633.873-1.3 1.226-2.002a.076.076 0 00-.041-.107 12.39 12.39 0 01-1.773-.832.078.078 0 01-.008-.13c.119-.089.238-.178.353-.268a.073.073 0 01.075-.01c3.717 1.676 7.735 1.676 11.397 0a.073.073 0 01.077.009c.115.09.234.18.353.268a.078.078 0 01-.006.13 12.298 12.298 0 01-1.774.832.075.075 0 00-.04.107c.36.701.772 1.368 1.229 2.002a.075.075 0 00.079.028 19.93 19.93 0 005.989-3.06.077.077 0 00.031-.055c.499-5.087-.768-9.545-3.51-13.543a.064.064 0 00-.032-.025zm-11.533 9.787c-1.18 0-2.153-1.083-2.153-2.419 0-1.337.956-2.421 2.153-2.421 1.196 0 2.166 1.093 2.153 2.42 0 1.337-.956 2.42-2.153 2.42zm7.689 0c-1.18 0-2.153-1.083-2.153-2.419 0-1.337.956-2.421 2.153-2.421 1.197 0 2.167 1.093 2.153 2.42 0 1.337-.956 2.42-2.153 2.42z"/></svg>
+        <span>Discord</span>
+    </a>
+
+    <a id="github" href="https://github.com/semilleroCV" target="_blank" class="social-btn flex-center">
+        <svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg>
+        <span>Github</span>
+    </a>
+</div>
 </section>
 
 <section class="upcoming-sessions">
@@ -101,23 +121,14 @@ format:
         </tbody>
     </table>
 </section>
-
-
 <section class="join">
-    <h3>Participa en el Semillero</h3>
+    <h3>Las inscripciones han finalizado</h3>
     <p>
-        ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros que comenzará el 4 de marzo de 2024.
+         Si lo deseas, puedes revisar las grabaciones de nuestras sesiones en el módulo <a href="sesiones.qmd">Sesiones</a>.
     </p>
-    <!-- Fecha límite de inscripción eliminada 
-    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de Marzo de 2024</p> -->
-    <!-- Botón de inscripción eliminado 
-    <a class="button" href="https://tally.so/r/nrArkL">Inscribirse Ahora</a> -->
-    <p style="color: red" class="deadline">La fecha de inscripción ya finalizó.</p>
+    <br>
 </section>
-
-
 <h2>Realizado por:</h2>
-
 <section class="professor-section">
     <img src="/images/profesor.png" alt="" class="professor-image">
     <section class="professor-description">
@@ -172,10 +183,10 @@ format:
     </section>
 </section>
 
-
 </main>
 <footer>
    <img src="uis.png" alt="Logo UIS" style="width: 130px; display: block; margin-left: auto; margin-right: auto;">
     <br>
     <small>Para consultas, contacta a <a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=Handsoncvs@gmail.com">handsoncvs@gmail.com</a>.</small>
 </footer>
+```
