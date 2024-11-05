@@ -30,10 +30,45 @@ format:
     <br>
 </section>
 
+ <section class="research-areas">
+  <h3>Áreas de investigación</h3>
+  <div class="grid-container">
+    <div class="card card1">
+      <div class="card-content">
+        <h4>Imágenes sin visibilidad directa</h4>
+      </div>
+    </div>
+    <div class="card card2">
+      <div class="card-content">
+        <h4>Segmentación de materiales</h4>
+      </div>
+    </div>
+    <div class="card card3">
+      <div class="card-content">
+        <h4>Imágenes espectrales</h4>
+      </div>
+    </div>
+    <div class="card card4">
+      <div class="card-content">
+        <h4>Estimación de la profundidad</h4>
+      </div>
+    </div>
+    <div class="card card5">
+      <div class="card-content">
+        <h4>Vehículos autónomos</h4>
+      </div>
+    </div>
+    <div class="card card6">
+      <div class="card-content">
+        <h4>Imágenes térmicas</h4>
+      </div>
+    </div>
+  </div>
+</section>
 <section class="social-media-section">
 <h3>Únete a nuestra comunidad</h3>
 <div class="social-links">
-		 <a id="instagram" href="https://www.instagram.com/" target="_blank" class="social-btn flex-center">
+		 <a id="instagram" href="https://www.instagram.com/handsoncv/" target="_blank" class="social-btn flex-center">
         <svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2.163c3.204 0 3.584.012 4.849.07 1.366.062 2.633.334 3.608 1.309.975.975 1.247 2.242 1.309 3.608.058 1.265.069 1.645.069 4.849s-.011 3.584-.069 4.849c-.062 1.366-.334 2.633-1.309 3.608-.975.975-2.242 1.247-3.608 1.309-1.265.058-1.645.069-4.849.069s-3.584-.011-4.849-.069c-1.366-.062-2.633-.334-3.608-1.309-.975-.975-1.247-2.242-1.309-3.608-.058-1.265-.069-1.645-.069-4.849s.011-3.584.069-4.849c.062-1.366.334-2.633 1.309-3.608.975-.975 2.242-1.247 3.608-1.309 1.265-.058 1.645-.069 4.849-.069m0-2.163c-3.257 0-3.67.012-4.947.07-1.905.086-3.654.796-4.906 2.049-1.252 1.252-1.963 3.001-2.049 4.906-.058 1.277-.07 1.69-.07 4.947s.012 3.67.07 4.947c.086 1.905.796 3.654 2.049 4.906 1.252 1.252 3.001 1.963 4.906 2.049 1.277.058 1.69.07 4.947.07s3.67-.012 4.947-.07c1.905-.086 3.654-.796 4.906-2.049 1.252-1.252 1.963-3.001 2.049-4.906.058-1.277.07-1.69.07-4.947s-.012-3.67-.07-4.947c-.086-1.905-.796-3.654-2.049-4.906-1.252-1.252-3.001-1.963-4.906-2.049-1.277-.058-1.69-.07-4.947-.07zm0 5.838c-3.381 0-6.126 2.745-6.126 6.126s2.745 6.126 6.126 6.126 6.126-2.745 6.126-6.126-2.745-6.126-6.126-6.126zm0 10.126c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm6.406-11.845c-.796 0-1.44.645-1.44 1.44s.645 1.44 1.44 1.44 1.44-.645 1.44-1.44-.645-1.44-1.44-1.44z"/></svg>
         <span>Instagram</span>
     </a>
@@ -122,11 +157,15 @@ format:
     </table>
 </section>
 <section class="join">
-    <h3>Las inscripciones han finalizado</h3>
+    <h3>Participa en el Semillero</h3>
     <p>
-         Si lo deseas, puedes revisar las grabaciones de nuestras sesiones en el módulo <a href="sesiones.qmd">Sesiones</a>.
+        ¿Listo para unirte? Inscríbete y comienza a explorar el apasionante campo de la visión por computadora con nosotros que comenzará el 4 de marzo de 2024.
     </p>
-    <br>
+    <!-- Fecha límite de inscripción eliminada 
+    <p style="color: red" class="deadline">Fecha límite de inscripción: 1 de Marzo de 2024</p> -->
+    <!-- Botón de inscripción eliminado 
+    <a class="button" href="https://tally.so/r/nrArkL">Inscribirse Ahora</a> -->
+    <p style="color: red" class="deadline">La fecha de inscripción ya finalizó.</p>
 </section>
 <h2>Realizado por:</h2>
 <section class="professor-section">
