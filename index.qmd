@@ -29,7 +29,7 @@ format:
     </p>
     <br>
 </section>
-
+<section class="background">
  <section class="research-areas">
   <h3>Áreas de investigación</h3>
   <div class="grid-container">
@@ -84,6 +84,8 @@ format:
     </a>
 </div>
 </section>
+</section>
+
 
 <section class="upcoming-sessions">
     <h3>Cronograma</h3>

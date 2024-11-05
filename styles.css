@@ -275,12 +275,53 @@ tbody tr:hover {
 
 /* Styles for the Research Areas Section */
 .research-areas h3 {
-  padding-top: 60px;
   text-align: center;
-  font-size: 1.8rem; /* Increased font size for emphasis */
-  color: #007a73;
+  font-size: 2rem; /* Increased font size for emphasis */
+  color: #ffffff;
   font-weight: bold;
   overflow: hidden;
+}
+
+.background {
+  position: relative;
+  padding: 40px;
+  overflow: hidden;
+  border-radius: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+/* Background Image */
+.background::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/images/areas/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  z-index: -2;
+}
+
+/* Gradient Overlay */
+.background::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 128, 127, 0.7),
+    rgba(0, 150, 140, 0.7)
+  );
+  z-index: -1;
 }
 
 /* Responsive Grid Container */
@@ -296,7 +337,6 @@ tbody tr:hover {
 
 /* Card Container Styling */
 .card {
-  position: relative; /* Necessary for absolute positioning of pseudo-elements */
   width: 100%;
   max-width: 400px;
   height: 300px;
@@ -351,7 +391,6 @@ tbody tr:hover {
   font-weight: 700;
   color: #ffffff;
   margin: 0;
-  margin-right: 100px;
   text-align: center; 
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   transition: color 0.3s ease;
@@ -363,19 +402,8 @@ tbody tr:hover {
 .card2::before { background-image: url('/images/areas/segmentation.png'); }
 .card3::before { background-image: url('/images/areas/spectral.png'); }
 .card4::before { background-image: url('/images/areas/depth.png'); }
-.card5::before { background-image: url('/images/areas/autonomus.jpg'); }
+.card5::before { background-image: url('/images/areas/autonomus.jpg');  }
 .card6::before { background-image: url('/images/areas/thermal.webp'); }
-
-
-.card-content h4 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #ffffff;
-  margin: 0;
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Improves text visibility */
-  transition: color 0.3s ease;
-  overflow: hidden;
-}
 
 /* Card Hover Effect */
 .card:hover {
@@ -396,7 +424,8 @@ tbody tr:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-align: center; /* Center-aligns text within the section */
+  text-align: center; 
+  color: #f1f9f8;
 }
 
 .logo-container {
@@ -571,8 +600,89 @@ tbody tr:hover {
   }
 }
 
+/* Adjust grid layout on medium screens */
+@media (max-width: 1024px) {
+  .grid-container {
+    padding: 20px;
+  }
+
+  .card-content h4 {
+    font-size: 1.4rem;
+  }
+}
+
+
+/* Adjust grid to single column on small screens */
 @media (max-width: 600px) {
+  .grid-container {
+    grid-template-columns: 1fr; /* Single column layout */
+  }
+
+  .background {
+    padding: 20px;
+    margin: 30px 0;
+  }
+
+  .research-areas h3 {
+    font-size: 1.6rem;
+  }
+
+  .card-content h4 {
+    font-size: 1.2rem;
+  }
+
+  .social-media-section {
+    padding: 15px;
+  }
+
+  .social-btn {
+    width: 80px;
+    height: 80px;
+  }
+
+  .social-btn svg {
+    height: 35px;
+    width: 35px;
+  }
+
+  .social-btn:hover {
+    width: 160px;
+  }
+
+  .social-btn:hover span {
+    font-size: 1rem;
+  }
+
   .logo-container img {
     max-width: 100px;
+  }
+}
+
+/* Additional small screen adjustments */
+@media (max-width: 480px) {
+  .research-areas h3 {
+    font-size: 1.4rem;
+  }
+
+  .card-content h4 {
+    font-size: 1rem;
+  }
+
+  .social-btn {
+    width: 70px;
+    height: 70px;
+  }
+
+  .social-btn svg {
+    height: 30px;
+    width: 30px;
+  }
+
+  .social-btn:hover {
+    width: 140px;
+  }
+
+  .social-btn:hover span {
+    font-size: 0.9rem;
   }
 }
