@@ -174,9 +174,8 @@ tbody tr:hover {
 }
 
 .deadline {
-  border: groove red;
-  width: 40%;
-  margin: 0 auto;
+  border: groove rgb(0, 0, 0);
+  margin: 0;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   display: flex;
@@ -275,7 +274,6 @@ tbody tr:hover {
 
 /* Styles for the Research Areas Section */
 .research-areas h3 {
-  text-align: center;
   font-size: 2rem; /* Increased font size for emphasis */
   color: #ffffff;
   font-weight: bold;
@@ -283,12 +281,19 @@ tbody tr:hover {
 }
 
 .background {
+  color: #ffffff;
   position: relative;
   padding: 40px;
   overflow: hidden;
   border-radius: 30px;
   margin-top: 50px;
   margin-bottom: 50px;
+
+}
+
+.background h3{
+  overflow: hidden;
+  
 
 }
 
@@ -329,9 +334,6 @@ tbody tr:hover {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive columns */
   gap: 2em;
-  padding: 0 3rem 3rem 3rem;
-  justify-items: center;
-  align-items: stretch;
   padding: 30px;
 }
 
@@ -350,7 +352,7 @@ tbody tr:hover {
 /* Background Image and Overlay */
 .card::before {
   content: "";
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;
@@ -365,7 +367,6 @@ tbody tr:hover {
 .card::after {
   content: "";
   position: absolute;
-  inset: 0;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.3), transparent);
   z-index: 1;
 }
@@ -395,6 +396,7 @@ tbody tr:hover {
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   transition: color 0.3s ease;
   overflow: hidden;
+
 }
 
 /* Individual Background Images */
@@ -467,12 +469,10 @@ tbody tr:hover {
 }
 
 .social-btn span {
-  width: 0px;
+  width: 0px; 
   overflow: hidden;
   transition: 0.3s;
   text-align: center;
-  margin-left: 5px;
-  font-size: larger;
 }
 
 .social-btn:hover {
