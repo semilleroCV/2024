@@ -30,8 +30,8 @@ format:
     <br>
 </section>
 <section class="background">
- <section class="research-areas">
-  <h3>Áreas de investigación</h3>
+ <section class="research-areas" style="text-align: center; font-size: 1.7rem; font-weight: bold">
+  <h3">Áreas de investigación</h3>
   <div class="grid-container">
     <div class="card card1">
       <div class="card-content">
