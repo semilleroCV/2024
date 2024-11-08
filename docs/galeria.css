@@ -1,8 +1,8 @@
+
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 20px; /* Espacio entre ítems */
-  padding: 20px; /* Espacio alrededor de la cuadrícula */
   overflow: hidden; /* Oculta el desbordamiento */
 }
 
@@ -17,6 +17,7 @@
   width: 100%; /* Hace que las imágenes se expandan para llenar el contenedor */
   height: auto; /* Mantiene la proporción de las imágenes */
   margin-bottom: 10px; /* Espacio entre la imagen y el título */
+  
   
 }
 
@@ -37,14 +38,16 @@
 
 .card h3 {
   text-align: center; /* Center the title */
-  margin-top: 20px; /* Add some space above the title */
   overflow: hidden;
+  color: #000;
+
 }
 
 .card img {
   width: 100%; /* Make images fill the card */
-  height: auto;
+  height: 1000px;
 }
+
 .card:hover {
   box-shadow: 0 8px 16px rgba(0,0,0,0.2);
   cursor: pointer; /* Change cursor to pointer on hover */

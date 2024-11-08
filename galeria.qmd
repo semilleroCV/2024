@@ -15,51 +15,56 @@ format:
   <div class="grid-item">
     <a href="/models/fight.html" class="card">
       <img src="/images/fight.png" alt="Image1">
-      <h3>Lucha</h3>
   </a>
-
+  <h4>Lucha</h4>
   </div>
   
   <div class="grid-item">
     <a href="/models/miguel.html" class="card">
       <img src="/images/miguel2.png" alt="Image2">
-      <h3>Miguel Angel</h3>
   </a>
+  <h4>Miguel Angel</h4>
+
   </div>
 
   <div class="grid-item">
     <a href="/models/escritorio.html" class="card">
       <img src="/images/escritorio.png" alt="Image3">
-     <h3>Escritorio</h3>
   </a>
+    <h4>Escritorio</h4>
+
   </div>
 
   <div class="grid-item">
     <a href="/models/detection.html" class="card">
       <img src="/images/object.png" alt="Image3">
-     <h3>Deteccion de objetos</h3>
   </a>
+    <h4>Deteccion de objetos</h4>
+
   </div>
 
   <div class="grid-item">
     <a href="/models/depth.html" class="card">
       <img src="/images/gatodepth.png" alt="Image3">
-     <h3>Imagen a Point cloud</h3>
   </a>
+    <h4>Imagen a Point cloud</h4>
+
   </div>
 
   <div class="grid-item">
     <a href="/models/segment.html" class="card">
       <img src="/images/segment.jpg" alt="Image3">
-     <h3>Segmentacion</h3>
   </a>
+    <h4>Segmentacion</h4>
+
   </div>
 
   <div class="grid-item">
     <a href="/models/depth2.html" class="card">
       <img src="/images/depth2.png" alt="Image3">
-     <h3>Estimacion de la profundidad</h3>
   </a>
+    <h4>Estimacion de la profundidad</h4>
+
 </div>
 
 
