@@ -54,8 +54,7 @@ include-in-header:
 </div>
 
 <div class="buttons">
-    <a target="_blank" href="#" class="button">Paper</a>
-    <a href="#" class="button">Code</a>
+    <a target="_blank" href="https://github.com/paularguello07/Fashion_garments_measurements" class="button">Code</a>
 </div>
 
 <div class="image-placeholder" style="overflow:clip;">

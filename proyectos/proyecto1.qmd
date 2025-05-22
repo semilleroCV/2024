@@ -55,7 +55,7 @@ include-in-header:
 
 <div class="buttons">
     <a target="_blank" href="../images/proyectos_finales/papers/project1.pdf" class="button">Paper</a>
-    <a href="#" class="button">Code</a>
+    <a target="_blank" href="https://github.com/pauzca/Structure_From_Motion" class="button">Code</a>
 </div>
 
 
