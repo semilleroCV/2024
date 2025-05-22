@@ -53,10 +53,8 @@ include-in-header:
     <!-- Si hay un sexto autor, añade otra div aquí -->
 </div>
 
-<p class="affiliation">Universidad Industrial de Santander, Colombia</p>
-<p class="conference">Semillero HOCV 2024</p>
 <div class="buttons">
-    <a href="#" class="button">Paper</a>
+    <a target="_blank" href="../images/proyectos_finales/papers/project1.pdf" class="button">Paper</a>
     <a href="#" class="button">Code</a>
 </div>
 

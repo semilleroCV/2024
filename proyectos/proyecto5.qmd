@@ -46,11 +46,16 @@ include-in-header:
         <img src="../images/proyectos_finales/proyecto5/tutor.jpeg"  alt="Cristian Rey" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
         <p style="margin-top: 5px;">Cristian Rey</p>
     </div>
-     <div class="image-placeholder">
-       <image src="../images/proyectos_finales/proyecto5/poster.jpeg"  style=" height: 100%;">    
-     </div>
+     
      </div>
 
+    <div class="buttons">
+      <a target="_blank" href="../images/proyectos_finales/papers/project5.pdf" class="button">Paper</a>
+      <a target="_blank" href="https://github.com/CristianR8/spectral-image-classifier/tree/main" class="button">Code</a>
+    </div>
+   <div class="image-placeholder">
+       <image src="../images/proyectos_finales/proyecto5/poster.jpeg"  style=" height: 100%;">    
+     </div>
     <div class="abstract">
         <h2>Resumen</h2>
         <p>En este proyecto, utilizamos el dataset de Pavia Center, que representa unaregión de la ciudad de Pavia en Italia, para realizar un análisis avanzado de imágeneshiperespectrales. Preprocesamos los datos para optimizar su calidad y relevancia,asegurando que estuvieran listos para su análisis mediante técnicas de aprendizajeprofundo. Utilizamos el modelo "SpectralNET", un modelo innovador que combina elpoder de las redes neuronales con la capacidad de análisis espectral, lo que nospermitió extraer características complejas y patrones únicos en las imágenes.</p>
